@@ -1,0 +1,2244 @@
+SN.,Roll No,Batch / Term Code,Course Code,Course,Credit,Grade,SPI,CPI
+1,Student 1,Semester 1,CSE101,Introduction to Programming,4,F,4.75,4.75
+2,Student 1,Semester 3,CSE201,Advanced Programming,4,I,,
+3,Student 1,Semester 1,CSE111,Digital Circuits,4,C,4.75,4.75
+4,Student 1,Semester 1,COM101,Communication Skills,4,B-,4.75,4.75
+5,Student 1,Semester 3,CSE231,Operating Systems ,4,I,,
+6,Student 1,Semester 3,MTH201,Probability and Statistics ,4,I,,
+7,Student 1,Semester 2,CSE102,Data Structures and Algorithms,4,F,5.0,4.88
+8,Student 1,Semester 2,CSE122*,Theory of Computation,4,D,5.0,4.88
+9,Student 1,Semester 3,COM201,Critical Reading,4,I,,
+10,Student 1,Semester 2,HSS101*,Technology and Society,4,C,5.0,4.88
+11,Student 1,Semester 1,CSE121,Discrete Mathematics,4,D,4.75,4.75
+12,Student 1,Semester 2,CSE112,Computer Organisation,4,B-,5.0,4.88
+13,Student 1,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,I,,
+14,Student 1,Semester 2,CSE131-1*,System Management,2,B-,5.0,4.88
+15,Student 2,Semester 6,CSE232,Computer Networks,4,D,3.6,3.97
+16,Student 2,Semester 4,CSE232,Computer Networks,4,F,3.6,3.25
+17,Student 2,Semester 8,MTH202,Maths : Algebra,4,D,5.92,4.83
+18,Student 2,Semester 5,CSE511,Computer Architecture,4,F,5.1,3.96
+19,Student 2,Semester 3,CSE201,Advanced Programming,4,,3.17,2.67
+20,Student 2,Semester 3,COM201,Critical Reading,4,F,3.17,2.67
+21,Student 2,Semester 4,CSE112,Computer Organisation,4,D,3.6,3.25
+22,Student 2,Semester 6,CSE535,Mobile Computing,4,F,3.6,3.97
+23,Student 2,Semester 3,CSE231,Operating Systems ,4,,3.17,2.67
+24,Student 2,Semester 3,MTH201,Probability and Statistics ,4,F,3.17,2.67
+25,Student 2,Semester 6,COM301,Technical Communication,4,C,3.6,3.97
+26,Student 2,Semester 5,FIN401,Foundations of Finance ,4,C-,5.1,3.96
+27,Student 2,Semester 3,CSE231,Operating Systems ,4,C-,3.17,2.67
+28,Student 2,Semester 4,CSE222,Analysis and Design of Algorithms,4,D,3.6,3.25
+29,Student 2,Semester 8,CSE538*,Ad-hoc Wireless Networks,4,B-,5.92,4.83
+30,Student 2,Semester 5,CSE694C,Privacy and Security in Online Social Media,2,B,5.1,3.96
+31,Student 2,Semester 7,CSE506,Data Mining,4,C-,5.9,4.52
+32,Student 2,Semester 8,BIO505*,Introduction to Computational Neuroscience,4,C-,5.92,4.83
+33,Student 2,Semester 7,ECO301,Introduction to Economic Analysis,4,D,5.9,4.52
+34,Student 2,Semester 6,CSE606,Data Warehousing,4,D,3.6,3.97
+35,Student 2,Semester 6,ECO301,Introduction to Economic Analysis,4,F,3.6,3.97
+36,Student 2,Semester 5,PHS501,Integrated Health Information Architectures,2,B-,5.1,3.96
+37,Student 2,Semester 8,ENT402,Entrepreneurship: Managing a Venture,2,B-,5.92,4.83
+38,Student 2,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A-,5.9,4.52
+39,Student 2,Semester 7,ENT401,Entrepreneurship as a Career,2,C,5.9,4.52
+40,Student 2,Semester 4,HSS204*,Introduction to Psychology,4,C,3.6,3.25
+41,Student 2,Semester 5,PHY301,Physics,4,C,5.1,3.96
+42,Student 2,Semester 8,COM333,Organisational Behavior,2,B,5.92,4.83
+43,Student 2,Semester 4,ESC202,Digital Communication,4,F,3.6,3.25
+44,Student 2,Semester 7,CSE300,Software Engineering ,4,C,5.9,4.52
+45,Student 2,Semester 8,PHY302,Semiconductors and Optics,4,B-,5.92,4.83
+46,Student 2,Semester 3,MTH201,Probability and Statistics ,4,F,3.17,2.67
+47,Student 2,Semester 5,BTY301,Introduction to Biotechnology ,4,C-,5.1,3.96
+48,Student 2,Semester 8,CSE440,Intelligent Systems 1,4,C-,5.92,4.83
+49,Student 2,Semester 7,CSE501,Designing Human-Centered Systems,4,B-,5.9,4.52
+50,Student 2,Semester 3,CSE201,Advanced Programming,4,D,3.17,2.67
+51,Student 2,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,D,3.17,2.67
+52,Student 3,Semester 5,FIN401,Foundations of Finance ,4,C-,4.25,4.97
+53,Student 3,Semester 3,COM201,Critical Reading,4,F,2.8,4.74
+54,Student 3,Semester 1,CSE111,Digital Circuits,4,B,6.25,6.25
+55,Student 3,Semester 6,CSE232,Computer Networks,4,,,
+56,Student 3,Semester 2,CSE122*,Theory of Computation,4,B-,5.56,5.88
+57,Student 3,Semester 4,CSE222,Analysis and Design of Algorithms,4,D,5.0,4.8
+58,Student 3,Semester 2,CSE102,Data Structures and Algorithms,4,C,5.56,5.88
+59,Student 3,Semester 5,MTH201,Probability and Statistics ,4,D,4.25,4.97
+60,Student 3,Semester 4,CSE202,Fundamentals of Database Systems,4,C,5.0,4.8
+61,Student 3,Semester 4,CSE232,Computer Networks,4,F,5.0,4.8
+62,Student 3,Semester 1,COM101,Communication Skills,4,B-,6.25,6.25
+63,Student 3,Semester 5,COM201,Critical Reading,4,F,4.25,4.97
+64,Student 3,Semester 5,ESC203*,Signal and Systems,4,C,4.25,4.97
+65,Student 3,Semester 3,CSE231,Operating Systems ,4,F,2.8,4.74
+66,Student 3,Semester 2,HSS101*,Technology and Society,4,F,5.56,5.88
+67,Student 3,Semester 3,CSE201,Advanced Programming,4,D,2.8,4.74
+68,Student 3,Semester 6,HSS204*,Introduction to Psychology,4,,,
+69,Student 3,Semester 1,CSE121,Discrete Mathematics,4,C,6.25,6.25
+70,Student 3,Semester 2,CSE131-1*,System Management,2,C,5.56,5.88
+71,Student 3,Semester 2,CSE112,Computer Organisation,4,B-,5.56,5.88
+72,Student 3,Semester 3,MTH201,Probability and Statistics ,4,F,2.8,4.74
+73,Student 3,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,D,2.8,4.74
+74,Student 3,Semester 1,CSE101,Introduction to Programming,4,D,6.25,6.25
+75,Student 3,Semester 4,HSS202*,Perspectives on Knowledge,4,B,5.0,4.8
+76,Student 3,Semester 6,CSE535,Mobile Computing,4,,,
+77,Student 3,Semester 6,ECO301,Introduction to Economic Analysis,4,,,
+78,Student 3,Semester 5,CSE500,Secure Coding,4,W,4.25,4.97
+79,Student 4,Semester 8,CSE531,Multiagent Systems,4,A-,9.4,8.89
+80,Student 4,Semester 2,CSE131-1*,System Management,2,A-,8.33,8.18
+81,Student 4,Semester 4,ESC202,Digital Communication,4,B-,7.4,8.24
+82,Student 4,Semester 8,CSE330,Distributed Systems ,4,A,9.4,8.89
+83,Student 4,Semester 7,CSE343,Machine Learning,4,A,10.0,8.82
+84,Student 4,Semester 2,HSS201*,Research Methods,4,A-,8.33,8.18
+85,Student 4,Semester 6,CSE606,Data Warehousing,4,A,9.8,8.65
+86,Student 4,Semester 6,CSE342*,Pattern Recognition,4,A,9.8,8.65
+87,Student 4,Semester 5,CSE546,Applied Cryptography,4,B,9.0,8.4
+88,Student 4,Semester 6,FIN402,Valuation and Portfolio Management,4,A,9.8,8.65
+89,Student 4,Semester 3,CSE231,Operating Systems ,4,A-,9.2,8.56
+90,Student 4,Semester 4,HSS204*,Introduction to Psychology,4,B-,7.4,8.24
+91,Student 4,Semester 7,CSE501,Designing Human-Centered Systems,4,A,10.0,8.82
+92,Student 4,Semester 3,MTH201,Probability and Statistics ,4,A-,9.2,8.56
+93,Student 4,Semester 5,CSE300,Software Engineering ,4,A-,9.0,8.4
+94,Student 4,Semester 1,CSE121,Discrete Mathematics,4,B-,8.0,8.0
+95,Student 4,Semester 3,COM201,Critical Reading,4,A,9.2,8.56
+96,Student 4,Semester 1,COM101,Communication Skills,4,A-,8.0,8.0
+97,Student 4,Semester 1,CSE101,Introduction to Programming,4,B,8.0,8.0
+98,Student 4,Semester 7,CSE399,Independent Project,4,A+,10.0,8.82
+99,Student 4,Semester 6,HSS206*,Introduction to Film Studies,4,A,9.8,8.65
+100,Student 4,Semester 3,CSE201,Advanced Programming,4,B,9.2,8.56
+101,Student 4,Semester 5,CSE340*,Image Analysis ,4,A-,9.0,8.4
+102,Student 4,Semester 4,CSE202,Fundamentals of Database Systems,4,B-,7.4,8.24
+103,Student 4,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A,9.2,8.56
+104,Student 4,Semester 2,CSE122*,Theory of Computation,4,B,8.33,8.18
+105,Student 4,Semester 8,COM301,Technical Communication,4,A,9.4,8.89
+106,Student 4,Semester 8,CSE399,Independent Project,4,A,9.4,8.89
+107,Student 4,Semester 5,FIN401,Foundations of Finance ,4,A-,9.0,8.4
+108,Student 4,Semester 6,CSE535,Mobile Computing,4,A-,9.8,8.65
+109,Student 4,Semester 2,CSE102,Data Structures and Algorithms,4,B-,8.33,8.18
+110,Student 4,Semester 4,CSE232,Computer Networks,4,B,7.4,8.24
+111,Student 4,Semester 4,CSE222,Analysis and Design of Algorithms,4,B,7.4,8.24
+112,Student 4,Semester 1,CSE111,Digital Circuits,4,B,8.0,8.0
+113,Student 4,Semester 5,CSE506,Data Mining,4,A,9.0,8.4
+114,Student 4,Semester 8,ECO302,Applied Econometric Analysis,4,B,9.4,8.89
+115,Student 4,Semester 2,CSE112,Computer Organisation,4,A-,8.33,8.18
+116,Student 4,Semester 7,ECO301,Introduction to Economic Analysis,4,A,10.0,8.82
+117,Student 5,Semester 1,COM101,Communication Skills,4,B,,
+118,Student 5,Semester 2,CSE122*,Theory of Computation,4,D,,
+119,Student 5,Semester 2,CSE131-1*,System Management,2,B-,,
+120,Student 5,Semester 2,CSE102,Data Structures and Algorithms,4,F,,
+121,Student 5,Semester 1,CSE121,Discrete Mathematics,4,F,,
+122,Student 5,Semester 1,CSE101,Introduction to Programming,4,F,,
+123,Student 5,Semester 1,CSE111,Digital Circuits,4,D,,
+124,Student 5,Semester 2,CSE112,Computer Organisation,4,F,,
+125,Student 5,Semester 2,HSS101*,Technology and Society,4,C,,
+126,Student 6,Semester 5,CSE345,Foundations of Computer Security,4,B-,5.8,6.66
+127,Student 6,Semester 2,CSE122*,Theory of Computation,4,C,7.22,6.76
+128,Student 6,Semester 5,FIN401,Foundations of Finance ,4,B-,5.8,6.66
+129,Student 6,Semester 4,CSE232,Computer Networks,4,C,6.2,6.89
+130,Student 6,Semester 2,CSE112,Computer Organisation,4,B,7.22,6.76
+131,Student 6,Semester 2,CSE131-1*,System Management,2,A-,7.22,6.76
+132,Student 6,Semester 1,COM101,Communication Skills,4,A-,6.25,6.25
+133,Student 6,Semester 4,HSS204*,Introduction to Psychology,4,B-,6.2,6.89
+134,Student 6,Semester 7,PHY301,Physics,4,C,7.56,6.83
+135,Student 6,Semester 6,FIN402,Valuation and Portfolio Management,4,B-,7.0,6.72
+136,Student 6,Semester 8,COM301,Technical Communication,4,B,7.5,6.91
+137,Student 6,Semester 8,CSE538*,Ad-hoc Wireless Networks,4,B-,7.5,6.91
+138,Student 6,Semester 3,CSE231,Operating Systems ,4,B,7.8,7.15
+139,Student 6,Semester 4,ESC202,Digital Communication,4,C-,6.2,6.89
+140,Student 6,Semester 8,CSE330,Distributed Systems ,4,B,7.5,6.91
+141,Student 6,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,B,7.8,7.15
+142,Student 6,Semester 1,CSE111,Digital Circuits,4,C,6.25,6.25
+143,Student 6,Semester 6,CSE535,Mobile Computing,4,B-,7.0,6.72
+144,Student 6,Semester 8,PHY302,Semiconductors and Optics,4,B-,7.5,6.91
+145,Student 6,Semester 6,CSE537,Embedded Systems,4,B,7.0,6.72
+146,Student 6,Semester 1,CSE101,Introduction to Programming,4,C-,6.25,6.25
+147,Student 6,Semester 3,COM201,Critical Reading,4,B,7.8,7.15
+148,Student 6,Semester 6,CSE342*,Pattern Recognition,4,C-,7.0,6.72
+149,Student 6,Semester 7,ECO301,Introduction to Economic Analysis,4,B-,7.56,6.83
+150,Student 6,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A,7.56,6.83
+151,Student 6,Semester 4,CSE222,Analysis and Design of Algorithms,4,B-,6.2,6.89
+152,Student 6,Semester 7,CSE506,Data Mining,4,B-,7.56,6.83
+153,Student 6,Semester 1,CSE121,Discrete Mathematics,4,C-,6.25,6.25
+154,Student 6,Semester 6,HSS206*,Introduction to Film Studies,4,B,7.0,6.72
+155,Student 6,Semester 3,MTH201,Probability and Statistics ,4,C,7.8,7.15
+156,Student 6,Semester 5,CSE300,Software Engineering ,4,D,5.8,6.66
+157,Student 6,Semester 5,CSE340*,Image Analysis ,4,B-,5.8,6.66
+158,Student 6,Semester 2,CSE102,Data Structures and Algorithms,4,B-,7.22,6.76
+159,Student 6,Semester 4,CSE202,Fundamentals of Database Systems,4,C,6.2,6.89
+160,Student 6,Semester 7,CSE501,Designing Human-Centered Systems,4,A-,7.56,6.83
+161,Student 6,Semester 5,CSE546,Applied Cryptography,4,D,5.8,6.66
+162,Student 6,Semester 2,HSS202*,Perspectives on Knowledge,4,B-,7.22,6.76
+163,Student 6,Semester 3,CSE201,Advanced Programming,4,A-,7.8,7.15
+164,Student 7,Semester 2,HSS101*,Technology and Society,4,F,,
+165,Student 7,Semester 2,CSE102,Data Structures and Algorithms,4,F,,
+166,Student 7,Semester 1,COM101,Communication Skills,4,B-,,
+167,Student 7,Semester 1,CSE121,Discrete Mathematics,4,F,,
+168,Student 7,Semester 2,CSE112,Computer Organisation,4,F,,
+169,Student 7,Semester 1,CSE111,Digital Circuits,4,F,,
+170,Student 7,Semester 2,CSE122*,Theory of Computation,4,F,,
+171,Student 7,Semester 1,CSE101,Introduction to Programming,4,F,,
+172,Student 7,Semester 2,CSE131-1*,System Management,2,C,,
+173,Student 8,Semester 8,CSE330,Distributed Systems ,4,B-,7.75,7.4
+174,Student 8,Semester 5,FIN401,Foundations of Finance ,4,B-,8.2,6.81
+175,Student 8,Semester 3,MTH201,Probability and Statistics ,4,C,7.0,6.3
+176,Student 8,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,A-,9.0,7.19
+177,Student 8,Semester 4,CSE222,Analysis and Design of Algorithms,4,B-,6.8,6.43
+178,Student 8,Semester 6,DES301,Exploring Visual Design,4,A-,9.0,7.19
+179,Student 8,Semester 2,CSE122*,Theory of Computation,4,C,6.22,5.88
+180,Student 8,Semester 7,ECO301,Introduction to Economic Analysis,4,B-,8.5,7.35
+181,Student 8,Semester 4,ESC202,Digital Communication,4,C,6.8,6.43
+182,Student 8,Semester 8,HSS206*,Introduction to Film Studies,4,B-,7.75,7.4
+183,Student 8,Semester 1,CSE111,Digital Circuits,4,D,5.5,5.5
+184,Student 8,Semester 5,CSE506,Data Mining,4,A-,8.2,6.81
+185,Student 8,Semester 6,CSE606,Data Warehousing,4,A-,9.0,7.19
+186,Student 8,Semester 7,CSE398A-1,Independent Study,4,A,8.5,7.35
+187,Student 8,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,B,7.0,6.3
+188,Student 8,Semester 1,CSE101,Introduction to Programming,4,D,5.5,5.5
+189,Student 8,Semester 1,CSE121,Discrete Mathematics,4,D,5.5,5.5
+190,Student 8,Semester 2,CSE102,Data Structures and Algorithms,4,C,6.22,5.88
+191,Student 8,Semester 7,PHY301,Physics,4,A-,8.5,7.35
+192,Student 8,Semester 8,CSE694F,Multimedia Security,4,B,7.75,7.4
+193,Student 8,Semester 2,CSE112,Computer Organisation,4,C-,6.22,5.88
+194,Student 8,Semester 4,CSE232,Computer Networks,4,D,6.8,6.43
+195,Student 8,Semester 4,CSE202,Fundamentals of Database Systems,4,B-,6.8,6.43
+196,Student 8,Semester 3,CSE201,Advanced Programming,4,C,7.0,6.3
+197,Student 8,Semester 7,CSE501,Designing Human-Centered Systems,4,B,8.5,7.35
+198,Student 8,Semester 3,CSE231,Operating Systems ,4,B,7.0,6.3
+199,Student 8,Semester 5,CSE345,Foundations of Computer Security,4,B,8.2,6.81
+200,Student 8,Semester 5,CSE300,Software Engineering ,4,B,8.2,6.81
+201,Student 8,Semester 4,HSS204*,Introduction to Psychology,4,A,6.8,6.43
+202,Student 8,Semester 6,CSE538*,Ad-hoc Wireless Networks,4,B,9.0,7.19
+203,Student 8,Semester 1,COM101,Communication Skills,4,A,5.5,5.5
+204,Student 8,Semester 2,CSE131-1*,System Management,2,B,6.22,5.88
+205,Student 8,Semester 2,HSS202*,Perspectives on Knowledge,4,B-,6.22,5.88
+206,Student 8,Semester 5,BTY301,Introduction to Biotechnology ,4,A-,8.2,6.81
+207,Student 8,Semester 8,COM301,Technical Communication,4,A-,7.75,7.4
+208,Student 8,Semester 3,COM201,Critical Reading,4,B-,7.0,6.3
+209,Student 8,Semester 6,PHY302,Semiconductors and Optics,4,A,9.0,7.19
+210,Student 9,Semester 1,CSE101,Introduction to Programming,4,D,,
+211,Student 9,Semester 1,CSE121,Discrete Mathematics,4,C-,,
+212,Student 9,Semester 1,CSE111,Digital Circuits,4,D,,
+213,Student 9,Semester 2,CSE122*,Theory of Computation,4,F,,
+214,Student 9,Semester 1,COM101,Communication Skills,4,A-,,
+215,Student 9,Semester 2,HSS101*,Technology and Society,4,F,,
+216,Student 9,Semester 2,CSE112,Computer Organisation,4,F,,
+217,Student 9,Semester 2,CSE131-1*,System Management,2,B-,,
+218,Student 9,Semester 2,CSE102,Data Structures and Algorithms,4,D,,
+219,Student 10,Semester 7,ENT401,Entrepreneurship as a Career,2,B,7.5,6.55
+220,Student 10,Semester 6,CSE535,Mobile Computing,4,B-,7.0,6.42
+221,Student 10,Semester 3,COM201,Critical Reading,4,B,6.6,6.44
+222,Student 10,Semester 7,CSE648,Privacy and Security in Online Social Media,4,B-,7.5,6.55
+223,Student 10,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,B-,7.0,6.6
+224,Student 10,Semester 8,COM301,Technical Communication,4,B-,7.0,6.6
+225,Student 10,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,B,7.5,6.55
+226,Student 10,Semester 4,CSE222,Analysis and Design of Algorithms,4,C-,5.8,6.27
+227,Student 10,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,C,6.6,6.44
+228,Student 10,Semester 6,CSE606,Data Warehousing,4,B-,7.0,6.42
+229,Student 10,Semester 3,CSE231,Operating Systems ,4,B,6.6,6.44
+230,Student 10,Semester 1,CSE121,Discrete Mathematics,4,C-,6.75,6.75
+231,Student 10,Semester 1,CSE111,Digital Circuits,4,C,6.75,6.75
+232,Student 10,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,A-,7.0,6.42
+233,Student 10,Semester 8,CSE440,Intelligent Systems 1,4,C,7.0,6.6
+234,Student 10,Semester 6,HSS206*,Introduction to Film Studies,4,B,7.0,6.42
+235,Student 10,Semester 3,MTH201,Probability and Statistics ,4,D,6.6,6.44
+236,Student 10,Semester 4,HSS204*,Introduction to Psychology,4,C,5.8,6.27
+237,Student 10,Semester 2,CSE131-1*,System Management,2,B,6.0,6.35
+238,Student 10,Semester 5,CSE300,Software Engineering ,4,C-,6.4,6.3
+239,Student 10,Semester 1,COM101,Communication Skills,4,B,6.75,6.75
+240,Student 10,Semester 2,HSS201*,Research Methods,4,C,6.0,6.35
+241,Student 10,Semester 5,CSE340*,Image Analysis ,4,C,6.4,6.3
+242,Student 10,Semester 2,CSE102,Data Structures and Algorithms,4,D,6.0,6.35
+243,Student 10,Semester 2,CSE112,Computer Organisation,4,B,6.0,6.35
+244,Student 10,Semester 4,CSE202,Fundamentals of Database Systems,4,C,5.8,6.27
+245,Student 10,Semester 4,CSE232,Computer Networks,4,C,5.8,6.27
+246,Student 10,Semester 6,ECO301,Introduction to Economic Analysis,4,D,7.0,6.42
+247,Student 10,Semester 5,FIN401,Foundations of Finance ,4,B-,6.4,6.3
+248,Student 10,Semester 2,CSE122*,Theory of Computation,4,C-,6.0,6.35
+249,Student 10,Semester 3,CSE201,Advanced Programming,4,B-,6.6,6.44
+250,Student 10,Semester 5,CSE345,Foundations of Computer Security,4,B-,6.4,6.3
+251,Student 10,Semester 7,CSE501,Designing Human-Centered Systems,4,B,7.5,6.55
+252,Student 10,Semester 5,CSE506,Data Mining,4,B-,6.4,6.3
+253,Student 10,Semester 1,CSE101,Introduction to Programming,4,B,6.75,6.75
+254,Student 10,Semester 8,CSE694F,Multimedia Security,4,B,7.0,6.6
+255,Student 10,Semester 4,ESC202,Digital Communication,4,C,5.8,6.27
+256,Student 10,Semester 7,PHY301,Physics,4,B-,7.5,6.55
+257,Student 11,Semester 1,COM101,Communication Skills,4,A,7.75,7.75
+258,Student 11,Semester 3,CSE231,Operating Systems ,4,B-,6.4,6.81
+259,Student 11,Semester 2,HSS101*,Technology and Society,4,B,6.44,7.06
+260,Student 11,Semester 4,CSE232,Computer Networks,4,C-,6.4,6.7
+261,Student 11,Semester 2,CSE112,Computer Organisation,4,C,6.44,7.06
+262,Student 11,Semester 2,CSE131-1*,System Management,2,B,6.44,7.06
+263,Student 11,Semester 6,FIN402,Valuation and Portfolio Management,4,B-,7.6,7.11
+264,Student 11,Semester 1,CSE111,Digital Circuits,4,C,7.75,7.75
+265,Student 11,Semester 7,ECO303,Economics of Information and IT,4,B-,8.8,7.36
+266,Student 11,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,C-,6.4,6.81
+267,Student 11,Semester 6,CSE606,Data Warehousing,4,A-,7.6,7.11
+268,Student 11,Semester 7,CSE399,Independent Project,4,A,8.8,7.36
+269,Student 11,Semester 6,CSE535,Mobile Computing,4,B,7.6,7.11
+270,Student 11,Semester 8,COM301,Technical Communication,4,A-,8.0,7.43
+271,Student 11,Semester 1,CSE101,Introduction to Programming,4,A-,7.75,7.75
+272,Student 11,Semester 5,CSE506,Data Mining,4,B,8.1,7.0
+273,Student 11,Semester 7,CSE499,BTech Project,4,A,8.8,7.36
+274,Student 11,Semester 1,CSE121,Discrete Mathematics,4,C,7.75,7.75
+275,Student 11,Semester 4,CSE222,Analysis and Design of Algorithms,4,B-,6.4,6.7
+276,Student 11,Semester 5,CSE300,Software Engineering ,4,B,8.1,7.0
+277,Student 11,Semester 5,CSE691A,Application Development for Web2.0 Social Media Platforms,2,B-,8.1,7.0
+278,Student 11,Semester 2,CSE102,Data Structures and Algorithms,4,B-,6.44,7.06
+279,Student 11,Semester 6,HSS205*,Introduction to Sociology,4,C,7.6,7.11
+280,Student 11,Semester 4,CSE202,Fundamentals of Database Systems,4,B-,6.4,6.7
+281,Student 11,Semester 5,CSE694C,Privacy and Security in Online Social Media,2,A,8.1,7.0
+282,Student 11,Semester 8,COM333,Organisational Behavior,2,B,8.0,7.43
+283,Student 11,Semester 5,CSE345,Foundations of Computer Security,4,B,8.1,7.0
+284,Student 11,Semester 5,FIN401,Foundations of Finance ,4,B,8.1,7.0
+285,Student 11,Semester 3,CSE201,Advanced Programming,4,B,6.4,6.81
+286,Student 11,Semester 3,MTH201,Probability and Statistics ,4,C,6.4,6.81
+287,Student 11,Semester 2,CSE122*,Theory of Computation,4,D,6.44,7.06
+288,Student 11,Semester 8,CSE499A,BTech Project,8,A-,8.0,7.43
+289,Student 11,Semester 6,ECO301,Introduction to Economic Analysis,4,B,7.6,7.11
+290,Student 11,Semester 4,ESC202,Digital Communication,4,C-,6.4,6.7
+291,Student 11,Semester 3,COM201,Critical Reading,4,C,6.4,6.81
+292,Student 11,Semester 7,CSE691B,Web Intelligence and Big Data,2,A,8.8,7.36
+293,Student 11,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A,8.8,7.36
+294,Student 11,Semester 8,MTH202,Maths : Algebra,4,C-,8.0,7.43
+295,Student 11,Semester 4,HSS201*,Research Methods,4,B,6.4,6.7
+296,Student 11,Semester 7,PHY301,Physics,4,B-,8.8,7.36
+297,Student 12,Semester 3,CSE201,Advanced Programming,4,D,4.8,5.07
+298,Student 12,Semester 4,CSE232,Computer Networks,4,F,3.75,4.77
+299,Student 12,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,D,4.8,5.07
+300,Student 12,Semester 4,HSS204*,Introduction to Psychology,4,I,3.75,4.77
+301,Student 12,Semester 2,CSE131-1*,System Management,2,B-,4.78,5.24
+302,Student 12,Semester 3,CSE231,Operating Systems ,4,C,4.8,5.07
+303,Student 12,Semester 4,CSE222,Analysis and Design of Algorithms,4,C,3.75,4.77
+304,Student 12,Semester 2,CSE102,Data Structures and Algorithms,4,D,4.78,5.24
+305,Student 12,Semester 1,CSE101,Introduction to Programming,4,D,5.75,5.75
+306,Student 12,Semester 2,CSE122*,Theory of Computation,4,D,4.78,5.24
+307,Student 12,Semester 1,CSE121,Discrete Mathematics,4,D,5.75,5.75
+308,Student 12,Semester 4,ESC202,Digital Communication,4,C-,3.75,4.77
+309,Student 12,Semester 3,COM201,Critical Reading,4,C,4.8,5.07
+310,Student 12,Semester 1,CSE111,Digital Circuits,4,C,5.75,5.75
+311,Student 12,Semester 2,HSS202*,Perspectives on Knowledge,4,C-,4.78,5.24
+312,Student 12,Semester 4,CSE202,Fundamentals of Database Systems,4,F,3.75,4.77
+313,Student 12,Semester 3,MTH201,Probability and Statistics ,4,D,4.8,5.07
+314,Student 12,Semester 1,COM101,Communication Skills,4,A-,5.75,5.75
+315,Student 12,Semester 2,CSE112,Computer Organisation,4,C-,4.78,5.24
+316,Student 13,Semester 5,CSE111,Digital Circuits,4,C-,6.8,5.67
+317,Student 13,Semester 8,PHY302,Semiconductors and Optics,4,B,6.8,6.22
+318,Student 13,Semester 6,HSS205*,Introduction to Sociology,4,C-,6.2,5.76
+319,Student 13,Semester 5,CSE345,Foundations of Computer Security,4,A-,6.8,5.67
+320,Student 13,Semester 4,CSE202,Fundamentals of Database Systems,4,B,6.2,5.16
+321,Student 13,Semester 3,CSE231,Operating Systems ,4,D,5.4,4.78
+322,Student 13,Semester 7,CSE499,BTech Project,4,B,7.3,6.13
+323,Student 13,Semester 8,MTH202,Maths : Algebra,4,D,6.8,6.22
+324,Student 13,Semester 5,CSE506,Data Mining,4,C,6.8,5.67
+325,Student 13,Semester 4,CSE232,Computer Networks,4,D,6.2,5.16
+326,Student 13,Semester 4,CSE222,Analysis and Design of Algorithms,4,D,6.2,5.16
+327,Student 13,Semester 8,CSE499B,BTech Project,6,C,6.8,6.22
+328,Student 13,Semester 8,COM333,Organisational Behavior,2,A,6.8,6.22
+329,Student 13,Semester 1,CSE101,Introduction to Programming,4,C-,4.25,4.25
+330,Student 13,Semester 6,CSE535,Mobile Computing,4,B,6.2,5.76
+331,Student 13,Semester 7,PHY301,Physics,4,B-,7.3,6.13
+332,Student 13,Semester 3,COM201,Critical Reading,4,C,5.4,4.78
+333,Student 13,Semester 2,CSE122*,Theory of Computation,4,D,4.56,4.41
+334,Student 13,Semester 7,CSE121,Discrete Mathematics,4,C-,7.3,6.13
+335,Student 13,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A-,7.3,6.13
+336,Student 13,Semester 3,CSE201,Advanced Programming,4,B-,5.4,4.78
+337,Student 13,Semester 1,CSE121,Discrete Mathematics,4,F,4.25,4.25
+338,Student 13,Semester 6,ECO301,Introduction to Economic Analysis,4,D,6.2,5.76
+339,Student 13,Semester 6,CSE606,Data Warehousing,4,B-,6.2,5.76
+340,Student 13,Semester 5,CSE300,Software Engineering ,4,B,6.8,5.67
+341,Student 13,Semester 8,COM301,Technical Communication,4,B,6.8,6.22
+342,Student 13,Semester 4,ESC202,Digital Communication,4,C-,6.2,5.16
+343,Student 13,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,C-,5.4,4.78
+344,Student 13,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,B-,6.2,5.76
+345,Student 13,Semester 2,CSE131-1*,System Management,2,B-,4.56,4.41
+346,Student 13,Semester 7,CSE691B,Web Intelligence and Big Data,2,A,7.3,6.13
+347,Student 13,Semester 2,HSS101*,Technology and Society,4,C-,4.56,4.41
+348,Student 13,Semester 2,CSE112,Computer Organisation,4,D,4.56,4.41
+349,Student 13,Semester 4,HSS204*,Introduction to Psychology,4,A,6.2,5.16
+350,Student 13,Semester 7,ECO303,Economics of Information and IT,4,B-,7.3,6.13
+351,Student 13,Semester 1,CSE111,Digital Circuits,4,F,4.25,4.25
+352,Student 13,Semester 2,CSE102,Data Structures and Algorithms,4,D,4.56,4.41
+353,Student 13,Semester 1,COM101,Communication Skills,4,B,4.25,4.25
+354,Student 13,Semester 3,MTH201,Probability and Statistics ,4,C-,5.4,4.78
+355,Student 13,Semester 5,FIN401,Foundations of Finance ,4,C,6.8,5.67
+356,Student 14,Semester 4,HSS201*,Research Methods,4,C,6.4,7.19
+357,Student 14,Semester 3,CSE201,Advanced Programming,4,C,6.6,7.48
+358,Student 14,Semester 7,CSE511,Computer Architecture,4,B-,8.2,7.48
+359,Student 14,Semester 5,CSE507,Database System Implementation,4,A-,8.0,7.36
+360,Student 14,Semester 5,CSE340*,Image Analysis ,4,B-,8.0,7.36
+361,Student 14,Semester 5,CSE310,Digital Hardware Design,4,A+,8.0,7.36
+362,Student 14,Semester 2,CSE102,Data Structures and Algorithms,4,A-,7.78,8.0
+363,Student 14,Semester 4,CSE222,Analysis and Design of Algorithms,4,A-,6.4,7.19
+364,Student 14,Semester 1,CSE121,Discrete Mathematics,4,B-,8.25,8.25
+365,Student 14,Semester 2,CSE122*,Theory of Computation,4,B-,7.78,8.0
+366,Student 14,Semester 4,CSE232,Computer Networks,4,C-,6.4,7.19
+367,Student 14,Semester 4,ESC202,Digital Communication,4,C-,6.4,7.19
+368,Student 14,Semester 5,CSE300,Software Engineering ,4,B-,8.0,7.36
+369,Student 14,Semester 8,CSE531,Multiagent Systems,4,B,8.0,7.55
+370,Student 14,Semester 8,PHY302,Semiconductors and Optics,4,A-,8.0,7.55
+371,Student 14,Semester 3,CSE231,Operating Systems ,4,B,6.6,7.48
+372,Student 14,Semester 8,COM301,Technical Communication,4,B,8.0,7.55
+373,Student 14,Semester 7,ECO301,Introduction to Economic Analysis,4,A-,8.2,7.48
+374,Student 14,Semester 2,CSE112,Computer Organisation,4,B-,7.78,8.0
+375,Student 14,Semester 6,CSE342*,Pattern Recognition,4,B-,7.25,7.35
+376,Student 14,Semester 1,CSE101,Introduction to Programming,4,A-,8.25,8.25
+377,Student 14,Semester 6,CSE537,Embedded Systems,4,W,7.25,7.35
+378,Student 14,Semester 3,COM201,Critical Reading,4,C,6.6,7.48
+379,Student 14,Semester 4,CSE202,Fundamentals of Database Systems,4,B-,6.4,7.19
+380,Student 14,Semester 6,CSE535,Mobile Computing,4,B,7.25,7.35
+381,Student 14,Semester 7,PHY301,Physics,4,B,8.2,7.48
+382,Student 14,Semester 6,HSS205*,Introduction to Sociology,4,B-,7.25,7.35
+383,Student 14,Semester 6,CSE606,Data Warehousing,4,B-,7.25,7.35
+384,Student 14,Semester 1,CSE111,Digital Circuits,4,A-,8.25,8.25
+385,Student 14,Semester 2,CSE131-1*,System Management,2,B,7.78,8.0
+386,Student 14,Semester 2,HSS101*,Technology and Society,4,B,7.78,8.0
+387,Student 14,Semester 8,CSE694F,Multimedia Security,4,A-,8.0,7.55
+388,Student 14,Semester 7,ECO303,Economics of Information and IT,4,B,8.2,7.48
+389,Student 14,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,B,6.6,7.48
+390,Student 14,Semester 1,COM101,Communication Skills,4,B,8.25,8.25
+391,Student 14,Semester 7,CSE506,Data Mining,4,A-,8.2,7.48
+392,Student 14,Semester 5,FIN401,Foundations of Finance ,4,B-,8.0,7.36
+393,Student 14,Semester 3,MTH201,Probability and Statistics ,4,C-,6.6,7.48
+394,Student 14,Semester 8,CSE330,Distributed Systems ,4,C,8.0,7.55
+395,Student 15,Semester 1,CSE111,Digital Circuits,4,C,6.75,6.75
+396,Student 15,Semester 7,ECO303,Economics of Information and IT,4,B,8.13,5.89
+397,Student 15,Semester 1,COM101,Communication Skills,4,A-,6.75,6.75
+398,Student 15,Semester 6,FIN402,Valuation and Portfolio Management,4,B-,6.0,5.56
+399,Student 15,Semester 6,CSE508,Information Retrieval,4,D,6.0,5.56
+400,Student 15,Semester 2,CSE131-1*,System Management,2,C,4.89,5.76
+401,Student 15,Semester 6,CSE535,Mobile Computing,4,D,6.0,5.56
+402,Student 15,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,B,8.13,5.89
+403,Student 15,Semester 1,CSE101,Introduction to Programming,4,B,6.75,6.75
+404,Student 15,Semester 5,CSE506,Data Mining,4,C,6.0,5.47
+405,Student 15,Semester 7,CSE649,Network Protocol Security,4,A-,8.13,5.89
+406,Student 15,Semester 2,CSE102,Data Structures and Algorithms,4,C,4.89,5.76
+407,Student 15,Semester 5,CSE300,Software Engineering ,4,D,6.0,5.47
+408,Student 15,Semester 1,CSE121,Discrete Mathematics,4,D,6.75,6.75
+409,Student 15,Semester 7,CSE694D,Privacy in Location Based Services ,2,A-,8.13,5.89
+410,Student 15,Semester 5,CSE546,Applied Cryptography,4,D,6.0,5.47
+411,Student 15,Semester 5,COM201,Critical Reading,4,A-,6.0,5.47
+412,Student 15,Semester 5,FIN401,Foundations of Finance ,4,B-,6.0,5.47
+413,Student 15,Semester 3,CSE201,Advanced Programming,4,D,3.6,4.96
+414,Student 15,Semester 8,ECO302,Applied Econometric Analysis,4,C,6.2,5.93
+415,Student 15,Semester 4,ESC202,Digital Communication,4,C-,5.6,5.14
+416,Student 15,Semester 2,CSE122*,Theory of Computation,4,D,4.89,5.76
+417,Student 15,Semester 8,BIO505*,Introduction to Computational Neuroscience,4,C-,6.2,5.93
+418,Student 15,Semester 3,COM201,Critical Reading,4,F,3.6,4.96
+419,Student 15,Semester 6,HSS206*,Introduction to Film Studies,4,B-,6.0,5.56
+420,Student 15,Semester 8,COM301,Technical Communication,4,B,6.2,5.93
+421,Student 15,Semester 8,CSE531,Multiagent Systems,4,B-,6.2,5.93
+422,Student 15,Semester 4,HSS204*,Introduction to Psychology,4,C,5.6,5.14
+423,Student 15,Semester 7,PHY301,Physics,4,B-,8.13,5.89
+424,Student 15,Semester 3,CSE231,Operating Systems ,4,D,3.6,4.96
+425,Student 15,Semester 6,ECO301,Introduction to Economic Analysis,4,B,6.0,5.56
+426,Student 15,Semester 4,CSE232,Computer Networks,4,D,5.6,5.14
+427,Student 15,Semester 2,HSS101*,Technology and Society,4,D,4.89,5.76
+428,Student 15,Semester 4,CSE202,Fundamentals of Database Systems,4,B-,5.6,5.14
+429,Student 15,Semester 3,MTH201,Probability and Statistics ,4,D,3.6,4.96
+430,Student 15,Semester 4,CSE222,Analysis and Design of Algorithms,4,C,5.6,5.14
+431,Student 15,Semester 8,CSE330,Distributed Systems ,4,C-,6.2,5.93
+432,Student 15,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,D,3.6,4.96
+433,Student 15,Semester 2,CSE112,Computer Organisation,4,C-,4.89,5.76
+434,Student 16,Semester 7,ECO303,Economics of Information and IT,4,B,9.0,7.48
+435,Student 16,Semester 6,HSS205*,Introduction to Sociology,4,B-,7.5,7.2
+436,Student 16,Semester 7,CSE511,Computer Architecture,4,B,9.0,7.48
+437,Student 16,Semester 8,COM301,Technical Communication,4,A-,8.4,7.6
+438,Student 16,Semester 8,PHY302,Semiconductors and Optics,4,A-,8.4,7.6
+439,Student 16,Semester 5,CSE507,Database System Implementation,4,B,8.0,7.15
+440,Student 16,Semester 8,CSE330,Distributed Systems ,4,B-,8.4,7.6
+441,Student 16,Semester 8,CSE694F,Multimedia Security,4,A-,8.4,7.6
+442,Student 16,Semester 5,CSE340*,Image Analysis ,4,B-,8.0,7.15
+443,Student 16,Semester 4,CSE222,Analysis and Design of Algorithms,4,B,6.8,6.92
+444,Student 16,Semester 2,CSE102,Data Structures and Algorithms,4,B,7.56,7.41
+445,Student 16,Semester 1,CSE121,Discrete Mathematics,4,C-,7.25,7.25
+446,Student 16,Semester 5,CSE300,Software Engineering ,4,B-,8.0,7.15
+447,Student 16,Semester 1,COM101,Communication Skills,4,B,7.25,7.25
+448,Student 16,Semester 2,HSS101*,Technology and Society,4,A-,7.56,7.41
+449,Student 16,Semester 1,CSE111,Digital Circuits,4,B-,7.25,7.25
+450,Student 16,Semester 2,CSE112,Computer Organisation,4,B-,7.56,7.41
+451,Student 16,Semester 7,PHY301,Physics,4,A-,9.0,7.48
+452,Student 16,Semester 4,CSE202,Fundamentals of Database Systems,4,B,6.8,6.92
+453,Student 16,Semester 3,COM201,Critical Reading,4,C,6.2,6.96
+454,Student 16,Semester 3,CSE231,Operating Systems ,4,B,6.2,6.96
+455,Student 16,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,C,6.2,6.96
+456,Student 16,Semester 2,CSE122*,Theory of Computation,4,C,7.56,7.41
+457,Student 16,Semester 4,ESC202,Digital Communication,4,B-,6.8,6.92
+458,Student 16,Semester 2,CSE131-1*,System Management,2,B,7.56,7.41
+459,Student 16,Semester 6,CSE606,Data Warehousing,4,B-,7.5,7.2
+460,Student 16,Semester 5,CSE310,Digital Hardware Design,4,A,8.0,7.15
+461,Student 16,Semester 3,CSE201,Advanced Programming,4,C,6.2,6.96
+462,Student 16,Semester 7,CSE506,Data Mining,4,A,9.0,7.48
+463,Student 16,Semester 5,FIN401,Foundations of Finance ,4,B,8.0,7.15
+464,Student 16,Semester 4,HSS201*,Research Methods,4,C,6.8,6.92
+465,Student 16,Semester 3,MTH201,Probability and Statistics ,4,C-,6.2,6.96
+466,Student 16,Semester 8,CSE531,Multiagent Systems,4,B,8.4,7.6
+467,Student 16,Semester 6,CSE535,Mobile Computing,4,B-,7.5,7.2
+468,Student 16,Semester 4,CSE232,Computer Networks,4,C-,6.8,6.92
+469,Student 16,Semester 6,CSE537,Embedded Systems,4,W,7.5,7.2
+470,Student 16,Semester 1,CSE101,Introduction to Programming,4,A-,7.25,7.25
+471,Student 16,Semester 6,CSE342*,Pattern Recognition,4,A-,7.5,7.2
+472,Student 16,Semester 7,ECO301,Introduction to Economic Analysis,4,A,9.0,7.48
+473,Student 17,Semester 1,CSE121,Discrete Mathematics,4,D,4.75,4.75
+474,Student 17,Semester 2,HSS101*,Technology and Society,4,B-,3.67,4.18
+475,Student 17,Semester 2,CSE112,Computer Organisation,4,F,3.67,4.18
+476,Student 17,Semester 1,CSE111,Digital Circuits,4,F,4.75,4.75
+477,Student 17,Semester 1,COM101,Communication Skills,4,B,4.75,4.75
+478,Student 17,Semester 2,CSE131-1*,System Management,2,B-,3.67,4.18
+479,Student 17,Semester 2,CSE102,Data Structures and Algorithms,4,F,3.67,4.18
+480,Student 17,Semester 1,CSE101,Introduction to Programming,4,C-,4.75,4.75
+481,Student 17,Semester 2,CSE122*,Theory of Computation,4,F,3.67,4.18
+482,Student 18,Semester 1,COM101,Communication Skills,4,B,4.5,4.5
+483,Student 18,Semester 2,CSE122*,Theory of Computation,4,F,3.78,4.12
+484,Student 18,Semester 1,CSE111,Digital Circuits,4,F,4.5,4.5
+485,Student 18,Semester 2,HSS101*,Technology and Society,4,C,3.78,4.12
+486,Student 18,Semester 1,CSE121,Discrete Mathematics,4,D,4.5,4.5
+487,Student 18,Semester 2,CSE102,Data Structures and Algorithms,4,F,3.78,4.12
+488,Student 18,Semester 2,CSE112,Computer Organisation,4,D,3.78,4.12
+489,Student 18,Semester 1,CSE101,Introduction to Programming,4,D,4.5,4.5
+490,Student 18,Semester 2,CSE131-1*,System Management,2,C,3.78,4.12
+491,Student 19,Semester 8,BIO505*,Introduction to Computational Neuroscience,4,C,6.25,5.95
+492,Student 19,Semester 2,CSE112,Computer Organisation,4,D,5.78,5.65
+493,Student 19,Semester 7,ECO301,Introduction to Economic Analysis,4,C-,7.11,5.91
+494,Student 19,Semester 6,PHY302,Semiconductors and Optics,4,A-,6.8,5.72
+495,Student 19,Semester 5,CSE500,Secure Coding,4,D,5.2,5.49
+496,Student 19,Semester 5,CSE506,Data Mining,4,B-,5.2,5.49
+497,Student 19,Semester 2,CSE102,Data Structures and Algorithms,4,B,5.78,5.65
+498,Student 19,Semester 8,COM333,Organisational Behavior,2,B,6.25,5.95
+499,Student 19,Semester 5,CSE546,Applied Cryptography,4,D,5.2,5.49
+500,Student 19,Semester 8,ENT402,Entrepreneurship: Managing a Venture,2,B,6.25,5.95
+501,Student 19,Semester 7,CSE499,BTech Project,4,B-,7.11,5.91
+502,Student 19,Semester 1,CSE101,Introduction to Programming,4,C,5.5,5.5
+503,Student 19,Semester 8,CSE499,BTech Project,4,B-,6.25,5.95
+504,Student 19,Semester 8,CSE694F,Multimedia Security,4,W,6.25,5.95
+505,Student 19,Semester 5,CSE345,Foundations of Computer Security,4,B-,5.2,5.49
+506,Student 19,Semester 7,ENT401,Entrepreneurship as a Career,2,C,7.11,5.91
+507,Student 19,Semester 2,HSS101*,Technology and Society,4,B-,5.78,5.65
+508,Student 19,Semester 6,CSE535,Mobile Computing,4,C,6.8,5.72
+509,Student 19,Semester 7,PHY301,Physics,4,B-,7.11,5.91
+510,Student 19,Semester 3,MTH201,Probability and Statistics ,4,C-,5.6,5.63
+511,Student 19,Semester 3,CSE201,Advanced Programming,4,C,5.6,5.63
+512,Student 19,Semester 6,HSS207*,Human Values and Professional Ethics,4,C,6.8,5.72
+513,Student 19,Semester 4,ESC202,Digital Communication,4,D,5.4,5.57
+514,Student 19,Semester 6,CSE645,Digital and Cyber Forensic,4,C,6.8,5.72
+515,Student 19,Semester 1,COM101,Communication Skills,4,B,5.5,5.5
+516,Student 19,Semester 1,CSE111,Digital Circuits,4,D,5.5,5.5
+517,Student 19,Semester 2,CSE131-1*,System Management,2,C,5.78,5.65
+518,Student 19,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,D,5.6,5.63
+519,Student 19,Semester 3,COM201,Critical Reading,4,C,5.6,5.63
+520,Student 19,Semester 4,CSE202,Fundamentals of Database Systems,4,C,5.4,5.57
+521,Student 19,Semester 2,CSE122*,Theory of Computation,4,D,5.78,5.65
+522,Student 19,Semester 6,COM301,Technical Communication,4,B-,6.8,5.72
+523,Student 19,Semester 7,CSE691B,Web Intelligence and Big Data,2,A,7.11,5.91
+524,Student 19,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A,7.11,5.91
+525,Student 19,Semester 4,HSS201*,Research Methods,4,B-,5.4,5.57
+526,Student 19,Semester 4,CSE232,Computer Networks,4,D,5.4,5.57
+527,Student 19,Semester 3,CSE231,Operating Systems ,4,B-,5.6,5.63
+528,Student 19,Semester 5,CSE300,Software Engineering ,4,D,5.2,5.49
+529,Student 19,Semester 1,CSE121,Discrete Mathematics,4,D,5.5,5.5
+530,Student 19,Semester 4,CSE222,Analysis and Design of Algorithms,4,C,5.4,5.57
+531,Student 19,Semester 8,MTH202,Maths : Algebra,4,D,6.25,5.95
+532,Student 20,Semester 7,ECO301,Introduction to Economic Analysis,4,B,9.6,9.03
+533,Student 20,Semester 2,HSS201*,Research Methods,4,A-,8.33,8.76
+534,Student 20,Semester 6,COM301,Technical Communication,4,B,8.83,8.93
+535,Student 20,Semester 6,HSS207*,Human Values and Professional Ethics,4,A+,8.83,8.93
+536,Student 20,Semester 1,COM101,Communication Skills,4,A,9.25,9.25
+537,Student 20,Semester 6,CSE606,Data Warehousing,4,A-,8.83,8.93
+538,Student 20,Semester 6,CSE499,BTech Project,4,A-,8.83,8.93
+539,Student 20,Semester 6,CSE535,Mobile Computing,4,B,8.83,8.93
+540,Student 20,Semester 1,CSE101,Introduction to Programming,4,A-,9.25,9.25
+541,Student 20,Semester 6,CSE342*,Pattern Recognition,4,A-,8.83,8.93
+542,Student 20,Semester 7,CSE399,Independent Project,4,A,9.6,9.03
+543,Student 20,Semester 5,CSE300,Software Engineering ,4,A-,9.2,8.96
+544,Student 20,Semester 1,CSE121,Discrete Mathematics,4,A-,9.25,9.25
+545,Student 20,Semester 8,CSE441,Advanced Biometrics,4,A,10.0,9.15
+546,Student 20,Semester 5,CSE340*,Image Analysis ,4,A-,9.2,8.96
+547,Student 20,Semester 8,CSE499,BTech Project,4,A+,10.0,9.15
+548,Student 20,Semester 8,CSE694F,Multimedia Security,4,A,10.0,9.15
+549,Student 20,Semester 5,CSE546,Applied Cryptography,4,A,9.2,8.96
+550,Student 20,Semester 8,CSE398A-1,Independent Study,4,A,10.0,9.15
+551,Student 20,Semester 5,CSE345,Foundations of Computer Security,4,A,9.2,8.96
+552,Student 20,Semester 7,CSE506,Data Mining,4,A,9.6,9.03
+553,Student 20,Semester 3,CSE201,Advanced Programming,4,A-,9.2,8.93
+554,Student 20,Semester 5,FIN401,Foundations of Finance ,4,B,9.2,8.96
+555,Student 20,Semester 4,ESC202,Digital Communication,4,B,8.8,8.89
+556,Student 20,Semester 8,CSE398A-2,Independent Study,4,A,10.0,9.15
+557,Student 20,Semester 3,COM201,Critical Reading,4,A,9.2,8.93
+558,Student 20,Semester 4,HSS204*,Introduction to Psychology,4,A,8.8,8.89
+559,Student 20,Semester 3,CSE231,Operating Systems ,4,A,9.2,8.93
+560,Student 20,Semester 4,CSE232,Computer Networks,4,A-,8.8,8.89
+561,Student 20,Semester 7,CSE343,Machine Learning,4,A,9.6,9.03
+562,Student 20,Semester 4,CSE202,Fundamentals of Database Systems,4,B,8.8,8.89
+563,Student 20,Semester 3,MTH201,Probability and Statistics ,4,B,9.2,8.93
+564,Student 20,Semester 4,CSE222,Analysis and Design of Algorithms,4,A-,8.8,8.89
+565,Student 20,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A-,9.2,8.93
+566,Student 20,Semester 1,CSE111,Digital Circuits,4,A-,9.25,9.25
+567,Student 20,Semester 7,CSE499,BTech Project,4,A,9.6,9.03
+568,Student 20,Semester 2,CSE112,Computer Organisation,4,B,8.33,8.76
+569,Student 20,Semester 2,CSE122*,Theory of Computation,4,A-,8.33,8.76
+570,Student 20,Semester 2,CSE102,Data Structures and Algorithms,4,B-,8.33,8.76
+571,Student 20,Semester 2,CSE131-1*,System Management,2,A-,8.33,8.76
+572,Student 21,Semester 2,CSE131-1*,System Management,2,D,,
+573,Student 21,Semester 1,CSE101,Introduction to Programming,4,B-,,
+574,Student 21,Semester 2,HSS202*,Perspectives on Knowledge,4,B-,,
+575,Student 21,Semester 1,COM101,Communication Skills,4,B,,
+576,Student 21,Semester 2,CSE122*,Theory of Computation,4,D,,
+577,Student 21,Semester 2,CSE102,Data Structures and Algorithms,4,C,,
+578,Student 21,Semester 2,CSE112,Computer Organisation,4,F,,
+579,Student 21,Semester 1,CSE121,Discrete Mathematics,4,F,,
+580,Student 21,Semester 1,CSE111,Digital Circuits,4,F,,
+581,Student 22,Semester 3,CSE231,Operating Systems ,4,B,8.6,8.3
+582,Student 22,Semester 4,CSE232,Computer Networks,4,B-,8.4,8.32
+583,Student 22,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A,8.6,8.3
+584,Student 22,Semester 7,CSE501,Designing Human-Centered Systems,4,A,9.25,8.8
+585,Student 22,Semester 7,ECO301,Introduction to Economic Analysis,4,A-,9.25,8.8
+586,Student 22,Semester 4,CSE222,Analysis and Design of Algorithms,4,B,8.4,8.32
+587,Student 22,Semester 2,CSE112,Computer Organisation,4,B-,8.22,8.12
+588,Student 22,Semester 2,HSS101*,Technology and Society,4,A,8.22,8.12
+589,Student 22,Semester 3,MTH201,Probability and Statistics ,4,B,8.6,8.3
+590,Student 22,Semester 4,CSE202,Fundamentals of Database Systems,4,A-,8.4,8.32
+591,Student 22,Semester 7,CSE343,Machine Learning,4,B,9.25,8.8
+592,Student 22,Semester 4,HSS204*,Introduction to Psychology,4,B,8.4,8.32
+593,Student 22,Semester 2,CSE122*,Theory of Computation,4,B,8.22,8.12
+594,Student 22,Semester 6,HSS206*,Introduction to Film Studies,4,A,9.6,8.74
+595,Student 22,Semester 3,COM201,Critical Reading,4,A-,8.6,8.3
+596,Student 22,Semester 8,CSE330,Distributed Systems ,4,A,9.8,8.93
+597,Student 22,Semester 8,CSE399,Independent Project,4,A,9.8,8.93
+598,Student 22,Semester 4,ESC202,Digital Communication,4,A,8.4,8.32
+599,Student 22,Semester 3,CSE201,Advanced Programming,4,B,8.6,8.3
+600,Student 22,Semester 5,FIN401,Foundations of Finance ,4,A,9.4,8.55
+601,Student 22,Semester 8,CSE531,Multiagent Systems,4,A-,9.8,8.93
+602,Student 22,Semester 8,COM301,Technical Communication,4,A,9.8,8.93
+603,Student 22,Semester 8,ECO302,Applied Econometric Analysis,4,A,9.8,8.93
+604,Student 22,Semester 5,CSE340*,Image Analysis ,4,B,9.4,8.55
+605,Student 22,Semester 1,CSE121,Discrete Mathematics,4,B,8.0,8.0
+606,Student 22,Semester 5,CSE300,Software Engineering ,4,A,9.4,8.55
+607,Student 22,Semester 7,CSE399,Independent Project,4,A+,9.25,8.8
+608,Student 22,Semester 5,CSE499,BTech Project,4,A-,9.4,8.55
+609,Student 22,Semester 5,CSE506,Data Mining,4,A,9.4,8.55
+610,Student 22,Semester 2,CSE102,Data Structures and Algorithms,4,B-,8.22,8.12
+611,Student 22,Semester 6,CSE342*,Pattern Recognition,4,A-,9.6,8.74
+612,Student 22,Semester 1,CSE101,Introduction to Programming,4,B,8.0,8.0
+613,Student 22,Semester 2,CSE131-1*,System Management,2,A,8.22,8.12
+614,Student 22,Semester 6,CSE499,BTech Project,4,A-,9.6,8.74
+615,Student 22,Semester 6,CSE606,Data Warehousing,4,A+,9.6,8.74
+616,Student 22,Semester 1,COM101,Communication Skills,4,A,8.0,8.0
+617,Student 22,Semester 6,FIN402,Valuation and Portfolio Management,4,A,9.6,8.74
+618,Student 22,Semester 1,CSE111,Digital Circuits,4,C,8.0,8.0
+619,Student 23,Semester 5,CSE605,Introduction to Geospatial Data Management,4,A-,8.2,7.51
+620,Student 23,Semester 8,ECO302,Applied Econometric Analysis,4,B-,7.75,7.71
+621,Student 23,Semester 7,CSE501,Designing Human-Centered Systems,4,B,8.4,7.71
+622,Student 23,Semester 1,CSE121,Discrete Mathematics,4,C-,6.75,6.75
+623,Student 23,Semester 6,CSE535,Mobile Computing,4,B-,8.0,7.58
+624,Student 23,Semester 3,MTH201,Probability and Statistics ,4,A-,8.0,7.22
+625,Student 23,Semester 1,CSE111,Digital Circuits,4,C,6.75,6.75
+626,Student 23,Semester 5,CSE300,Software Engineering ,4,A-,8.2,7.51
+627,Student 23,Semester 2,HSS101*,Technology and Society,4,C-,6.78,6.76
+628,Student 23,Semester 6,CSE538*,Ad-hoc Wireless Networks,4,A,8.0,7.58
+629,Student 23,Semester 8,CSE694F,Multimedia Security,4,B,7.75,7.71
+630,Student 23,Semester 4,CSE232,Computer Networks,4,C,7.6,7.32
+631,Student 23,Semester 8,CSE330,Distributed Systems ,4,B-,7.75,7.71
+632,Student 23,Semester 4,HSS201*,Research Methods,4,B-,7.6,7.32
+633,Student 23,Semester 6,HSS204*,Introduction to Psychology,4,C,8.0,7.58
+634,Student 23,Semester 2,CSE122*,Theory of Computation,4,B,6.78,6.76
+635,Student 23,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,A-,8.0,7.58
+636,Student 23,Semester 2,CSE102,Data Structures and Algorithms,4,B,6.78,6.76
+637,Student 23,Semester 3,COM201,Critical Reading,4,C,8.0,7.22
+638,Student 23,Semester 5,CSE506,Data Mining,4,B-,8.2,7.51
+639,Student 23,Semester 8,COM301,Technical Communication,4,A-,7.75,7.71
+640,Student 23,Semester 1,COM101,Communication Skills,4,B,6.75,6.75
+641,Student 23,Semester 1,CSE101,Introduction to Programming,4,B,6.75,6.75
+642,Student 23,Semester 7,CSE507,Database System Implementation,4,B,8.4,7.71
+643,Student 23,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A,8.0,7.22
+644,Student 23,Semester 4,ESC202,Digital Communication,4,A-,7.6,7.32
+645,Student 23,Semester 3,CSE201,Advanced Programming,4,B,8.0,7.22
+646,Student 23,Semester 4,CSE222,Analysis and Design of Algorithms,4,B-,7.6,7.32
+647,Student 23,Semester 3,CSE231,Operating Systems ,4,B-,8.0,7.22
+648,Student 23,Semester 7,PHY301,Physics,4,B-,8.4,7.71
+649,Student 23,Semester 6,CSE342*,Pattern Recognition,4,W,8.0,7.58
+650,Student 23,Semester 7,CSE340*,Image Analysis ,4,A,8.4,7.71
+651,Student 23,Semester 5,CSE345,Foundations of Computer Security,4,B,8.2,7.51
+652,Student 23,Semester 4,CSE202,Fundamentals of Database Systems,4,A-,7.6,7.32
+653,Student 23,Semester 5,CSE546,Applied Cryptography,4,B,8.2,7.51
+654,Student 23,Semester 7,ECO301,Introduction to Economic Analysis,4,A-,8.4,7.71
+655,Student 23,Semester 2,CSE112,Computer Organisation,4,C,6.78,6.76
+656,Student 23,Semester 2,CSE131-1*,System Management,2,B-,6.78,6.76
+657,Student 24,Semester 1,CSE121,Discrete Mathematics,4,F,5.75,5.75
+658,Student 24,Semester 6,ECO301,Introduction to Economic Analysis,4,A-,8.2,7.04
+659,Student 24,Semester 6,CSE399,Independent Project,4,B,8.2,7.04
+660,Student 24,Semester 1,COM101,Communication Skills,4,A-,5.75,5.75
+661,Student 24,Semester 1,CSE101,Introduction to Programming,4,B,5.75,5.75
+662,Student 24,Semester 3,CSE201,Advanced Programming,4,A-,6.8,6.04
+663,Student 24,Semester 8,CSE440,Intelligent Systems 1,4,B-,7.56,7.36
+664,Student 24,Semester 3,COM201,Critical Reading,4,B-,6.8,6.04
+665,Student 24,Semester 3,CSE231,Operating Systems ,4,A-,6.8,6.04
+666,Student 24,Semester 3,MTH201,Probability and Statistics ,4,D,6.8,6.04
+667,Student 24,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,C-,6.8,6.04
+668,Student 24,Semester 7,ECO303,Economics of Information and IT,4,B-,8.0,7.34
+669,Student 24,Semester 2,CSE112,Computer Organisation,4,D,5.44,5.59
+670,Student 24,Semester 2,CSE102,Data Structures and Algorithms,4,C,5.44,5.59
+671,Student 24,Semester 7,CSE398A-1,Independent Study,4,A-,8.0,7.34
+672,Student 24,Semester 2,CSE131-1*,System Management,2,B-,5.44,5.59
+673,Student 24,Semester 2,CSE122*,Theory of Computation,4,C-,5.44,5.59
+674,Student 24,Semester 2,HSS101*,Technology and Society,4,C,5.44,5.59
+675,Student 24,Semester 7,CSE499,BTech Project,4,B-,8.0,7.34
+676,Student 24,Semester 1,CSE111,Digital Circuits,4,D,5.75,5.75
+677,Student 24,Semester 7,CSE121,Discrete Mathematics,4,B-,8.0,7.34
+678,Student 24,Semester 8,COM333,Organisational Behavior,2,A,7.56,7.36
+679,Student 24,Semester 4,CSE222,Analysis and Design of Algorithms,4,B-,6.4,6.14
+680,Student 24,Semester 4,CSE202,Fundamentals of Database Systems,4,C,6.4,6.14
+681,Student 24,Semester 7,CSE340*,Image Analysis ,4,A,8.0,7.34
+682,Student 24,Semester 4,CSE232,Computer Networks,4,C,6.4,6.14
+683,Student 24,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,A-,7.56,7.36
+684,Student 24,Semester 4,HSS201*,Research Methods,4,B,6.4,6.14
+685,Student 24,Semester 4,ESC202,Digital Communication,4,C-,6.4,6.14
+686,Student 24,Semester 5,CSE345,Foundations of Computer Security,4,A,9.2,6.79
+687,Student 24,Semester 5,CSE694C,Privacy and Security in Online Social Media,2,A,9.2,6.79
+688,Student 24,Semester 5,CSE605,Introduction to Geospatial Data Management,4,A-,9.2,6.79
+689,Student 24,Semester 5,CSE694D,Privacy in Location Based Services ,2,A,9.2,6.79
+690,Student 24,Semester 5,CSE300,Software Engineering ,4,B-,9.2,6.79
+691,Student 24,Semester 5,CSE506,Data Mining,4,A,9.2,6.79
+692,Student 24,Semester 6,CSE537,Embedded Systems,4,B-,8.2,7.04
+693,Student 24,Semester 8,MTH202,Maths : Algebra,4,C-,7.56,7.36
+694,Student 24,Semester 6,CSE499,BTech Project,4,B-,8.2,7.04
+695,Student 24,Semester 8,CSE734,Advance Topics in Mobile Computing,4,B,7.56,7.36
+696,Student 24,Semester 6,COM301,Technical Communication,4,A,8.2,7.04
+697,Student 25,Semester 2,CSE131-1*,System Management,2,D,,
+698,Student 25,Semester 2,HSS201*,Research Methods,4,D,,
+699,Student 25,Semester 2,CSE102,Data Structures and Algorithms,4,F,,
+700,Student 25,Semester 1,CSE111,Digital Circuits,4,F,,
+701,Student 25,Semester 1,CSE101,Introduction to Programming,4,D,,
+702,Student 25,Semester 1,CSE121,Discrete Mathematics,4,F,,
+703,Student 25,Semester 2,CSE112,Computer Organisation,4,F,,
+704,Student 25,Semester 2,CSE122*,Theory of Computation,4,F,,
+705,Student 25,Semester 1,COM101,Communication Skills,4,B,,
+706,Student 26,Semester 5,CSE300,Software Engineering ,4,A+,10.0,9.67
+707,Student 26,Semester 2,CSE122*,Theory of Computation,4,A-,9.11,9.29
+708,Student 26,Semester 3,CSE231,Operating Systems ,4,A,9.6,9.41
+709,Student 26,Semester 8,CSE531,Multiagent Systems,4,A,10.0,9.75
+710,Student 26,Semester 6,CSE342*,Pattern Recognition,4,A+,10.0,9.72
+711,Student 26,Semester 8,CSE330,Distributed Systems ,4,A+,10.0,9.75
+712,Student 26,Semester 5,CSE694C,Privacy and Security in Online Social Media,2,A,10.0,9.67
+713,Student 26,Semester 7,CSE399A,Independent Project,2,A,9.6,9.71
+714,Student 26,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A+,9.6,9.41
+715,Student 26,Semester 6,COM301,Technical Communication,4,A,10.0,9.72
+716,Student 26,Semester 6,CSE499,BTech Project,4,A,10.0,9.72
+717,Student 26,Semester 4,CSE202,Fundamentals of Database Systems,4,A,10.0,9.57
+718,Student 26,Semester 6,CSE535,Mobile Computing,4,A,10.0,9.72
+719,Student 26,Semester 1,CSE121,Discrete Mathematics,4,A,9.5,9.5
+720,Student 26,Semester 4,CSE222,Analysis and Design of Algorithms,4,A,10.0,9.57
+721,Student 26,Semester 5,CSE506,Data Mining,4,A,10.0,9.67
+722,Student 26,Semester 6,CSE508,Information Retrieval,4,A,10.0,9.72
+723,Student 26,Semester 5,CSE691A,Application Development for Web2.0 Social Media Platforms,2,A+,10.0,9.67
+724,Student 26,Semester 8,CSE440,Intelligent Systems 1,4,A+,10.0,9.75
+725,Student 26,Semester 3,CSE201,Advanced Programming,4,B,9.6,9.41
+726,Student 26,Semester 5,CSE694D,Privacy in Location Based Services ,2,A,10.0,9.67
+727,Student 26,Semester 2,CSE131-1*,System Management,2,A,9.11,9.29
+728,Student 26,Semester 4,CSE232,Computer Networks,4,A,10.0,9.57
+729,Student 26,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,A,10.0,9.75
+730,Student 26,Semester 3,MTH201,Probability and Statistics ,4,A+,9.6,9.41
+731,Student 26,Semester 2,CSE102,Data Structures and Algorithms,4,A-,9.11,9.29
+732,Student 26,Semester 8,CSE498,Undergraduate Research,4,A,10.0,9.75
+733,Student 26,Semester 7,CSE499,BTech Project,4,A-,9.6,9.71
+734,Student 26,Semester 1,COM101,Communication Skills,4,A-,9.5,9.5
+735,Student 26,Semester 7,CSE501,Designing Human-Centered Systems,4,A,9.6,9.71
+736,Student 26,Semester 2,CSE112,Computer Organisation,4,B,9.11,9.29
+737,Student 26,Semester 1,CSE101,Introduction to Programming,4,A-,9.5,9.5
+738,Student 26,Semester 4,ESC202,Digital Communication,4,A+,10.0,9.57
+739,Student 26,Semester 4,HSS201*,Research Methods,4,A,10.0,9.57
+740,Student 26,Semester 3,COM201,Critical Reading,4,A,9.6,9.41
+741,Student 26,Semester 5,CSE345,Foundations of Computer Security,4,A,10.0,9.67
+742,Student 26,Semester 5,CSE523,Randomised Algorithms,4,A,10.0,9.67
+743,Student 26,Semester 2,HSS101*,Technology and Society,4,A,9.11,9.29
+744,Student 26,Semester 1,CSE111,Digital Circuits,4,A,9.5,9.5
+745,Student 27,Semester 7,PHY301,Physics,4,A,9.75,8.09
+746,Student 27,Semester 3,MTH201,Probability and Statistics ,4,B-,7.4,6.89
+747,Student 27,Semester 7,CSE691B,Web Intelligence and Big Data,2,A,9.75,8.09
+748,Student 27,Semester 8,MTH502*,Number Theory,4,B,8.25,8.11
+749,Student 27,Semester 3,CSE231,Operating Systems ,4,B-,7.4,6.89
+750,Student 27,Semester 2,CSE131-1*,System Management,2,B,6.44,6.59
+751,Student 27,Semester 5,CSE506,Data Mining,4,A,9.8,7.62
+752,Student 27,Semester 8,ECO302,Applied Econometric Analysis,4,B,8.25,8.11
+753,Student 27,Semester 4,CSE222,Analysis and Design of Algorithms,4,B-,7.4,7.03
+754,Student 27,Semester 5,BTY301,Introduction to Biotechnology ,4,A,9.8,7.62
+755,Student 27,Semester 6,CSE535,Mobile Computing,4,A,9.0,7.86
+756,Student 27,Semester 2,CSE112,Computer Organisation,4,C-,6.44,6.59
+757,Student 27,Semester 5,CSE345,Foundations of Computer Security,4,A-,9.8,7.62
+758,Student 27,Semester 2,HSS101*,Technology and Society,4,B,6.44,6.59
+759,Student 27,Semester 6,HSS204*,Introduction to Psychology,4,A+,9.0,7.86
+760,Student 27,Semester 7,CSE398A-1,Independent Study,4,A,9.75,8.09
+761,Student 27,Semester 3,CSE201,Advanced Programming,4,B,7.4,6.89
+762,Student 27,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A,9.75,8.09
+763,Student 27,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,B,7.4,6.89
+764,Student 27,Semester 8,COM301,Technical Communication,4,A-,8.25,8.11
+765,Student 27,Semester 2,CSE102,Data Structures and Algorithms,4,C,6.44,6.59
+766,Student 27,Semester 1,COM101,Communication Skills,4,A-,6.75,6.75
+767,Student 27,Semester 4,HSS201*,Research Methods,4,B-,7.4,7.03
+768,Student 27,Semester 3,COM201,Critical Reading,4,B-,7.4,6.89
+769,Student 27,Semester 6,CSE606,Data Warehousing,4,A-,9.0,7.86
+770,Student 27,Semester 5,CSE300,Software Engineering ,4,A,9.8,7.62
+771,Student 27,Semester 2,CSE122*,Theory of Computation,4,C,6.44,6.59
+772,Student 27,Semester 6,CSE508,Information Retrieval,4,B,9.0,7.86
+773,Student 27,Semester 5,FIN401,Foundations of Finance ,4,A,9.8,7.62
+774,Student 27,Semester 4,ESC202,Digital Communication,4,B,7.4,7.03
+775,Student 27,Semester 6,FIN402,Valuation and Portfolio Management,4,B,9.0,7.86
+776,Student 27,Semester 1,CSE111,Digital Circuits,4,D,6.75,6.75
+777,Student 27,Semester 1,CSE101,Introduction to Programming,4,B,6.75,6.75
+778,Student 27,Semester 8,CSE330,Distributed Systems ,4,B,8.25,8.11
+779,Student 27,Semester 4,CSE202,Fundamentals of Database Systems,4,A-,7.4,7.03
+780,Student 27,Semester 1,CSE121,Discrete Mathematics,4,C,6.75,6.75
+781,Student 27,Semester 4,CSE232,Computer Networks,4,C,7.4,7.03
+782,Student 27,Semester 7,ECO301,Introduction to Economic Analysis,4,A-,9.75,8.09
+783,Student 28,Semester 2,CSE131-1*,System Management,2,A,9.56,9.41
+784,Student 28,Semester 5,CSE546,Applied Cryptography,4,B,8.8,9.32
+785,Student 28,Semester 8,COM301,Technical Communication,4,B,9.5,9.43
+786,Student 28,Semester 1,CSE111,Digital Circuits,4,B,9.25,9.25
+787,Student 28,Semester 6,CSE342*,Pattern Recognition,4,A,9.67,9.39
+788,Student 28,Semester 5,CSE398A-1,Independent Study,4,B,8.8,9.32
+789,Student 28,Semester 6,CSE535,Mobile Computing,4,A-,9.67,9.39
+790,Student 28,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,A,9.67,9.39
+791,Student 28,Semester 3,COM201,Critical Reading,4,A,9.8,9.56
+792,Student 28,Semester 4,ESC202,Digital Communication,4,B,9.2,9.46
+793,Student 28,Semester 7,CSE399,Independent Project,4,A,9.6,9.42
+794,Student 28,Semester 4,CSE232,Computer Networks,4,A-,9.2,9.46
+795,Student 28,Semester 3,CSE231,Operating Systems ,4,A,9.8,9.56
+796,Student 28,Semester 3,CSE201,Advanced Programming,4,A,9.8,9.56
+797,Student 28,Semester 2,CSE102,Data Structures and Algorithms,4,A,9.56,9.41
+798,Student 28,Semester 1,COM101,Communication Skills,4,A,9.25,9.25
+799,Student 28,Semester 8,CSE398A-1,Independent Study,4,A,9.5,9.43
+800,Student 28,Semester 7,CSE506,Data Mining,4,A,9.6,9.42
+801,Student 28,Semester 5,CSE300,Software Engineering ,4,A-,8.8,9.32
+802,Student 28,Semester 7,CSE343,Machine Learning,4,A-,9.6,9.42
+803,Student 28,Semester 2,CSE122*,Theory of Computation,4,A,9.56,9.41
+804,Student 28,Semester 5,FIN401,Foundations of Finance ,4,A-,8.8,9.32
+805,Student 28,Semester 1,CSE101,Introduction to Programming,4,A-,9.25,9.25
+806,Student 28,Semester 4,CSE202,Fundamentals of Database Systems,4,A-,9.2,9.46
+807,Student 28,Semester 7,ECO301,Introduction to Economic Analysis,4,A-,9.6,9.42
+808,Student 28,Semester 1,CSE121,Discrete Mathematics,4,A,9.25,9.25
+809,Student 28,Semester 6,CSE606,Data Warehousing,4,A,9.67,9.39
+810,Student 28,Semester 8,CSE441,Advanced Biometrics,4,A,9.5,9.43
+811,Student 28,Semester 3,MTH201,Probability and Statistics ,4,A-,9.8,9.56
+812,Student 28,Semester 6,CSE499,BTech Project,4,A-,9.67,9.39
+813,Student 28,Semester 7,CSE499,BTech Project,4,A,9.6,9.42
+814,Student 28,Semester 4,CSE222,Analysis and Design of Algorithms,4,A,9.2,9.46
+815,Student 28,Semester 4,HSS204*,Introduction to Psychology,4,A,9.2,9.46
+816,Student 28,Semester 2,CSE112,Computer Organisation,4,A-,9.56,9.41
+817,Student 28,Semester 5,CSE340*,Image Analysis ,4,A,8.8,9.32
+818,Student 28,Semester 2,HSS101*,Technology and Society,4,A-,9.56,9.41
+819,Student 28,Semester 8,CSE499,BTech Project,4,A+,9.5,9.43
+820,Student 28,Semester 6,HSS207*,Human Values and Professional Ethics,4,A,9.67,9.39
+821,Student 28,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A,9.8,9.56
+822,Student 28,Semester 8,CSE999,Distance Course in CSE,4,S,9.5,9.43
+823,Student 29,Semester 6,CSE342*,Pattern Recognition,4,W,7.5,6.73
+824,Student 29,Semester 6,CSE508,Information Retrieval,4,B,7.5,6.73
+825,Student 29,Semester 3,COM201,Critical Reading,4,C,6.4,6.44
+826,Student 29,Semester 4,HSS204*,Introduction to Psychology,4,B,6.6,6.49
+827,Student 29,Semester 1,CSE101,Introduction to Programming,4,C,5.75,5.75
+828,Student 29,Semester 6,CSE606,Data Warehousing,4,B-,7.5,6.73
+829,Student 29,Semester 7,CSE399,Independent Project,4,A,9.0,7.05
+830,Student 29,Semester 7,CSE501,Designing Human-Centered Systems,4,A-,9.0,7.05
+831,Student 29,Semester 5,CSE300,Software Engineering ,4,B-,7.0,6.6
+832,Student 29,Semester 2,CSE122*,Theory of Computation,4,B-,7.11,6.47
+833,Student 29,Semester 5,CSE691A,Application Development for Web2.0 Social Media Platforms,2,A+,7.0,6.6
+834,Student 29,Semester 1,CSE121,Discrete Mathematics,4,C-,5.75,5.75
+835,Student 29,Semester 2,CSE112,Computer Organisation,4,B-,7.11,6.47
+836,Student 29,Semester 2,HSS101*,Technology and Society,4,C,7.11,6.47
+837,Student 29,Semester 8,CSE499B,BTech Project,6,B-,7.7,7.14
+838,Student 29,Semester 6,CSE535,Mobile Computing,4,C,7.5,6.73
+839,Student 29,Semester 1,CSE111,Digital Circuits,4,D,5.75,5.75
+840,Student 29,Semester 6,COM301,Technical Communication,4,A-,7.5,6.73
+841,Student 29,Semester 5,CSE546,Applied Cryptography,4,D,7.0,6.6
+842,Student 29,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A-,9.0,7.05
+843,Student 29,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,C-,6.4,6.44
+844,Student 29,Semester 8,CSE531,Multiagent Systems,4,B,7.7,7.14
+845,Student 29,Semester 7,CSE499,BTech Project,4,A,9.0,7.05
+846,Student 29,Semester 2,CSE131-1*,System Management,2,B,7.11,6.47
+847,Student 29,Semester 8,HSS209*,Music Appreciation,4,B,7.7,7.14
+848,Student 29,Semester 5,CSE694C,Privacy and Security in Online Social Media,2,B,7.0,6.6
+849,Student 29,Semester 5,CSE345,Foundations of Computer Security,4,B-,7.0,6.6
+850,Student 29,Semester 4,CSE222,Analysis and Design of Algorithms,4,B-,6.6,6.49
+851,Student 29,Semester 3,MTH201,Probability and Statistics ,4,C,6.4,6.44
+852,Student 29,Semester 7,ECO301,Introduction to Economic Analysis,4,B-,9.0,7.05
+853,Student 29,Semester 5,CSE506,Data Mining,4,B,7.0,6.6
+854,Student 29,Semester 4,CSE202,Fundamentals of Database Systems,4,B-,6.6,6.49
+855,Student 29,Semester 8,CSE399A,Independent Project,2,A,7.7,7.14
+856,Student 29,Semester 1,COM101,Communication Skills,4,B,5.75,5.75
+857,Student 29,Semester 3,CSE201,Advanced Programming,4,B,6.4,6.44
+858,Student 29,Semester 3,CSE231,Operating Systems ,4,B-,6.4,6.44
+859,Student 29,Semester 8,CSE522,Verification of Reactive Systems,4,B-,7.7,7.14
+860,Student 29,Semester 4,CSE232,Computer Networks,4,C,6.6,6.49
+861,Student 29,Semester 4,ESC202,Digital Communication,4,C-,6.6,6.49
+862,Student 29,Semester 2,CSE102,Data Structures and Algorithms,4,B,7.11,6.47
+863,Student 30,Semester 6,CSE537,Embedded Systems,4,B,8.2,7.98
+864,Student 30,Semester 6,CSE399,Independent Project,4,B,8.2,7.98
+865,Student 30,Semester 2,HSS202*,Perspectives on Knowledge,4,A,8.56,8.65
+866,Student 30,Semester 5,CSE345,Foundations of Computer Security,4,B,7.6,7.94
+867,Student 30,Semester 7,ENT401,Entrepreneurship as a Career,2,B,9.0,8.11
+868,Student 30,Semester 7,CSE399,Independent Project,4,A,9.0,8.11
+869,Student 30,Semester 7,CSE501,Designing Human-Centered Systems,4,A-,9.0,8.11
+870,Student 30,Semester 2,CSE112,Computer Organisation,4,A-,8.56,8.65
+871,Student 30,Semester 4,ESC202,Digital Communication,4,A,7.6,8.03
+872,Student 30,Semester 5,CSE340*,Image Analysis ,4,B-,7.6,7.94
+873,Student 30,Semester 2,CSE122*,Theory of Computation,4,B,8.56,8.65
+874,Student 30,Semester 6,CSE535,Mobile Computing,4,B-,8.2,7.98
+875,Student 30,Semester 8,COM301,Technical Communication,4,B-,7.75,8.07
+876,Student 30,Semester 4,CSE222,Analysis and Design of Algorithms,4,B-,7.6,8.03
+877,Student 30,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,A-,8.2,7.98
+878,Student 30,Semester 1,CSE111,Digital Circuits,4,A-,8.75,8.75
+879,Student 30,Semester 4,HSS204*,Introduction to Psychology,4,B-,7.6,8.03
+880,Student 30,Semester 8,CSE440,Intelligent Systems 1,4,B-,7.75,8.07
+881,Student 30,Semester 4,CSE232,Computer Networks,4,B-,7.6,8.03
+882,Student 30,Semester 2,CSE131-1*,System Management,2,A-,8.56,8.65
+883,Student 30,Semester 3,CSE201,Advanced Programming,4,B-,7.4,8.19
+884,Student 30,Semester 8,CSE694F,Multimedia Security,4,A-,7.75,8.07
+885,Student 30,Semester 4,CSE202,Fundamentals of Database Systems,4,B-,7.6,8.03
+886,Student 30,Semester 1,COM101,Communication Skills,4,A,8.75,8.75
+887,Student 30,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,B,7.75,8.07
+888,Student 30,Semester 1,CSE121,Discrete Mathematics,4,B-,8.75,8.75
+889,Student 30,Semester 7,CSE510,Digital Hardware Design,4,A-,9.0,8.11
+890,Student 30,Semester 3,CSE231,Operating Systems ,4,B-,7.4,8.19
+891,Student 30,Semester 3,COM201,Critical Reading,4,B,7.4,8.19
+892,Student 30,Semester 2,CSE102,Data Structures and Algorithms,4,B-,8.56,8.65
+893,Student 30,Semester 3,MTH201,Probability and Statistics ,4,B,7.4,8.19
+894,Student 30,Semester 5,CSE300,Software Engineering ,4,B,7.6,7.94
+895,Student 30,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,B,9.0,8.11
+896,Student 30,Semester 1,CSE101,Introduction to Programming,4,A-,8.75,8.75
+897,Student 30,Semester 5,CSE506,Data Mining,4,B-,7.6,7.94
+898,Student 30,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,B-,7.4,8.19
+899,Student 30,Semester 5,FIN401,Foundations of Finance ,4,B,7.6,7.94
+900,Student 30,Semester 6,HSS206*,Introduction to Film Studies,4,A-,8.2,7.98
+901,Student 31,Semester 4,CSE202,Fundamentals of Database Systems,4,B,7.0,6.65
+902,Student 31,Semester 7,CSE398A-1,Independent Study,4,A,9.2,7.73
+903,Student 31,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A,9.2,7.73
+904,Student 31,Semester 5,CSE300,Software Engineering ,4,A-,9.2,7.19
+905,Student 31,Semester 8,ECO302,Applied Econometric Analysis,4,B-,8.0,7.92
+906,Student 31,Semester 6,CSE508,Information Retrieval,4,B,8.8,7.47
+907,Student 31,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,C,6.4,6.52
+908,Student 31,Semester 3,CSE231,Operating Systems ,4,B-,6.4,6.52
+909,Student 31,Semester 3,MTH201,Probability and Statistics ,4,C,6.4,6.52
+910,Student 31,Semester 2,CSE131-1*,System Management,2,B,6.0,6.59
+911,Student 31,Semester 3,CSE201,Advanced Programming,4,C,6.4,6.52
+912,Student 31,Semester 3,COM201,Critical Reading,4,B-,6.4,6.52
+913,Student 31,Semester 4,HSS201*,Research Methods,4,B,7.0,6.65
+914,Student 31,Semester 2,CSE112,Computer Organisation,4,C,6.0,6.59
+915,Student 31,Semester 7,CSE648,Privacy and Security in Online Social Media,4,A,9.2,7.73
+916,Student 31,Semester 6,COM301,Technical Communication,4,B,8.8,7.47
+917,Student 31,Semester 2,HSS101*,Technology and Society,4,B,6.0,6.59
+918,Student 31,Semester 6,CSE535,Mobile Computing,4,A,8.8,7.47
+919,Student 31,Semester 1,COM101,Communication Skills,4,A-,7.25,7.25
+920,Student 31,Semester 2,CSE122*,Theory of Computation,4,F,6.0,6.59
+921,Student 31,Semester 4,CSE222,Analysis and Design of Algorithms,4,B-,7.0,6.65
+922,Student 31,Semester 4,CSE232,Computer Networks,4,C-,7.0,6.65
+923,Student 31,Semester 4,ESC202,Digital Communication,4,B-,7.0,6.65
+924,Student 31,Semester 5,CSE345,Foundations of Computer Security,4,A-,9.2,7.19
+925,Student 31,Semester 5,CSE506,Data Mining,4,A-,9.2,7.19
+926,Student 31,Semester 8,CSE399,Independent Project,4,A-,8.0,7.92
+927,Student 31,Semester 8,CSE330,Distributed Systems ,4,A-,8.0,7.92
+928,Student 31,Semester 7,ECO301,Introduction to Economic Analysis,4,A-,9.2,7.73
+929,Student 31,Semester 1,CSE121,Discrete Mathematics,4,C,7.25,7.25
+930,Student 31,Semester 1,CSE111,Digital Circuits,4,B-,7.25,7.25
+931,Student 31,Semester 2,CSE102,Data Structures and Algorithms,4,B-,6.0,6.59
+932,Student 31,Semester 6,CSE606,Data Warehousing,4,A-,8.8,7.47
+933,Student 31,Semester 6,HSS204*,Introduction to Psychology,4,A-,8.8,7.47
+934,Student 31,Semester 5,FIN401,Foundations of Finance ,4,A,9.2,7.19
+935,Student 31,Semester 5,BTY301,Introduction to Biotechnology ,4,A-,9.2,7.19
+936,Student 31,Semester 8,HSS206*,Introduction to Film Studies,4,B-,8.0,7.92
+937,Student 31,Semester 7,PHY301,Physics,4,B-,9.2,7.73
+938,Student 31,Semester 7,ENT401,Entrepreneurship as a Career,2,A,9.2,7.73
+939,Student 31,Semester 1,CSE101,Introduction to Programming,4,B-,7.25,7.25
+940,Student 32,Semester 7,PHY301,Physics,4,B,8.25,7.91
+941,Student 32,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A-,7.8,7.33
+942,Student 32,Semester 1,CSE111,Digital Circuits,4,C,7.25,7.25
+943,Student 32,Semester 4,ESC202,Digital Communication,4,B,7.6,7.41
+944,Student 32,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A,8.25,7.91
+945,Student 32,Semester 2,CSE122*,Theory of Computation,4,C,6.89,7.06
+946,Student 32,Semester 2,HSS101*,Technology and Society,4,B,6.89,7.06
+947,Student 32,Semester 8,CSE694F,Multimedia Security,4,A-,9.0,8.03
+948,Student 32,Semester 3,COM201,Critical Reading,4,B,7.8,7.33
+949,Student 32,Semester 5,CSE546,Applied Cryptography,4,A-,8.8,7.7
+950,Student 32,Semester 4,CSE202,Fundamentals of Database Systems,4,B-,7.6,7.41
+951,Student 32,Semester 3,CSE201,Advanced Programming,4,B,7.8,7.33
+952,Student 32,Semester 2,CSE102,Data Structures and Algorithms,4,C,6.89,7.06
+953,Student 32,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,B,8.6,7.86
+954,Student 32,Semester 7,ENT401,Entrepreneurship as a Career,2,A,8.25,7.91
+955,Student 32,Semester 4,CSE222,Analysis and Design of Algorithms,4,B-,7.6,7.41
+956,Student 32,Semester 2,CSE112,Computer Organisation,4,B-,6.89,7.06
+957,Student 32,Semester 7,CSE501,Designing Human-Centered Systems,4,B,8.25,7.91
+958,Student 32,Semester 5,CSE345,Foundations of Computer Security,4,A-,8.8,7.7
+959,Student 32,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,A-,9.0,8.03
+960,Student 32,Semester 5,CSE300,Software Engineering ,4,B,8.8,7.7
+961,Student 32,Semester 4,CSE232,Computer Networks,4,B-,7.6,7.41
+962,Student 32,Semester 7,CSE506,Data Mining,4,B-,8.25,7.91
+963,Student 32,Semester 5,FIN401,Foundations of Finance ,4,B,8.8,7.7
+964,Student 32,Semester 1,COM101,Communication Skills,4,A-,7.25,7.25
+965,Student 32,Semester 8,CSE330,Distributed Systems ,4,B,9.0,8.03
+966,Student 32,Semester 6,CSE535,Mobile Computing,4,B,8.6,7.86
+967,Student 32,Semester 6,HSS202*,Perspectives on Knowledge,4,A,8.6,7.86
+968,Student 32,Semester 6,ECO301,Introduction to Economic Analysis,4,A-,8.6,7.86
+969,Student 32,Semester 3,MTH201,Probability and Statistics ,4,C,7.8,7.33
+970,Student 32,Semester 1,CSE101,Introduction to Programming,4,B-,7.25,7.25
+971,Student 32,Semester 3,CSE231,Operating Systems ,4,B,7.8,7.33
+972,Student 32,Semester 6,CSE606,Data Warehousing,4,B,8.6,7.86
+973,Student 32,Semester 1,CSE121,Discrete Mathematics,4,B-,7.25,7.25
+974,Student 32,Semester 2,CSE131-1*,System Management,2,B,6.89,7.06
+975,Student 32,Semester 5,BTY301,Introduction to Biotechnology ,4,A,8.8,7.7
+976,Student 32,Semester 4,HSS204*,Introduction to Psychology,4,A-,7.6,7.41
+977,Student 32,Semester 8,COM301,Technical Communication,4,A,9.0,8.03
+978,Student 33,Semester 1,CSE101,Introduction to Programming,4,A,9.0,9.0
+979,Student 33,Semester 5,CSE546,Applied Cryptography,4,C,8.33,8.27
+980,Student 33,Semester 2,CSE102,Data Structures and Algorithms,4,A-,8.56,8.76
+981,Student 33,Semester 9,CSE526A,PvsNP,2,B-,7.3,8.28
+982,Student 33,Semester 8,COM301,Technical Communication,4,A,8.83,8.42
+983,Student 33,Semester 9,CSE301,Compilers,4,B,7.3,8.28
+984,Student 33,Semester 4,HSS204*,Introduction to Psychology,4,B-,7.4,8.24
+985,Student 33,Semester 8,CSE498,Undergraduate Research,4,A-,8.83,8.42
+986,Student 33,Semester 2,HSS101*,Technology and Society,4,B-,8.56,8.76
+987,Student 33,Semester 9,CSE327,Algorithms for Discrete Optimizations,4,B-,7.3,8.28
+988,Student 33,Semester 9,MTH303,Graph Theory,4,B-,7.3,8.28
+989,Student 33,Semester 9,CSE499,BTech Project,4,B-,7.3,8.28
+990,Student 33,Semester 2,CSE131-1*,System Management,2,A-,8.56,8.76
+991,Student 33,Semester 2,CSE112,Computer Organisation,4,A-,8.56,8.76
+992,Student 33,Semester 4,CSE222,Analysis and Design of Algorithms,4,B,7.4,8.24
+993,Student 33,Semester 6,CSE499,BTech Project,4,B,8.75,8.33
+994,Student 33,Semester 1,CSE121,Discrete Mathematics,4,A-,9.0,9.0
+995,Student 33,Semester 5,CSE521,Logic for Computer Science,4,A-,8.33,8.27
+996,Student 33,Semester 3,MTH201,Probability and Statistics ,4,A-,8.2,8.56
+997,Student 33,Semester 6,CSE399,Independent Project,4,A,8.75,8.33
+998,Student 33,Semester 3,COM201,Critical Reading,4,C,8.2,8.56
+999,Student 33,Semester 8,CSE330,Distributed Systems ,4,A,8.83,8.42
+1000,Student 33,Semester 4,CSE202,Fundamentals of Database Systems,4,B,7.4,8.24
+1001,Student 33,Semester 2,CSE122*,Theory of Computation,4,A-,8.56,8.76
+1002,Student 33,Semester 9,ENT401,Entrepreneurship as a Career,2,B,7.3,8.28
+1003,Student 33,Semester 5,CSE300,Software Engineering ,4,A,8.33,8.27
+1004,Student 33,Semester 8,CSE440,Intelligent Systems 1,4,B,8.83,8.42
+1005,Student 33,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,B,8.83,8.42
+1006,Student 33,Semester 1,COM101,Communication Skills,4,A-,9.0,9.0
+1007,Student 33,Semester 3,CSE201,Advanced Programming,4,A-,8.2,8.56
+1008,Student 33,Semester 5,CSE506,Data Mining,4,B,8.33,8.27
+1009,Student 33,Semester 3,CSE231,Operating Systems ,4,A-,8.2,8.56
+1010,Student 33,Semester 6,CSE522,Verification of Reactive Systems,4,A,8.75,8.33
+1011,Student 33,Semester 6,CSE342*,Pattern Recognition,4,W,8.75,8.33
+1012,Student 33,Semester 8,CSE499,BTech Project,4,B,8.83,8.42
+1013,Student 33,Semester 4,CSE232,Computer Networks,4,B-,7.4,8.24
+1014,Student 33,Semester 4,ESC202,Digital Communication,4,B-,7.4,8.24
+1015,Student 33,Semester 6,CSE535,Mobile Computing,4,B-,8.75,8.33
+1016,Student 33,Semester 5,CSE500,Secure Coding,4,A-,8.33,8.27
+1017,Student 33,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,B,8.2,8.56
+1018,Student 33,Semester 5,CSE523,Randomised Algorithms,4,B,8.33,8.27
+1019,Student 33,Semester 1,CSE111,Digital Circuits,4,B,9.0,9.0
+1020,Student 34,Semester 4,CSE232,Computer Networks,4,C-,6.0,6.05
+1021,Student 34,Semester 5,CSE300,Software Engineering ,4,C,7.0,6.26
+1022,Student 34,Semester 2,CSE131-1*,System Management,2,B,5.33,6.0
+1023,Student 34,Semester 6,CSE538*,Ad-hoc Wireless Networks,4,A-,9.0,6.74
+1024,Student 34,Semester 4,ESC202,Digital Communication,4,C,6.0,6.05
+1025,Student 34,Semester 6,CSE606,Data Warehousing,4,A,9.0,6.74
+1026,Student 34,Semester 6,FIN402,Valuation and Portfolio Management,4,B,9.0,6.74
+1027,Student 34,Semester 7,CSE399,Independent Project,4,A,8.5,6.95
+1028,Student 34,Semester 5,FIN401,Foundations of Finance ,4,B-,7.0,6.26
+1029,Student 34,Semester 2,CSE122*,Theory of Computation,4,C-,5.33,6.0
+1030,Student 34,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,A-,9.0,6.74
+1031,Student 34,Semester 7,ENT401,Entrepreneurship as a Career,2,B,8.5,6.95
+1032,Student 34,Semester 4,CSE202,Fundamentals of Database Systems,4,C,6.0,6.05
+1033,Student 34,Semester 8,COM301,Technical Communication,4,B,7.5,7.01
+1034,Student 34,Semester 7,CSE535,Mobile Computing,4,B-,8.5,6.95
+1035,Student 34,Semester 8,CSE694F,Multimedia Security,4,B,7.5,7.01
+1036,Student 34,Semester 3,MTH201,Probability and Statistics ,4,B-,6.2,6.07
+1037,Student 34,Semester 2,HSS202*,Perspectives on Knowledge,4,C,5.33,6.0
+1038,Student 34,Semester 5,CSE340*,Image Analysis ,4,B-,7.0,6.26
+1039,Student 34,Semester 4,CSE222,Analysis and Design of Algorithms,4,C,6.0,6.05
+1040,Student 34,Semester 1,COM101,Communication Skills,4,A-,6.75,6.75
+1041,Student 34,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A,8.5,6.95
+1042,Student 34,Semester 2,CSE112,Computer Organisation,4,C-,5.33,6.0
+1043,Student 34,Semester 5,CSE345,Foundations of Computer Security,4,B,7.0,6.26
+1044,Student 34,Semester 6,HSS206*,Introduction to Film Studies,4,A-,9.0,6.74
+1045,Student 34,Semester 8,CSE330,Distributed Systems ,4,B-,7.5,7.01
+1046,Student 34,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,C-,6.2,6.07
+1047,Student 34,Semester 3,COM201,Critical Reading,4,C,6.2,6.07
+1048,Student 34,Semester 3,CSE201,Advanced Programming,4,C,6.2,6.07
+1049,Student 34,Semester 5,CSE506,Data Mining,4,B-,7.0,6.26
+1050,Student 34,Semester 1,CSE111,Digital Circuits,4,C,6.75,6.75
+1051,Student 34,Semester 3,CSE231,Operating Systems ,4,B-,6.2,6.07
+1052,Student 34,Semester 1,CSE121,Discrete Mathematics,4,C-,6.75,6.75
+1053,Student 34,Semester 2,CSE102,Data Structures and Algorithms,4,D,5.33,6.0
+1054,Student 34,Semester 1,CSE101,Introduction to Programming,4,B-,6.75,6.75
+1055,Student 34,Semester 7,CSE648,Privacy and Security in Online Social Media,4,B,8.5,6.95
+1056,Student 34,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,B-,7.5,7.01
+1057,Student 34,Semester 4,HSS204*,Introduction to Psychology,4,B-,6.0,6.05
+1058,Student 35,Semester 4,CSE202,Fundamentals of Database Systems,4,B,7.8,7.7
+1059,Student 35,Semester 1,CSE101,Introduction to Programming,4,B,8.0,8.0
+1060,Student 35,Semester 7,CSE501,Designing Human-Centered Systems,4,A-,8.13,7.81
+1061,Student 35,Semester 2,CSE122*,Theory of Computation,4,C,7.67,7.82
+1062,Student 35,Semester 2,HSS201*,Research Methods,4,A-,7.67,7.82
+1063,Student 35,Semester 7,CSE499,BTech Project,4,A-,8.13,7.81
+1064,Student 35,Semester 2,CSE112,Computer Organisation,4,B-,7.67,7.82
+1065,Student 35,Semester 5,CSE546,Applied Cryptography,4,C,7.6,7.68
+1066,Student 35,Semester 5,CSE340*,Image Analysis ,4,A-,7.6,7.68
+1067,Student 35,Semester 5,CSE300,Software Engineering ,4,B-,7.6,7.68
+1068,Student 35,Semester 5,CSE506,Data Mining,4,B,7.6,7.68
+1069,Student 35,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,C,7.4,7.67
+1070,Student 35,Semester 6,DES301,Exploring Visual Design,4,A-,8.25,7.76
+1071,Student 35,Semester 1,CSE111,Digital Circuits,4,B-,8.0,8.0
+1072,Student 35,Semester 3,MTH201,Probability and Statistics ,4,B-,7.4,7.67
+1073,Student 35,Semester 4,CSE222,Analysis and Design of Algorithms,4,B-,7.8,7.7
+1074,Student 35,Semester 7,ECO301,Introduction to Economic Analysis,4,C,8.13,7.81
+1075,Student 35,Semester 8,CSE399,Independent Project,4,B,8.0,7.84
+1076,Student 35,Semester 3,CSE231,Operating Systems ,4,B,7.4,7.67
+1077,Student 35,Semester 2,CSE131-1*,System Management,2,A-,7.67,7.82
+1078,Student 35,Semester 4,CSE232,Computer Networks,4,C,7.8,7.7
+1079,Student 35,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,A,8.25,7.76
+1080,Student 35,Semester 4,HSS204*,Introduction to Psychology,4,A,7.8,7.7
+1081,Student 35,Semester 6,CSE606,Data Warehousing,4,B-,8.25,7.76
+1082,Student 35,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A-,8.13,7.81
+1083,Student 35,Semester 3,COM201,Critical Reading,4,B,7.4,7.67
+1084,Student 35,Semester 8,HSS206*,Introduction to Film Studies,4,B-,8.0,7.84
+1085,Student 35,Semester 1,COM101,Communication Skills,4,A,8.0,8.0
+1086,Student 35,Semester 4,ESC202,Digital Communication,4,B,7.8,7.7
+1087,Student 35,Semester 3,CSE201,Advanced Programming,4,B,7.4,7.67
+1088,Student 35,Semester 5,PHY301,Physics,4,B,7.6,7.68
+1089,Student 35,Semester 2,CSE102,Data Structures and Algorithms,4,B,7.67,7.82
+1090,Student 35,Semester 6,CSE535,Mobile Computing,4,B-,8.25,7.76
+1091,Student 35,Semester 1,CSE121,Discrete Mathematics,4,B-,8.0,8.0
+1092,Student 35,Semester 7,ENT401,Entrepreneurship as a Career,2,B,8.13,7.81
+1093,Student 35,Semester 8,CSE694F,Multimedia Security,4,A-,8.0,7.84
+1094,Student 35,Semester 8,CSE499,BTech Project,4,B,8.0,7.84
+1095,Student 35,Semester 8,COM301,Technical Communication,4,B,8.0,7.84
+1096,Student 36,Semester 2,HSS201*,Research Methods,4,A,9.0,8.88
+1097,Student 36,Semester 6,COM301,Technical Communication,4,A,10.0,9.29
+1098,Student 36,Semester 3,CSE231,Operating Systems ,4,A+,8.8,8.85
+1099,Student 36,Semester 6,CSE508,Information Retrieval,4,A,10.0,9.29
+1100,Student 36,Semester 3,CSE201,Advanced Programming,4,A,8.8,8.85
+1101,Student 36,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,B-,8.8,8.85
+1102,Student 36,Semester 4,CSE232,Computer Networks,4,A,9.2,8.95
+1103,Student 36,Semester 8,CSE440,Intelligent Systems 1,4,B-,8.67,9.22
+1104,Student 36,Semester 8,HSS206*,Introduction to Film Studies,4,B,8.67,9.22
+1105,Student 36,Semester 5,CSE691A,Application Development for Web2.0 Social Media Platforms,2,A+,10.0,9.17
+1106,Student 36,Semester 5,CSE694C,Privacy and Security in Online Social Media,2,A,10.0,9.17
+1107,Student 36,Semester 8,COM333,Organisational Behavior,2,A+,8.67,9.22
+1108,Student 36,Semester 1,COM101,Communication Skills,4,A,8.75,8.75
+1109,Student 36,Semester 2,CSE102,Data Structures and Algorithms,4,A,9.0,8.88
+1110,Student 36,Semester 6,CSE499,BTech Project,4,A,10.0,9.29
+1111,Student 36,Semester 5,CSE345,Foundations of Computer Security,4,A,10.0,9.17
+1112,Student 36,Semester 1,CSE111,Digital Circuits,4,B,8.75,8.75
+1113,Student 36,Semester 3,MTH201,Probability and Statistics ,4,B-,8.8,8.85
+1114,Student 36,Semester 2,CSE112,Computer Organisation,4,A-,9.0,8.88
+1115,Student 36,Semester 4,CSE222,Analysis and Design of Algorithms,4,B-,9.2,8.95
+1116,Student 36,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A,9.33,9.3
+1117,Student 36,Semester 3,COM201,Critical Reading,4,A,8.8,8.85
+1118,Student 36,Semester 2,CSE122*,Theory of Computation,4,B-,9.0,8.88
+1119,Student 36,Semester 1,CSE121,Discrete Mathematics,4,B-,8.75,8.75
+1120,Student 36,Semester 7,CSE399,Independent Project,4,A,9.33,9.3
+1121,Student 36,Semester 6,CSE535,Mobile Computing,4,A,10.0,9.29
+1122,Student 36,Semester 4,CSE202,Fundamentals of Database Systems,4,A,9.2,8.95
+1123,Student 36,Semester 8,CSE531,Multiagent Systems,4,A-,8.67,9.22
+1124,Student 36,Semester 2,CSE131-1*,System Management,2,A-,9.0,8.88
+1125,Student 36,Semester 7,CSE501,Designing Human-Centered Systems,4,A,9.33,9.3
+1126,Student 36,Semester 6,CSE342*,Pattern Recognition,4,W,10.0,9.29
+1127,Student 36,Semester 4,HSS204*,Introduction to Psychology,4,A,9.2,8.95
+1128,Student 36,Semester 5,FIN401,Foundations of Finance ,4,A,10.0,9.17
+1129,Student 36,Semester 5,CSE506,Data Mining,4,A+,10.0,9.17
+1130,Student 36,Semester 5,CSE300,Software Engineering ,4,A,10.0,9.17
+1131,Student 36,Semester 7,CSE499,BTech Project,4,A-,9.33,9.3
+1132,Student 36,Semester 7,ECO301,Introduction to Economic Analysis,4,B,9.33,9.3
+1133,Student 36,Semester 8,CSE399,Independent Project,4,A,8.67,9.22
+1134,Student 36,Semester 1,CSE101,Introduction to Programming,4,A,8.75,8.75
+1135,Student 36,Semester 4,ESC202,Digital Communication,4,A-,9.2,8.95
+1136,Student 37,Semester 1,COM101,Communication Skills,4,A,9.25,9.25
+1137,Student 37,Semester 5,CSE521,Logic for Computer Science,4,W,7.33,8.07
+1138,Student 37,Semester 6,CSE538*,Ad-hoc Wireless Networks,4,B,6.4,7.77
+1139,Student 37,Semester 2,CSE112,Computer Organisation,4,A-,9.67,9.47
+1140,Student 37,Semester 5,CSE523,Randomised Algorithms,4,B-,7.33,8.07
+1141,Student 37,Semester 1,CSE121,Discrete Mathematics,4,A-,9.25,9.25
+1142,Student 37,Semester 4,HSS204*,Introduction to Psychology,4,D,6.6,8.24
+1143,Student 37,Semester 4,ESC202,Digital Communication,4,C,6.6,8.24
+1144,Student 37,Semester 4,CSE232,Computer Networks,4,B-,6.6,8.24
+1145,Student 37,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,C,6.0,7.52
+1146,Student 37,Semester 8,CSE531,Multiagent Systems,4,B,7.25,7.49
+1147,Student 37,Semester 8,CSE734,Advance Topics in Mobile Computing,4,C-,7.25,7.49
+1148,Student 37,Semester 3,CSE201,Advanced Programming,4,B,7.8,8.85
+1149,Student 37,Semester 1,CSE101,Introduction to Programming,4,A,9.25,9.25
+1150,Student 37,Semester 8,CSE330,Distributed Systems ,4,B,7.25,7.49
+1151,Student 37,Semester 3,CSE231,Operating Systems ,4,A,7.8,8.85
+1152,Student 37,Semester 8,CSE398A-1,Independent Study,4,B,7.25,7.49
+1153,Student 37,Semester 6,CSE537,Embedded Systems,4,C-,6.4,7.77
+1154,Student 37,Semester 7,ECO301,Introduction to Economic Analysis,4,C-,6.0,7.52
+1155,Student 37,Semester 6,COM301,Technical Communication,4,B-,6.4,7.77
+1156,Student 37,Semester 7,PHY301,Physics,4,C-,6.0,7.52
+1157,Student 37,Semester 7,CSE501,Designing Human-Centered Systems,4,B,6.0,7.52
+1158,Student 37,Semester 7,CSE506,Data Mining,4,C,6.0,7.52
+1159,Student 37,Semester 5,CSE300,Software Engineering ,4,C,7.33,8.07
+1160,Student 37,Semester 4,CSE202,Fundamentals of Database Systems,4,B-,6.6,8.24
+1161,Student 37,Semester 2,CSE122*,Theory of Computation,4,A,9.67,9.47
+1162,Student 37,Semester 4,CSE222,Analysis and Design of Algorithms,4,A-,6.6,8.24
+1163,Student 37,Semester 3,MTH201,Probability and Statistics ,4,C-,7.8,8.85
+1164,Student 37,Semester 5,CSE345,Foundations of Computer Security,4,B,7.33,8.07
+1165,Student 37,Semester 3,COM201,Critical Reading,4,A-,7.8,8.85
+1166,Student 37,Semester 2,CSE102,Data Structures and Algorithms,4,A,9.67,9.47
+1167,Student 37,Semester 6,CSE535,Mobile Computing,4,B-,6.4,7.77
+1168,Student 37,Semester 5,CSE691A,Application Development for Web2.0 Social Media Platforms,2,B,7.33,8.07
+1169,Student 37,Semester 6,HSS206*,Introduction to Film Studies,4,C-,6.4,7.77
+1170,Student 37,Semester 5,CSE500,Secure Coding,4,B,7.33,8.07
+1171,Student 37,Semester 2,HSS201*,Research Methods,4,A,9.67,9.47
+1172,Student 37,Semester 1,CSE111,Digital Circuits,4,B,9.25,9.25
+1173,Student 37,Semester 2,CSE131-1*,System Management,2,A-,9.67,9.47
+1174,Student 37,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,B-,7.8,8.85
+1175,Student 38,Semester 2,CSE122*,Theory of Computation,4,,,
+1176,Student 38,Semester 2,CSE112,Computer Organisation,4,,,
+1177,Student 38,Semester 2,CSE102,Data Structures and Algorithms,4,,,
+1178,Student 38,Semester 1,CSE111,Digital Circuits,4,F,,
+1179,Student 38,Semester 1,COM101,Communication Skills,4,B,,
+1180,Student 38,Semester 2,CSE131-1*,System Management,2,,,
+1181,Student 38,Semester 1,CSE101,Introduction to Programming,4,C,,
+1182,Student 38,Semester 1,CSE121,Discrete Mathematics,4,D,,
+1183,Student 39,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,B-,8.0,7.89
+1184,Student 39,Semester 8,CSE330,Distributed Systems ,4,A-,7.5,7.82
+1185,Student 39,Semester 1,CSE121,Discrete Mathematics,4,C,7.75,7.75
+1186,Student 39,Semester 2,CSE131-1*,System Management,2,A-,7.89,7.82
+1187,Student 39,Semester 5,CSE511,Computer Architecture,4,A,8.22,7.8
+1188,Student 39,Semester 5,CSE500,Secure Coding,4,B,8.22,7.8
+1189,Student 39,Semester 3,CSE201,Advanced Programming,4,A-,8.0,7.89
+1190,Student 39,Semester 3,COM201,Critical Reading,4,B-,8.0,7.89
+1191,Student 39,Semester 2,CSE102,Data Structures and Algorithms,4,B-,7.89,7.82
+1192,Student 39,Semester 7,CSE649,Network Protocol Security,4,A-,7.8,7.86
+1193,Student 39,Semester 7,CSE506,Data Mining,4,C,7.8,7.86
+1194,Student 39,Semester 6,CSE539,Cellular Data Networks,4,A,8.22,7.87
+1195,Student 39,Semester 7,CSE343,Machine Learning,4,B-,7.8,7.86
+1196,Student 39,Semester 5,CSE300,Software Engineering ,4,B-,8.22,7.8
+1197,Student 39,Semester 3,CSE231,Operating Systems ,4,A+,8.0,7.89
+1198,Student 39,Semester 2,HSS202*,Perspectives on Knowledge,4,A-,7.89,7.82
+1199,Student 39,Semester 4,ESC202,Digital Communication,4,B-,7.2,7.7
+1200,Student 39,Semester 4,CSE222,Analysis and Design of Algorithms,4,B,7.2,7.7
+1201,Student 39,Semester 4,CSE232,Computer Networks,4,A,7.2,7.7
+1202,Student 39,Semester 5,CSE691A,Application Development for Web2.0 Social Media Platforms,2,B,8.22,7.8
+1203,Student 39,Semester 4,CSE202,Fundamentals of Database Systems,4,C-,7.2,7.7
+1204,Student 39,Semester 7,CSE340*,Image Analysis ,4,A-,7.8,7.86
+1205,Student 39,Semester 1,COM101,Communication Skills,4,A-,7.75,7.75
+1206,Student 39,Semester 8,HSS101*,Technology and Society,4,D,7.5,7.82
+1207,Student 39,Semester 8,CSE440,Intelligent Systems 1,4,B-,7.5,7.82
+1208,Student 39,Semester 6,CSE537,Embedded Systems,4,B,8.22,7.87
+1209,Student 39,Semester 6,COM301,Technical Communication,4,B-,8.22,7.87
+1210,Student 39,Semester 1,CSE111,Digital Circuits,4,B-,7.75,7.75
+1211,Student 39,Semester 2,CSE122*,Theory of Computation,4,B-,7.89,7.82
+1212,Student 39,Semester 3,MTH201,Probability and Statistics ,4,B-,8.0,7.89
+1213,Student 39,Semester 2,CSE112,Computer Organisation,4,B,7.89,7.82
+1214,Student 39,Semester 5,CSE345,Foundations of Computer Security,4,B,8.22,7.8
+1215,Student 39,Semester 4,HSS201*,Research Methods,4,C,7.2,7.7
+1216,Student 39,Semester 1,CSE101,Introduction to Programming,4,A-,7.75,7.75
+1217,Student 39,Semester 7,CSE499,BTech Project,4,B,7.8,7.86
+1218,Student 39,Semester 6,CSE398A,Independent Study,2,A,8.22,7.87
+1219,Student 39,Semester 8,CSE734,Advance Topics in Mobile Computing,4,A,7.5,7.82
+1220,Student 39,Semester 6,CSE535,Mobile Computing,4,B-,8.22,7.87
+1221,Student 40,Semester 1,CSE101,Introduction to Programming,4,B,6.5,6.5
+1222,Student 40,Semester 1,COM101,Communication Skills,4,B,6.5,6.5
+1223,Student 40,Semester 5,CSE300,Software Engineering ,4,D,5.8,5.55
+1224,Student 40,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,B,7.2,5.84
+1225,Student 40,Semester 6,DES301,Exploring Visual Design,4,B,7.2,5.84
+1226,Student 40,Semester 1,CSE121,Discrete Mathematics,4,C,6.5,6.5
+1227,Student 40,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,B,7.56,6.08
+1228,Student 40,Semester 4,CSE202,Fundamentals of Database Systems,4,D,5.4,5.49
+1229,Student 40,Semester 4,HSS204*,Introduction to Psychology,4,B-,5.4,5.49
+1230,Student 40,Semester 8,COM333,Organisational Behavior,2,B,5.78,6.04
+1231,Student 40,Semester 2,CSE102,Data Structures and Algorithms,4,D,5.0,5.71
+1232,Student 40,Semester 5,BTY301,Introduction to Biotechnology ,4,C-,5.8,5.55
+1233,Student 40,Semester 2,CSE112,Computer Organisation,4,D,5.0,5.71
+1234,Student 40,Semester 8,HSS206*,Introduction to Film Studies,4,C,5.78,6.04
+1235,Student 40,Semester 6,CSE606,Data Warehousing,4,B,7.2,5.84
+1236,Student 40,Semester 3,CSE201,Advanced Programming,4,D,5.2,5.52
+1237,Student 40,Semester 2,CSE131-1*,System Management,2,B-,5.0,5.71
+1238,Student 40,Semester 4,CSE222,Analysis and Design of Algorithms,4,C,5.4,5.49
+1239,Student 40,Semester 2,HSS101*,Technology and Society,4,C,5.0,5.71
+1240,Student 40,Semester 1,CSE111,Digital Circuits,4,D,6.5,6.5
+1241,Student 40,Semester 6,ECO301,Introduction to Economic Analysis,4,C,7.2,5.84
+1242,Student 40,Semester 3,COM201,Critical Reading,4,C,5.2,5.52
+1243,Student 40,Semester 3,MTH201,Probability and Statistics ,4,D,5.2,5.52
+1244,Student 40,Semester 5,FIN401,Foundations of Finance ,4,C-,5.8,5.55
+1245,Student 40,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,C-,5.2,5.52
+1246,Student 40,Semester 5,CSE345,Foundations of Computer Security,4,B-,5.8,5.55
+1247,Student 40,Semester 8,COM301,Technical Communication,4,C,5.78,6.04
+1248,Student 40,Semester 4,CSE232,Computer Networks,4,C-,5.4,5.49
+1249,Student 40,Semester 6,CSE535,Mobile Computing,4,C,7.2,5.84
+1250,Student 40,Semester 8,CSE694F,Multimedia Security,4,C,5.78,6.04
+1251,Student 40,Semester 7,CSE691B,Web Intelligence and Big Data,2,A,7.56,6.08
+1252,Student 40,Semester 7,CSE649,Network Protocol Security,4,B,7.56,6.08
+1253,Student 40,Semester 2,CSE122*,Theory of Computation,4,C-,5.0,5.71
+1254,Student 40,Semester 5,CSE506,Data Mining,4,B,5.8,5.55
+1255,Student 40,Semester 4,ESC202,Digital Communication,4,C-,5.4,5.49
+1256,Student 40,Semester 7,ENT401,Entrepreneurship as a Career,2,C,7.56,6.08
+1257,Student 40,Semester 3,CSE231,Operating Systems ,4,B-,5.2,5.52
+1258,Student 40,Semester 7,PHY301,Physics,4,B-,7.56,6.08
+1259,Student 40,Semester 8,MTH202,Maths : Algebra,4,D,5.78,6.04
+1260,Student 40,Semester 7,ECO303,Economics of Information and IT,4,B-,7.56,6.08
+1261,Student 41,Semester 4,CSE232,Computer Networks,4,A-,8.4,8.27
+1262,Student 41,Semester 6,CSE508,Information Retrieval,4,B,8.6,8.32
+1263,Student 41,Semester 3,COM201,Critical Reading,4,A-,8.2,8.22
+1264,Student 41,Semester 8,ENT402,Entrepreneurship: Managing a Venture,2,A,9.5,8.64
+1265,Student 41,Semester 8,CSE499,BTech Project,4,A,9.5,8.64
+1266,Student 41,Semester 4,HSS201*,Research Methods,4,A-,8.4,8.27
+1267,Student 41,Semester 3,CSE201,Advanced Programming,4,B,8.2,8.22
+1268,Student 41,Semester 4,ESC202,Digital Communication,4,B-,8.4,8.27
+1269,Student 41,Semester 2,CSE131-1*,System Management,2,A,8.0,8.24
+1270,Student 41,Semester 8,CSE330,Distributed Systems ,4,A,9.5,8.64
+1271,Student 41,Semester 3,CSE231,Operating Systems ,4,B,8.2,8.22
+1272,Student 41,Semester 4,CSE202,Fundamentals of Database Systems,4,B,8.4,8.27
+1273,Student 41,Semester 1,COM101,Communication Skills,4,B,8.5,8.5
+1274,Student 41,Semester 5,CSE399,Independent Project,4,B,8.2,8.26
+1275,Student 41,Semester 4,CSE222,Analysis and Design of Algorithms,4,A-,8.4,8.27
+1276,Student 41,Semester 7,CSE506,Data Mining,4,B,9.33,8.49
+1277,Student 41,Semester 2,HSS202*,Perspectives on Knowledge,4,B,8.0,8.24
+1278,Student 41,Semester 5,CSE345,Foundations of Computer Security,4,A,8.2,8.26
+1279,Student 41,Semester 6,CSE499,BTech Project,4,A,8.6,8.32
+1280,Student 41,Semester 7,CSE499B,BTech Project,6,A+,9.33,8.49
+1281,Student 41,Semester 3,MTH201,Probability and Statistics ,4,B,8.2,8.22
+1282,Student 41,Semester 6,COM301,Technical Communication,4,A-,8.6,8.32
+1283,Student 41,Semester 1,CSE111,Digital Circuits,4,B-,8.5,8.5
+1284,Student 41,Semester 5,CSE546,Applied Cryptography,4,B-,8.2,8.26
+1285,Student 41,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,B,8.2,8.22
+1286,Student 41,Semester 2,CSE102,Data Structures and Algorithms,4,A-,8.0,8.24
+1287,Student 41,Semester 5,CSE507,Database System Implementation,4,B,8.2,8.26
+1288,Student 41,Semester 5,CSE523,Randomised Algorithms,4,B,8.2,8.26
+1289,Student 41,Semester 7,CSE649,Network Protocol Security,4,A-,9.33,8.49
+1290,Student 41,Semester 7,CSE300,Software Engineering ,4,A,9.33,8.49
+1291,Student 41,Semester 6,HSS207*,Human Values and Professional Ethics,4,B,8.6,8.32
+1292,Student 41,Semester 7,ENT401,Entrepreneurship as a Career,2,B,9.33,8.49
+1293,Student 41,Semester 1,CSE121,Discrete Mathematics,4,A-,8.5,8.5
+1294,Student 41,Semester 2,CSE112,Computer Organisation,4,B-,8.0,8.24
+1295,Student 41,Semester 2,CSE122*,Theory of Computation,4,B-,8.0,8.24
+1296,Student 41,Semester 7,CSE501,Designing Human-Centered Systems,4,A,9.33,8.49
+1297,Student 41,Semester 1,CSE101,Introduction to Programming,4,A,8.5,8.5
+1298,Student 41,Semester 8,CSE398A-1,Independent Study,4,A,9.5,8.64
+1299,Student 41,Semester 6,CSE522,Verification of Reactive Systems,4,B,8.6,8.32
+1300,Student 41,Semester 8,CSE734,Advance Topics in Mobile Computing,4,A,9.5,8.64
+1301,Student 41,Semester 8,COM333,Organisational Behavior,2,A+,9.5,8.64
+1302,Student 41,Semester 8,HSS206*,Introduction to Film Studies,4,B-,9.5,8.64
+1303,Student 42,Semester 4,CSE202,Fundamentals of Database Systems,4,B,8.4,7.86
+1304,Student 42,Semester 6,FIN402,Valuation and Portfolio Management,4,B,8.2,7.91
+1305,Student 42,Semester 7,CSE694D,Privacy in Location Based Services ,2,A,8.38,7.97
+1306,Student 42,Semester 5,CSE300,Software Engineering ,4,B,7.8,7.85
+1307,Student 42,Semester 6,HSS206*,Introduction to Film Studies,4,B,8.2,7.91
+1308,Student 42,Semester 1,CSE111,Digital Circuits,4,B-,7.75,7.75
+1309,Student 42,Semester 7,PHY301,Physics,4,B-,8.38,7.97
+1310,Student 42,Semester 3,CSE231,Operating Systems ,4,A-,7.8,7.67
+1311,Student 42,Semester 8,CSE531,Multiagent Systems,4,A-,8.75,8.05
+1312,Student 42,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,B,7.8,7.67
+1313,Student 42,Semester 8,ECO302,Applied Econometric Analysis,4,B,8.75,8.05
+1314,Student 42,Semester 3,MTH201,Probability and Statistics ,4,B,7.8,7.67
+1315,Student 42,Semester 6,CSE535,Mobile Computing,4,A-,8.2,7.91
+1316,Student 42,Semester 7,ECO303,Economics of Information and IT,4,B,8.38,7.97
+1317,Student 42,Semester 4,CSE222,Analysis and Design of Algorithms,4,B,8.4,7.86
+1318,Student 42,Semester 3,COM201,Critical Reading,4,B-,7.8,7.67
+1319,Student 42,Semester 2,CSE131-1*,System Management,2,A-,7.44,7.59
+1320,Student 42,Semester 1,CSE101,Introduction to Programming,4,B,7.75,7.75
+1321,Student 42,Semester 2,CSE112,Computer Organisation,4,B-,7.44,7.59
+1322,Student 42,Semester 4,ESC202,Digital Communication,4,B,8.4,7.86
+1323,Student 42,Semester 6,CSE342*,Pattern Recognition,4,B-,8.2,7.91
+1324,Student 42,Semester 4,CSE232,Computer Networks,4,A-,8.4,7.86
+1325,Student 42,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A-,8.38,7.97
+1326,Student 42,Semester 4,HSS204*,Introduction to Psychology,4,A-,8.4,7.86
+1327,Student 42,Semester 6,ECO301,Introduction to Economic Analysis,4,A-,8.2,7.91
+1328,Student 42,Semester 5,CSE506,Data Mining,4,B,7.8,7.85
+1329,Student 42,Semester 3,CSE201,Advanced Programming,4,B-,7.8,7.67
+1330,Student 42,Semester 8,COM301,Technical Communication,4,A,8.75,8.05
+1331,Student 42,Semester 5,CSE546,Applied Cryptography,4,C,7.8,7.85
+1332,Student 42,Semester 2,HSS201*,Research Methods,4,A-,7.44,7.59
+1333,Student 42,Semester 1,CSE121,Discrete Mathematics,4,C,7.75,7.75
+1334,Student 42,Semester 1,COM101,Communication Skills,4,A,7.75,7.75
+1335,Student 42,Semester 2,CSE122*,Theory of Computation,4,C,7.44,7.59
+1336,Student 42,Semester 7,CSE649,Network Protocol Security,4,A-,8.38,7.97
+1337,Student 42,Semester 2,CSE102,Data Structures and Algorithms,4,B-,7.44,7.59
+1338,Student 42,Semester 8,CSE330,Distributed Systems ,4,B,8.75,8.05
+1339,Student 42,Semester 5,FIN401,Foundations of Finance ,4,A-,7.8,7.85
+1340,Student 42,Semester 5,CSE340*,Image Analysis ,4,B,7.8,7.85
+1341,Student 43,Semester 3,CSE201,Advanced Programming,4,C,7.4,7.63
+1342,Student 43,Semester 7,CSE511,Computer Architecture,4,B-,7.4,7.61
+1343,Student 43,Semester 6,CSE499,BTech Project,4,B,7.2,7.65
+1344,Student 43,Semester 5,CSE310,Digital Hardware Design,4,A,8.6,7.74
+1345,Student 43,Semester 7,ECO301,Introduction to Economic Analysis,4,B,7.4,7.61
+1346,Student 43,Semester 2,CSE131-1*,System Management,2,B,7.56,7.76
+1347,Student 43,Semester 8,ECO302,Applied Econometric Analysis,4,B-,7.25,7.73
+1348,Student 43,Semester 1,CSE111,Digital Circuits,4,B,8.0,8.0
+1349,Student 43,Semester 2,CSE122*,Theory of Computation,4,B-,7.56,7.76
+1350,Student 43,Semester 2,CSE102,Data Structures and Algorithms,4,C,7.56,7.76
+1351,Student 43,Semester 2,CSE112,Computer Organisation,4,B-,7.56,7.76
+1352,Student 43,Semester 1,CSE101,Introduction to Programming,4,B-,8.0,8.0
+1353,Student 43,Semester 6,HSS205*,Introduction to Sociology,4,A-,7.2,7.65
+1354,Student 43,Semester 8,MTH502*,Number Theory,4,B,7.25,7.73
+1355,Student 43,Semester 1,COM101,Communication Skills,4,A-,8.0,8.0
+1356,Student 43,Semester 3,CSE231,Operating Systems ,4,B,7.4,7.63
+1357,Student 43,Semester 5,FIN401,Foundations of Finance ,4,B,8.6,7.74
+1358,Student 43,Semester 1,CSE121,Discrete Mathematics,4,B,8.0,8.0
+1359,Student 43,Semester 4,HSS201*,Research Methods,4,C,7.2,7.51
+1360,Student 43,Semester 6,CSE535,Mobile Computing,4,F,7.2,7.65
+1361,Student 43,Semester 7,CSE499,BTech Project,4,B,7.4,7.61
+1362,Student 43,Semester 4,CSE202,Fundamentals of Database Systems,4,A-,7.2,7.51
+1363,Student 43,Semester 4,CSE222,Analysis and Design of Algorithms,4,C,7.2,7.51
+1364,Student 43,Semester 8,COM301,Technical Communication,4,B,7.25,7.73
+1365,Student 43,Semester 2,HSS101*,Technology and Society,4,A,7.56,7.76
+1366,Student 43,Semester 6,CSE524,Theory of Modern Cryptography,4,B,7.2,7.65
+1367,Student 43,Semester 5,CSE300,Software Engineering ,4,B,8.6,7.74
+1368,Student 43,Semester 4,ESC202,Digital Communication,4,A,7.2,7.51
+1369,Student 43,Semester 5,CSE506,Data Mining,4,B-,8.6,7.74
+1370,Student 43,Semester 8,MTH202,Maths : Algebra,4,C,7.25,7.73
+1371,Student 43,Semester 3,COM201,Critical Reading,4,B,7.4,7.63
+1372,Student 43,Semester 6,CSE645,Digital and Cyber Forensic,4,A-,7.2,7.65
+1373,Student 43,Semester 4,CSE232,Computer Networks,4,C-,7.2,7.51
+1374,Student 43,Semester 3,MTH201,Probability and Statistics ,4,C,7.4,7.63
+1375,Student 43,Semester 7,ECO303,Economics of Information and IT,4,B-,7.4,7.61
+1376,Student 43,Semester 7,CSE345,Foundations of Computer Security,4,B-,7.4,7.61
+1377,Student 43,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A-,7.4,7.63
+1378,Student 43,Semester 5,CSE546,Applied Cryptography,4,A,8.6,7.74
+1379,Student 44,Semester 4,CSE232,Computer Networks,4,D,5.6,6.65
+1380,Student 44,Semester 2,CSE112,Computer Organisation,4,C,6.44,6.59
+1381,Student 44,Semester 6,CSE399,Independent Project,4,B-,6.75,6.73
+1382,Student 44,Semester 2,CSE122*,Theory of Computation,4,D,6.44,6.59
+1383,Student 44,Semester 2,CSE131-1*,System Management,2,B,6.44,6.59
+1384,Student 44,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,C,7.8,7.04
+1385,Student 44,Semester 3,MTH201,Probability and Statistics ,4,A-,7.8,7.04
+1386,Student 44,Semester 2,HSS101*,Technology and Society,4,A-,6.44,6.59
+1387,Student 44,Semester 7,CSE498,Undergraduate Research,4,C,6.4,6.68
+1388,Student 44,Semester 7,PHY301,Physics,4,C,6.4,6.68
+1389,Student 44,Semester 1,CSE111,Digital Circuits,4,C,6.75,6.75
+1390,Student 44,Semester 8,CSE694F,Multimedia Security,4,B,6.83,6.96
+1391,Student 44,Semester 3,CSE231,Operating Systems ,4,B,7.8,7.04
+1392,Student 44,Semester 4,CSE202,Fundamentals of Database Systems,4,C,5.6,6.65
+1393,Student 44,Semester 3,CSE201,Advanced Programming,4,B-,7.8,7.04
+1394,Student 44,Semester 3,COM201,Critical Reading,4,A-,7.8,7.04
+1395,Student 44,Semester 2,CSE102,Data Structures and Algorithms,4,C,6.44,6.59
+1396,Student 44,Semester 7,ECO301,Introduction to Economic Analysis,4,C,6.4,6.68
+1397,Student 44,Semester 4,HSS201*,Research Methods,4,A,5.6,6.65
+1398,Student 44,Semester 8,HSS206*,Introduction to Film Studies,4,B,6.83,6.96
+1399,Student 44,Semester 4,ESC202,Digital Communication,4,C,5.6,6.65
+1400,Student 44,Semester 1,CSE121,Discrete Mathematics,4,C,6.75,6.75
+1401,Student 44,Semester 8,CSE222,Analysis and Design of Algorithms,4,C,6.83,6.96
+1402,Student 44,Semester 5,CSE345,Foundations of Computer Security,4,B,7.0,6.72
+1403,Student 44,Semester 7,CSE506,Data Mining,4,A-,6.4,6.68
+1404,Student 44,Semester 8,MTH202,Maths : Algebra,4,C-,6.83,6.96
+1405,Student 44,Semester 8,BIO505*,Introduction to Computational Neuroscience,4,C-,6.83,6.96
+1406,Student 44,Semester 5,CSE546,Applied Cryptography,4,C-,7.0,6.72
+1407,Student 44,Semester 5,CSE340*,Image Analysis ,4,B,7.0,6.72
+1408,Student 44,Semester 1,CSE101,Introduction to Programming,4,C,6.75,6.75
+1409,Student 44,Semester 6,CSE342*,Pattern Recognition,4,F,6.75,6.73
+1410,Student 44,Semester 4,CSE222,Analysis and Design of Algorithms,4,F,5.6,6.65
+1411,Student 44,Semester 5,FIN401,Foundations of Finance ,4,B-,7.0,6.72
+1412,Student 44,Semester 7,CSE535,Mobile Computing,4,C-,6.4,6.68
+1413,Student 44,Semester 8,COM301,Technical Communication,4,A-,6.83,6.96
+1414,Student 44,Semester 5,CSE300,Software Engineering ,4,B-,7.0,6.72
+1415,Student 44,Semester 1,COM101,Communication Skills,4,A-,6.75,6.75
+1416,Student 44,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,A-,6.75,6.73
+1417,Student 44,Semester 6,HSS205*,Introduction to Sociology,4,A-,6.75,6.73
+1418,Student 45,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A-,8.38,6.74
+1419,Student 45,Semester 2,CSE122*,Theory of Computation,4,C,5.67,5.82
+1420,Student 45,Semester 5,CSE546,Applied Cryptography,4,C,6.6,6.28
+1421,Student 45,Semester 5,BTY301,Introduction to Biotechnology ,4,B,6.6,6.28
+1422,Student 45,Semester 2,CSE112,Computer Organisation,4,C,5.67,5.82
+1423,Student 45,Semester 7,CSE506,Data Mining,4,B-,8.38,6.74
+1424,Student 45,Semester 4,HSS204*,Introduction to Psychology,4,B-,6.8,6.19
+1425,Student 45,Semester 1,CSE121,Discrete Mathematics,4,D,6.0,6.0
+1426,Student 45,Semester 6,CSE606,Data Warehousing,4,B,7.6,6.51
+1427,Student 45,Semester 2,CSE102,Data Structures and Algorithms,4,C,5.67,5.82
+1428,Student 45,Semester 7,CSE501,Designing Human-Centered Systems,4,B,8.38,6.74
+1429,Student 45,Semester 3,CSE201,Advanced Programming,4,B-,6.2,5.96
+1430,Student 45,Semester 4,ESC202,Digital Communication,4,A-,6.8,6.19
+1431,Student 45,Semester 5,FIN401,Foundations of Finance ,4,C,6.6,6.28
+1432,Student 45,Semester 1,COM101,Communication Skills,4,B,6.0,6.0
+1433,Student 45,Semester 8,CSE694F,Multimedia Security,4,A-,7.75,6.85
+1434,Student 45,Semester 6,CSE535,Mobile Computing,4,B-,7.6,6.51
+1435,Student 45,Semester 2,HSS101*,Technology and Society,4,D,5.67,5.82
+1436,Student 45,Semester 5,CSE345,Foundations of Computer Security,4,B-,6.6,6.28
+1437,Student 45,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,B-,7.75,6.85
+1438,Student 45,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,B-,6.2,5.96
+1439,Student 45,Semester 1,CSE101,Introduction to Programming,4,C,6.0,6.0
+1440,Student 45,Semester 1,CSE111,Digital Circuits,4,C,6.0,6.0
+1441,Student 45,Semester 2,CSE131-1*,System Management,2,B-,5.67,5.82
+1442,Student 45,Semester 8,COM301,Technical Communication,4,B,7.75,6.85
+1443,Student 45,Semester 3,MTH201,Probability and Statistics ,4,D,6.2,5.96
+1444,Student 45,Semester 4,CSE222,Analysis and Design of Algorithms,4,B-,6.8,6.19
+1445,Student 45,Semester 4,CSE202,Fundamentals of Database Systems,4,C,6.8,6.19
+1446,Student 45,Semester 3,CSE231,Operating Systems ,4,B-,6.2,5.96
+1447,Student 45,Semester 8,CSE330,Distributed Systems ,4,B-,7.75,6.85
+1448,Student 45,Semester 7,ENT401,Entrepreneurship as a Career,2,B,8.38,6.74
+1449,Student 45,Semester 5,CSE300,Software Engineering ,4,C,6.6,6.28
+1450,Student 45,Semester 7,PHY301,Physics,4,A,8.38,6.74
+1451,Student 45,Semester 6,HSS202*,Perspectives on Knowledge,4,A-,7.6,6.51
+1452,Student 45,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,B-,7.6,6.51
+1453,Student 45,Semester 4,CSE232,Computer Networks,4,C-,6.8,6.19
+1454,Student 45,Semester 6,ECO301,Introduction to Economic Analysis,4,B-,7.6,6.51
+1455,Student 45,Semester 3,COM201,Critical Reading,4,C,6.2,5.96
+1456,Student 46,Semester 2,CSE131-1*,System Management,2,C,,
+1457,Student 46,Semester 1,COM101,Communication Skills,4,B,,
+1458,Student 46,Semester 2,CSE112,Computer Organisation,4,D,,
+1459,Student 46,Semester 1,CSE121,Discrete Mathematics,4,F,,
+1460,Student 46,Semester 2,CSE122*,Theory of Computation,4,F,,
+1461,Student 46,Semester 1,CSE111,Digital Circuits,4,D,,
+1462,Student 46,Semester 1,CSE101,Introduction to Programming,4,C-,,
+1463,Student 46,Semester 2,CSE102,Data Structures and Algorithms,4,F,,
+1464,Student 46,Semester 2,HSS101*,Technology and Society,4,C-,,
+1465,Student 47,Semester 7,CSE506,Data Mining,4,B-,8.11,7.79
+1466,Student 47,Semester 1,CSE101,Introduction to Programming,4,C-,7.25,7.25
+1467,Student 47,Semester 6,CSE342*,Pattern Recognition,4,B-,7.8,7.74
+1468,Student 47,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A-,8.11,7.79
+1469,Student 47,Semester 5,CSE300,Software Engineering ,4,C,7.2,7.72
+1470,Student 47,Semester 6,CSE537,Embedded Systems,4,B,7.8,7.74
+1471,Student 47,Semester 5,CSE340*,Image Analysis ,4,B,7.2,7.72
+1472,Student 47,Semester 1,CSE121,Discrete Mathematics,4,B,7.25,7.25
+1473,Student 47,Semester 5,CSE546,Applied Cryptography,4,C,7.2,7.72
+1474,Student 47,Semester 8,PHY302,Semiconductors and Optics,4,B,7.5,7.76
+1475,Student 47,Semester 6,CSE535,Mobile Computing,4,B-,7.8,7.74
+1476,Student 47,Semester 5,CSE345,Foundations of Computer Security,4,B,7.2,7.72
+1477,Student 47,Semester 2,HSS202*,Perspectives on Knowledge,4,B-,7.44,7.35
+1478,Student 47,Semester 1,COM101,Communication Skills,4,A,7.25,7.25
+1479,Student 47,Semester 5,FIN401,Foundations of Finance ,4,B,7.2,7.72
+1480,Student 47,Semester 3,CSE201,Advanced Programming,4,B,8.2,7.67
+1481,Student 47,Semester 8,COM301,Technical Communication,4,B-,7.5,7.76
+1482,Student 47,Semester 8,CSE538*,Ad-hoc Wireless Networks,4,B,7.5,7.76
+1483,Student 47,Semester 4,ESC202,Digital Communication,4,A,8.4,7.86
+1484,Student 47,Semester 4,HSS204*,Introduction to Psychology,4,A,8.4,7.86
+1485,Student 47,Semester 3,COM201,Critical Reading,4,B,8.2,7.67
+1486,Student 47,Semester 8,CSE330,Distributed Systems ,4,B-,7.5,7.76
+1487,Student 47,Semester 7,CSE501,Designing Human-Centered Systems,4,A-,8.11,7.79
+1488,Student 47,Semester 4,CSE232,Computer Networks,4,C,8.4,7.86
+1489,Student 47,Semester 3,CSE231,Operating Systems ,4,B,8.2,7.67
+1490,Student 47,Semester 7,ECO301,Introduction to Economic Analysis,4,B,8.11,7.79
+1491,Student 47,Semester 7,CSE343,Machine Learning,4,B,8.11,7.79
+1492,Student 47,Semester 6,FIN402,Valuation and Portfolio Management,4,B,7.8,7.74
+1493,Student 47,Semester 4,CSE202,Fundamentals of Database Systems,4,B,8.4,7.86
+1494,Student 47,Semester 2,CSE131-1*,System Management,2,A-,7.44,7.35
+1495,Student 47,Semester 4,CSE222,Analysis and Design of Algorithms,4,B,8.4,7.86
+1496,Student 47,Semester 3,MTH201,Probability and Statistics ,4,B,8.2,7.67
+1497,Student 47,Semester 1,CSE111,Digital Circuits,4,C,7.25,7.25
+1498,Student 47,Semester 6,HSS206*,Introduction to Film Studies,4,A-,7.8,7.74
+1499,Student 47,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A-,8.2,7.67
+1500,Student 47,Semester 2,CSE122*,Theory of Computation,4,B-,7.44,7.35
+1501,Student 47,Semester 2,CSE112,Computer Organisation,4,B,7.44,7.35
+1502,Student 47,Semester 2,CSE102,Data Structures and Algorithms,4,B-,7.44,7.35
+1503,Student 48,Semester 6,CSE538*,Ad-hoc Wireless Networks,4,B-,6.6,5.51
+1504,Student 48,Semester 4,CSE232,Computer Networks,4,D,5.8,5.19
+1505,Student 48,Semester 4,ESC202,Digital Communication,4,C,5.8,5.19
+1506,Student 48,Semester 2,CSE131-1*,System Management,2,C,4.44,5.29
+1507,Student 48,Semester 1,CSE111,Digital Circuits,4,C,6.25,6.25
+1508,Student 48,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,C,6.6,5.51
+1509,Student 48,Semester 5,CSE546,Applied Cryptography,4,D,5.6,5.28
+1510,Student 48,Semester 3,MTH201,Probability and Statistics ,4,D,4.4,4.96
+1511,Student 48,Semester 4,CSE222,Analysis and Design of Algorithms,4,C,5.8,5.19
+1512,Student 48,Semester 7,PHY301,Physics,4,A-,8.0,5.82
+1513,Student 48,Semester 5,CSE300,Software Engineering ,4,D,5.6,5.28
+1514,Student 48,Semester 8,CSE694F,Multimedia Security,4,B-,7.0,5.95
+1515,Student 48,Semester 3,CSE231,Operating Systems ,4,D,4.4,4.96
+1516,Student 48,Semester 2,HSS101*,Technology and Society,4,D,4.44,5.29
+1517,Student 48,Semester 2,CSE102,Data Structures and Algorithms,4,D,4.44,5.29
+1518,Student 48,Semester 4,CSE202,Fundamentals of Database Systems,4,C,5.8,5.19
+1519,Student 48,Semester 1,COM101,Communication Skills,4,B,6.25,6.25
+1520,Student 48,Semester 4,HSS204*,Introduction to Psychology,4,B-,5.8,5.19
+1521,Student 48,Semester 8,PHY302,Semiconductors and Optics,4,B,7.0,5.95
+1522,Student 48,Semester 6,CSE535,Mobile Computing,4,C-,6.6,5.51
+1523,Student 48,Semester 6,CSE606,Data Warehousing,4,B,6.6,5.51
+1524,Student 48,Semester 5,CSE345,Foundations of Computer Security,4,B-,5.6,5.28
+1525,Student 48,Semester 5,CSE521,Logic for Computer Science,4,C,5.6,5.28
+1526,Student 48,Semester 7,CSE501,Designing Human-Centered Systems,4,B,8.0,5.82
+1527,Student 48,Semester 1,CSE121,Discrete Mathematics,4,C,6.25,6.25
+1528,Student 48,Semester 3,COM201,Critical Reading,4,D,4.4,4.96
+1529,Student 48,Semester 8,CSE330,Distributed Systems ,4,B-,7.0,5.95
+1530,Student 48,Semester 5,CSE506,Data Mining,4,B-,5.6,5.28
+1531,Student 48,Semester 7,CSE648,Privacy and Security in Online Social Media,4,B,8.0,5.82
+1532,Student 48,Semester 8,COM301,Technical Communication,4,C,7.0,5.95
+1533,Student 48,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,C,4.4,4.96
+1534,Student 48,Semester 6,HSS206*,Introduction to Film Studies,4,B-,6.6,5.51
+1535,Student 48,Semester 3,CSE201,Advanced Programming,4,D,4.4,4.96
+1536,Student 48,Semester 2,CSE112,Computer Organisation,4,C-,4.44,5.29
+1537,Student 48,Semester 2,CSE122*,Theory of Computation,4,D,4.44,5.29
+1538,Student 48,Semester 7,ECO301,Introduction to Economic Analysis,4,B-,8.0,5.82
+1539,Student 48,Semester 1,CSE101,Introduction to Programming,4,C-,6.25,6.25
+1540,Student 49,Semester 1,CSE121,Discrete Mathematics,4,B,9.0,9.0
+1541,Student 49,Semester 3,CSE201,Advanced Programming,4,A-,9.0,8.96
+1542,Student 49,Semester 2,CSE122*,Theory of Computation,4,A-,8.89,8.94
+1543,Student 49,Semester 4,ESC202,Digital Communication,4,B,8.6,8.86
+1544,Student 49,Semester 6,CSE645,Digital and Cyber Forensic,4,A,9.6,8.95
+1545,Student 49,Semester 4,HSS204*,Introduction to Psychology,4,B,8.6,8.86
+1546,Student 49,Semester 8,CSE330,Distributed Systems ,4,A,9.6,9.01
+1547,Student 49,Semester 5,CSE521,Logic for Computer Science,4,B,8.67,8.82
+1548,Student 49,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A,8.8,8.93
+1549,Student 49,Semester 7,CSE398A-1,Independent Study,4,B,8.8,8.93
+1550,Student 49,Semester 3,COM201,Critical Reading,4,A-,9.0,8.96
+1551,Student 49,Semester 6,CSE399,Independent Project,4,B,9.6,8.95
+1552,Student 49,Semester 4,CSE232,Computer Networks,4,A+,8.6,8.86
+1553,Student 49,Semester 2,CSE112,Computer Organisation,4,B,8.89,8.94
+1554,Student 49,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,A,9.6,9.01
+1555,Student 49,Semester 3,CSE231,Operating Systems ,4,A,9.0,8.96
+1556,Student 49,Semester 7,CSE343,Machine Learning,4,B-,8.8,8.93
+1557,Student 49,Semester 2,CSE102,Data Structures and Algorithms,4,B,8.89,8.94
+1558,Student 49,Semester 4,CSE202,Fundamentals of Database Systems,4,A-,8.6,8.86
+1559,Student 49,Semester 5,CSE300,Software Engineering ,4,A,8.67,8.82
+1560,Student 49,Semester 4,CSE222,Analysis and Design of Algorithms,4,B,8.6,8.86
+1561,Student 49,Semester 1,CSE101,Introduction to Programming,4,A,9.0,9.0
+1562,Student 49,Semester 8,CSE734,Advance Topics in Mobile Computing,4,A,9.6,9.01
+1563,Student 49,Semester 6,HSS205*,Introduction to Sociology,4,A,9.6,8.95
+1564,Student 49,Semester 7,CSE535,Mobile Computing,4,A,8.8,8.93
+1565,Student 49,Semester 8,COM301,Technical Communication,4,A,9.6,9.01
+1566,Student 49,Semester 7,CSE499,BTech Project,4,A-,8.8,8.93
+1567,Student 49,Semester 3,MTH201,Probability and Statistics ,4,B-,9.0,8.96
+1568,Student 49,Semester 1,CSE111,Digital Circuits,4,B,9.0,9.0
+1569,Student 49,Semester 8,CSE499,BTech Project,4,B,9.6,9.01
+1570,Student 49,Semester 2,CSE131-1*,System Management,2,A,8.89,8.94
+1571,Student 49,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A,9.0,8.96
+1572,Student 49,Semester 6,CSE499,BTech Project,4,A,9.6,8.95
+1573,Student 49,Semester 2,HSS101*,Technology and Society,4,A,8.89,8.94
+1574,Student 49,Semester 5,CSE345,Foundations of Computer Security,4,A,8.67,8.82
+1575,Student 49,Semester 5,CSE506,Data Mining,4,A,8.67,8.82
+1576,Student 49,Semester 6,CSE539,Cellular Data Networks,4,A,9.6,8.95
+1577,Student 49,Semester 1,COM101,Communication Skills,4,A,9.0,9.0
+1578,Student 49,Semester 5,CSE546,Applied Cryptography,4,C-,8.67,8.82
+1579,Student 49,Semester 7,CSE694D,Privacy in Location Based Services ,2,A,8.8,8.93
+1580,Student 49,Semester 5,CSE507,Database System Implementation,4,A-,8.67,8.82
+1581,Student 50,Semester 1,CSE111,Digital Circuits,4,A,10.0,10.0
+1582,Student 50,Semester 1,COM101,Communication Skills,4,A,10.0,10.0
+1583,Student 50,Semester 9,CSE507,Database System Implementation,4,A,10.0,9.42
+1584,Student 50,Semester 4,CSE232,Computer Networks,4,B,8.2,9.03
+1585,Student 50,Semester 6,CSE342*,Pattern Recognition,4,A+,9.67,9.29
+1586,Student 50,Semester 1,CSE121,Discrete Mathematics,4,A,10.0,10.0
+1587,Student 50,Semester 2,CSE131-1*,System Management,2,A,9.33,9.65
+1588,Student 50,Semester 8,HSS206*,Introduction to Film Studies,4,B,9.6,9.33
+1589,Student 50,Semester 3,CSE201,Advanced Programming,4,B,8.8,9.33
+1590,Student 50,Semester 3,COM201,Critical Reading,4,B,8.8,9.33
+1591,Student 50,Semester 8,CSE538*,Ad-hoc Wireless Networks,4,A,9.6,9.33
+1592,Student 50,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A+,8.8,9.33
+1593,Student 50,Semester 8,CSE499,BTech Project,4,A,9.6,9.33
+1594,Student 50,Semester 6,CSE535,Mobile Computing,4,A,9.67,9.29
+1595,Student 50,Semester 6,CSE606,Data Warehousing,4,A,9.67,9.29
+1596,Student 50,Semester 8,COM301,Technical Communication,4,A,9.6,9.33
+1597,Student 50,Semester 2,CSE102,Data Structures and Algorithms,4,A-,9.33,9.65
+1598,Student 50,Semester 9,CSE343,Machine Learning,4,A+,10.0,9.42
+1599,Student 50,Semester 4,CSE202,Fundamentals of Database Systems,4,B,8.2,9.03
+1600,Student 50,Semester 5,CSE546,Applied Cryptography,4,A,9.8,9.19
+1601,Student 50,Semester 6,FIN402,Valuation and Portfolio Management,4,A-,9.67,9.29
+1602,Student 50,Semester 5,CSE340*,Image Analysis ,4,A,9.8,9.19
+1603,Student 50,Semester 3,CSE231,Operating Systems ,4,A,8.8,9.33
+1604,Student 50,Semester 4,CSE222,Analysis and Design of Algorithms,4,A-,8.2,9.03
+1605,Student 50,Semester 4,HSS204*,Introduction to Psychology,4,B,8.2,9.03
+1606,Student 50,Semester 5,CSE300,Software Engineering ,4,A-,9.8,9.19
+1607,Student 50,Semester 2,CSE112,Computer Organisation,4,A-,9.33,9.65
+1608,Student 50,Semester 5,CSE506,Data Mining,4,A,9.8,9.19
+1609,Student 50,Semester 9,CSE499,BTech Project,4,A,10.0,9.42
+1610,Student 50,Semester 9,CSE398A-1,Independent Study,4,A,10.0,9.42
+1611,Student 50,Semester 1,CSE101,Introduction to Programming,4,A,10.0,10.0
+1612,Student 50,Semester 2,CSE122*,Theory of Computation,4,A-,9.33,9.65
+1613,Student 50,Semester 8,CSE694F,Multimedia Security,4,A+,9.6,9.33
+1614,Student 50,Semester 6,HSS205*,Introduction to Sociology,4,A,9.67,9.29
+1615,Student 50,Semester 2,HSS201*,Research Methods,4,A,9.33,9.65
+1616,Student 50,Semester 9,CSE539,Cellular Data Networks,4,A,10.0,9.42
+1617,Student 50,Semester 4,ESC202,Digital Communication,4,B,8.2,9.03
+1618,Student 50,Semester 6,CSE499,BTech Project,4,A-,9.67,9.29
+1619,Student 50,Semester 5,FIN401,Foundations of Finance ,4,A,9.8,9.19
+1620,Student 50,Semester 3,MTH201,Probability and Statistics ,4,B,8.8,9.33
+1621,Student 51,Semester 7,CSE499,BTech Project,4,A-,9.2,8.69
+1622,Student 51,Semester 1,COM101,Communication Skills,4,A,7.25,7.25
+1623,Student 51,Semester 1,CSE101,Introduction to Programming,4,C,7.25,7.25
+1624,Student 51,Semester 1,CSE121,Discrete Mathematics,4,C-,7.25,7.25
+1625,Student 51,Semester 3,CSE201,Advanced Programming,4,A-,8.8,8.3
+1626,Student 51,Semester 3,COM201,Critical Reading,4,A,8.8,8.3
+1627,Student 51,Semester 3,CSE231,Operating Systems ,4,A-,8.8,8.3
+1628,Student 51,Semester 3,MTH201,Probability and Statistics ,4,B,8.8,8.3
+1629,Student 51,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,B,8.8,8.3
+1630,Student 51,Semester 2,CSE112,Computer Organisation,4,B,8.67,8.0
+1631,Student 51,Semester 2,CSE102,Data Structures and Algorithms,4,A-,8.67,8.0
+1632,Student 51,Semester 2,CSE131-1*,System Management,2,B,8.67,8.0
+1633,Student 51,Semester 2,CSE122*,Theory of Computation,4,B,8.67,8.0
+1634,Student 51,Semester 2,HSS101*,Technology and Society,4,A,8.67,8.0
+1635,Student 51,Semester 1,CSE111,Digital Circuits,4,B,7.25,7.25
+1636,Student 51,Semester 4,CSE202,Fundamentals of Database Systems,4,B,8.8,8.43
+1637,Student 51,Semester 4,CSE222,Analysis and Design of Algorithms,4,A-,8.8,8.43
+1638,Student 51,Semester 4,CSE232,Computer Networks,4,A-,8.8,8.43
+1639,Student 51,Semester 4,HSS204*,Introduction to Psychology,4,A,8.8,8.43
+1640,Student 51,Semester 4,ESC202,Digital Communication,4,B,8.8,8.43
+1641,Student 51,Semester 8,CSE531,Multiagent Systems,4,A-,9.0,8.73
+1642,Student 51,Semester 5,FIN401,Foundations of Finance ,4,B-,8.6,8.47
+1643,Student 51,Semester 5,CSE546,Applied Cryptography,4,A-,8.6,8.47
+1644,Student 51,Semester 5,CSE340*,Image Analysis ,4,A-,8.6,8.47
+1645,Student 51,Semester 5,CSE300,Software Engineering ,4,A,8.6,8.47
+1646,Student 51,Semester 5,CSE506,Data Mining,4,B,8.6,8.47
+1647,Student 51,Semester 8,BIO505*,Introduction to Computational Neuroscience,4,B-,9.0,8.73
+1648,Student 51,Semester 6,CSE342*,Pattern Recognition,4,A-,9.2,8.6
+1649,Student 51,Semester 6,CSE535,Mobile Computing,4,A,9.2,8.6
+1650,Student 51,Semester 8,CSE330,Distributed Systems ,4,A-,9.0,8.73
+1651,Student 51,Semester 6,FIN402,Valuation and Portfolio Management,4,A-,9.2,8.6
+1652,Student 51,Semester 6,HSS206*,Introduction to Film Studies,4,A-,9.2,8.6
+1653,Student 51,Semester 6,CSE524,Theory of Modern Cryptography,4,A-,9.2,8.6
+1654,Student 51,Semester 8,ECO302,Applied Econometric Analysis,4,A-,9.0,8.73
+1655,Student 51,Semester 8,CSE499,BTech Project,4,A,9.0,8.73
+1656,Student 51,Semester 8,COM301,Technical Communication,4,A,9.0,8.73
+1657,Student 51,Semester 7,PHY301,Physics,4,B,9.2,8.69
+1658,Student 51,Semester 7,CSE343,Machine Learning,4,A,9.2,8.69
+1659,Student 51,Semester 7,ECO301,Introduction to Economic Analysis,4,A-,9.2,8.69
+1660,Student 51,Semester 7,CSE399,Independent Project,4,A,9.2,8.69
+1661,Student 52,Semester 6,COM301,Technical Communication,4,A-,8.2,8.89
+1662,Student 52,Semester 5,CSE345,Foundations of Computer Security,4,A-,8.4,9.04
+1663,Student 52,Semester 6,CSE793A,Topics in Cryptanalysis,4,B,8.2,8.89
+1664,Student 52,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A,9.2,9.59
+1665,Student 52,Semester 5,CSE546,Applied Cryptography,4,B-,8.4,9.04
+1666,Student 52,Semester 1,COM101,Communication Skills,4,A,10.0,10.0
+1667,Student 52,Semester 1,CSE121,Discrete Mathematics,4,A,10.0,10.0
+1668,Student 52,Semester 7,CSE499B,BTech Project,6,C,7.82,8.72
+1669,Student 52,Semester 4,CSE202,Fundamentals of Database Systems,4,B,8.2,9.22
+1670,Student 52,Semester 5,CSE507,Database System Implementation,4,B,8.4,9.04
+1671,Student 52,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,B,8.18,8.65
+1672,Student 52,Semester 5,CSE523,Randomised Algorithms,4,A-,8.4,9.04
+1673,Student 52,Semester 2,CSE102,Data Structures and Algorithms,4,A,9.67,9.82
+1674,Student 52,Semester 3,CSE231,Operating Systems ,4,B,9.2,9.59
+1675,Student 52,Semester 4,CSE232,Computer Networks,4,A-,8.2,9.22
+1676,Student 52,Semester 6,CSE535,Mobile Computing,4,C,8.2,8.89
+1677,Student 52,Semester 6,CSE537,Embedded Systems,4,B,8.2,8.89
+1678,Student 52,Semester 7,CSE340*,Image Analysis ,4,A-,7.82,8.72
+1679,Student 52,Semester 7,CSE506,Data Mining,4,B-,7.82,8.72
+1680,Student 52,Semester 6,CSE499,BTech Project,4,A,8.2,8.89
+1681,Student 52,Semester 3,COM201,Critical Reading,4,A,9.2,9.59
+1682,Student 52,Semester 3,CSE201,Advanced Programming,4,A-,9.2,9.59
+1683,Student 52,Semester 2,CSE131-1*,System Management,2,A-,9.67,9.82
+1684,Student 52,Semester 1,CSE101,Introduction to Programming,4,A,10.0,10.0
+1685,Student 52,Semester 4,HSS204*,Introduction to Psychology,4,B,8.2,9.22
+1686,Student 52,Semester 1,CSE111,Digital Circuits,4,A,10.0,10.0
+1687,Student 52,Semester 4,ESC202,Digital Communication,4,B-,8.2,9.22
+1688,Student 52,Semester 4,CSE222,Analysis and Design of Algorithms,4,A-,8.2,9.22
+1689,Student 52,Semester 7,CSE300,Software Engineering ,4,B,7.82,8.72
+1690,Student 52,Semester 3,MTH201,Probability and Statistics ,4,A-,9.2,9.59
+1691,Student 52,Semester 2,CSE112,Computer Organisation,4,A,9.67,9.82
+1692,Student 52,Semester 2,HSS201*,Research Methods,4,A,9.67,9.82
+1693,Student 52,Semester 8,CSE531,Multiagent Systems,4,B,8.18,8.65
+1694,Student 52,Semester 2,CSE122*,Theory of Computation,4,A-,9.67,9.82
+1695,Student 52,Semester 5,CSE399,Independent Project,4,A-,8.4,9.04
+1696,Student 52,Semester 7,CSE501,Designing Human-Centered Systems,4,A,7.82,8.72
+1697,Student 52,Semester 8,COM333,Organisational Behavior,2,A,8.18,8.65
+1698,Student 52,Semester 8,CSE499,BTech Project,4,A-,8.18,8.65
+1699,Student 52,Semester 8,CSE398A-1,Independent Study,4,B,8.18,8.65
+1700,Student 52,Semester 8,CSE440,Intelligent Systems 1,4,B-,8.18,8.65
+1701,Student 53,Semester 2,HSS201*,Research Methods,4,A,8.33,8.53
+1702,Student 53,Semester 2,CSE122*,Theory of Computation,4,B-,8.33,8.53
+1703,Student 53,Semester 4,CSE202,Fundamentals of Database Systems,4,A,8.2,8.57
+1704,Student 53,Semester 5,CSE506,Data Mining,4,A,9.27,8.73
+1705,Student 53,Semester 8,CSE498,Undergraduate Research,4,B,9.33,8.83
+1706,Student 53,Semester 1,CSE101,Introduction to Programming,4,A-,8.75,8.75
+1707,Student 53,Semester 7,CSE535,Mobile Computing,4,B,8.7,8.78
+1708,Student 53,Semester 1,CSE111,Digital Circuits,4,B-,8.75,8.75
+1709,Student 53,Semester 3,CSE201,Advanced Programming,4,A-,9.0,8.7
+1710,Student 53,Semester 6,COM301,Technical Communication,4,A-,9.09,8.8
+1711,Student 53,Semester 2,CSE112,Computer Organisation,4,B,8.33,8.53
+1712,Student 53,Semester 6,ECO301,Introduction to Economic Analysis,4,B,9.09,8.8
+1713,Student 53,Semester 5,CSE300,Software Engineering ,4,B,9.27,8.73
+1714,Student 53,Semester 5,CSE498,Undergraduate Research,4,A,9.27,8.73
+1715,Student 53,Semester 3,CSE231,Operating Systems ,4,A,9.0,8.7
+1716,Student 53,Semester 8,CSE499A,BTech Project,8,A,9.33,8.83
+1717,Student 53,Semester 2,CSE102,Data Structures and Algorithms,4,B,8.33,8.53
+1718,Student 53,Semester 6,CSE606,Data Warehousing,4,A,9.09,8.8
+1719,Student 53,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A-,8.7,8.78
+1720,Student 53,Semester 5,CSE694C,Privacy and Security in Online Social Media,2,A,9.27,8.73
+1721,Student 53,Semester 1,CSE121,Discrete Mathematics,4,A-,8.75,8.75
+1722,Student 53,Semester 5,CSE345,Foundations of Computer Security,4,A-,9.27,8.73
+1723,Student 53,Semester 6,FIN402,Valuation and Portfolio Management,4,B,9.09,8.8
+1724,Student 53,Semester 3,MTH201,Probability and Statistics ,4,B-,9.0,8.7
+1725,Student 53,Semester 5,FIN401,Foundations of Finance ,4,A-,9.27,8.73
+1726,Student 53,Semester 7,CSE499A,BTech Project,8,A,8.7,8.78
+1727,Student 53,Semester 6,CSE498,Undergraduate Research,4,A,9.09,8.8
+1728,Student 53,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A-,9.0,8.7
+1729,Student 53,Semester 7,ECO303,Economics of Information and IT,4,B-,8.7,8.78
+1730,Student 53,Semester 4,ESC202,Digital Communication,4,B,8.2,8.57
+1731,Student 53,Semester 6,CSE607,Financial Data Analytics,2,A+,9.09,8.8
+1732,Student 53,Semester 8,HSS999*,Distance Course in HSS,4,S,9.33,8.83
+1733,Student 53,Semester 4,HSS204*,Introduction to Psychology,4,B,8.2,8.57
+1734,Student 53,Semester 7,ENT401,Entrepreneurship as a Career,2,B,8.7,8.78
+1735,Student 53,Semester 2,CSE131-1*,System Management,2,A-,8.33,8.53
+1736,Student 53,Semester 4,CSE232,Computer Networks,4,B-,8.2,8.57
+1737,Student 53,Semester 3,COM201,Critical Reading,4,A,9.0,8.7
+1738,Student 53,Semester 1,COM101,Communication Skills,4,A,8.75,8.75
+1739,Student 53,Semester 4,CSE222,Analysis and Design of Algorithms,4,B,8.2,8.57
+1740,Student 54,Semester 4,CSE232,Computer Networks,4,B,6.6,7.32
+1741,Student 54,Semester 3,CSE201,Advanced Programming,4,B-,6.6,7.59
+1742,Student 54,Semester 4,CSE222,Analysis and Design of Algorithms,4,C-,6.6,7.32
+1743,Student 54,Semester 8,COM333,Organisational Behavior,2,A-,7.86,7.4
+1744,Student 54,Semester 7,CSE343,Machine Learning,4,C,7.6,7.35
+1745,Student 54,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,C-,6.6,7.59
+1746,Student 54,Semester 4,CSE202,Fundamentals of Database Systems,4,C,6.6,7.32
+1747,Student 54,Semester 2,HSS101*,Technology and Society,4,B-,7.44,8.18
+1748,Student 54,Semester 6,CSE398A,Independent Study,2,A,7.78,7.3
+1749,Student 54,Semester 5,CSE500,Secure Coding,4,A-,6.8,7.21
+1750,Student 54,Semester 2,CSE122*,Theory of Computation,4,B,7.44,8.18
+1751,Student 54,Semester 4,ESC202,Digital Communication,4,C,6.6,7.32
+1752,Student 54,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,A-,7.86,7.4
+1753,Student 54,Semester 1,CSE101,Introduction to Programming,4,A-,9.0,9.0
+1754,Student 54,Semester 3,CSE231,Operating Systems ,4,B,6.6,7.59
+1755,Student 54,Semester 7,CSE506,Data Mining,4,C,7.6,7.35
+1756,Student 54,Semester 7,CSE499,BTech Project,4,B,7.6,7.35
+1757,Student 54,Semester 5,CSE521,Logic for Computer Science,4,B,6.8,7.21
+1758,Student 54,Semester 2,CSE131-1*,System Management,2,A-,7.44,8.18
+1759,Student 54,Semester 3,MTH201,Probability and Statistics ,4,C-,6.6,7.59
+1760,Student 54,Semester 1,COM101,Communication Skills,4,A,9.0,9.0
+1761,Student 54,Semester 4,HSS204*,Introduction to Psychology,4,B,6.6,7.32
+1762,Student 54,Semester 2,CSE102,Data Structures and Algorithms,4,B-,7.44,8.18
+1763,Student 54,Semester 7,CSE649,Network Protocol Security,4,A-,7.6,7.35
+1764,Student 54,Semester 5,CSE546,Applied Cryptography,4,D,6.8,7.21
+1765,Student 54,Semester 5,CSE300,Software Engineering ,4,C-,6.8,7.21
+1766,Student 54,Semester 6,CSE537,Embedded Systems,4,B-,7.78,7.3
+1767,Student 54,Semester 1,CSE121,Discrete Mathematics,4,A-,9.0,9.0
+1768,Student 54,Semester 8,CSE522,Verification of Reactive Systems,4,C,7.86,7.4
+1769,Student 54,Semester 5,CSE345,Foundations of Computer Security,4,B,6.8,7.21
+1770,Student 54,Semester 8,CSE330,Distributed Systems ,4,B,7.86,7.4
+1771,Student 54,Semester 7,CSE340*,Image Analysis ,4,A-,7.6,7.35
+1772,Student 54,Semester 2,CSE112,Computer Organisation,4,B-,7.44,8.18
+1773,Student 54,Semester 1,CSE111,Digital Circuits,4,B,9.0,9.0
+1774,Student 54,Semester 6,CSE539,Cellular Data Networks,4,A-,7.78,7.3
+1775,Student 54,Semester 6,CSE535,Mobile Computing,4,B-,7.78,7.3
+1776,Student 54,Semester 3,COM201,Critical Reading,4,B,6.6,7.59
+1777,Student 54,Semester 6,COM301,Technical Communication,4,B-,7.78,7.3
+1778,Student 55,Semester 4,CSE202,Fundamentals of Database Systems,4,B,8.4,8.38
+1779,Student 55,Semester 3,CSE231,Operating Systems ,4,B,8.8,8.37
+1780,Student 55,Semester 7,ECO301,Introduction to Economic Analysis,4,A-,8.8,8.58
+1781,Student 55,Semester 5,CSE506,Data Mining,4,B,8.67,8.45
+1782,Student 55,Semester 3,COM201,Critical Reading,4,B,8.8,8.37
+1783,Student 55,Semester 3,CSE201,Advanced Programming,4,B,8.8,8.37
+1784,Student 55,Semester 6,FIN402,Valuation and Portfolio Management,4,A-,9.0,8.54
+1785,Student 55,Semester 5,CSE300,Software Engineering ,4,B,8.67,8.45
+1786,Student 55,Semester 8,CSE499,BTech Project,4,A,8.6,8.58
+1787,Student 55,Semester 8,ECO302,Applied Econometric Analysis,4,B,8.6,8.58
+1788,Student 55,Semester 5,CSE523,Randomised Algorithms,4,A-,8.67,8.45
+1789,Student 55,Semester 8,COM301,Technical Communication,4,A,8.6,8.58
+1790,Student 55,Semester 5,CSE340*,Image Analysis ,4,B,8.67,8.45
+1791,Student 55,Semester 5,CSE546,Applied Cryptography,4,A-,8.67,8.45
+1792,Student 55,Semester 5,FIN401,Foundations of Finance ,4,A,8.67,8.45
+1793,Student 55,Semester 1,COM101,Communication Skills,4,B,8.0,8.0
+1794,Student 55,Semester 8,CSE330,Distributed Systems ,4,B-,8.6,8.58
+1795,Student 55,Semester 8,CSE531,Multiagent Systems,4,B,8.6,8.58
+1796,Student 55,Semester 6,HSS206*,Introduction to Film Studies,4,A-,9.0,8.54
+1797,Student 55,Semester 4,ESC202,Digital Communication,4,A,8.4,8.38
+1798,Student 55,Semester 4,HSS204*,Introduction to Psychology,4,B,8.4,8.38
+1799,Student 55,Semester 4,CSE232,Computer Networks,4,B,8.4,8.38
+1800,Student 55,Semester 7,CSE649,Network Protocol Security,4,A-,8.8,8.58
+1801,Student 55,Semester 6,CSE535,Mobile Computing,4,A-,9.0,8.54
+1802,Student 55,Semester 7,PHY301,Physics,4,B,8.8,8.58
+1803,Student 55,Semester 4,CSE222,Analysis and Design of Algorithms,4,B,8.4,8.38
+1804,Student 55,Semester 3,MTH201,Probability and Statistics ,4,A,8.8,8.37
+1805,Student 55,Semester 7,CSE343,Machine Learning,4,A-,8.8,8.58
+1806,Student 55,Semester 1,CSE111,Digital Circuits,4,A-,8.0,8.0
+1807,Student 55,Semester 1,CSE101,Introduction to Programming,4,A-,8.0,8.0
+1808,Student 55,Semester 2,HSS101*,Technology and Society,4,B,8.22,8.12
+1809,Student 55,Semester 2,CSE122*,Theory of Computation,4,B,8.22,8.12
+1810,Student 55,Semester 7,CSE499,BTech Project,4,A-,8.8,8.58
+1811,Student 55,Semester 2,CSE131-1*,System Management,2,A,8.22,8.12
+1812,Student 55,Semester 1,CSE121,Discrete Mathematics,4,C,8.0,8.0
+1813,Student 55,Semester 6,CSE524,Theory of Modern Cryptography,4,A-,9.0,8.54
+1814,Student 55,Semester 2,CSE102,Data Structures and Algorithms,4,B-,8.22,8.12
+1815,Student 55,Semester 2,CSE112,Computer Organisation,4,A-,8.22,8.12
+1816,Student 55,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A,8.8,8.37
+1817,Student 55,Semester 6,CSE342*,Pattern Recognition,4,A-,9.0,8.54
+1818,Student 56,Semester 1,CSE101,Introduction to Programming,4,F,,
+1819,Student 56,Semester 1,CSE111,Digital Circuits,4,F,,
+1820,Student 56,Semester 2,CSE122*,Theory of Computation,4,F,,
+1821,Student 56,Semester 1,CSE121,Discrete Mathematics,4,F,,
+1822,Student 56,Semester 2,CSE102,Data Structures and Algorithms,4,F,,
+1823,Student 56,Semester 1,COM101,Communication Skills,4,A,,
+1824,Student 56,Semester 2,CSE112,Computer Organisation,4,F,,
+1825,Student 56,Semester 2,HSS202*,Perspectives on Knowledge,4,C-,,
+1826,Student 56,Semester 2,CSE131-1*,System Management,2,D,,
+1827,Student 57,Semester 1,COM101,Communication Skills,4,B,8.5,8.5
+1828,Student 57,Semester 2,HSS201*,Research Methods,4,D,6.44,7.41
+1829,Student 57,Semester 4,ESC202,Digital Communication,4,B-,6.4,7.35
+1830,Student 57,Semester 8,MTH502*,Number Theory,4,A+,8.25,7.27
+1831,Student 57,Semester 8,CSE499,BTech Project,4,C,8.25,7.27
+1832,Student 57,Semester 3,CSE231,Operating Systems ,4,B,8.2,7.7
+1833,Student 57,Semester 2,CSE102,Data Structures and Algorithms,4,B,6.44,7.41
+1834,Student 57,Semester 5,CSE546,Applied Cryptography,4,C,8.0,7.49
+1835,Student 57,Semester 5,CSE507,Database System Implementation,4,B,8.0,7.49
+1836,Student 57,Semester 5,CSE340*,Image Analysis ,4,B,8.0,7.49
+1837,Student 57,Semester 1,CSE121,Discrete Mathematics,4,B,8.5,8.5
+1838,Student 57,Semester 5,CSE523,Randomised Algorithms,4,A,8.0,7.49
+1839,Student 57,Semester 6,CSE524,Theory of Modern Cryptography,4,A-,6.2,7.26
+1840,Student 57,Semester 2,CSE112,Computer Organisation,4,A-,6.44,7.41
+1841,Student 57,Semester 8,MTH202,Maths : Algebra,4,A-,8.25,7.27
+1842,Student 57,Semester 5,CSE300,Software Engineering ,4,B,8.0,7.49
+1843,Student 57,Semester 6,COM301,Technical Communication,4,C,6.2,7.26
+1844,Student 57,Semester 3,CSE201,Advanced Programming,4,A-,8.2,7.7
+1845,Student 57,Semester 7,CSE501,Designing Human-Centered Systems,4,C,6.44,7.15
+1846,Student 57,Semester 6,CSE342*,Pattern Recognition,4,D,6.2,7.26
+1847,Student 57,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A-,8.2,7.7
+1848,Student 57,Semester 1,CSE101,Introduction to Programming,4,A-,8.5,8.5
+1849,Student 57,Semester 7,CSE320,Advanced Algorithms ,4,B,6.44,7.15
+1850,Student 57,Semester 1,CSE111,Digital Circuits,4,A-,8.5,8.5
+1851,Student 57,Semester 7,CSE343,Machine Learning,4,C-,6.44,7.15
+1852,Student 57,Semester 2,CSE122*,Theory of Computation,4,C-,6.44,7.41
+1853,Student 57,Semester 3,MTH201,Probability and Statistics ,4,A-,8.2,7.7
+1854,Student 57,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,C,6.44,7.15
+1855,Student 57,Semester 6,CSE537,Embedded Systems,4,C-,6.2,7.26
+1856,Student 57,Semester 4,CSE202,Fundamentals of Database Systems,4,C,6.4,7.35
+1857,Student 57,Semester 3,COM201,Critical Reading,4,C,8.2,7.7
+1858,Student 57,Semester 7,CSE499,BTech Project,4,B-,6.44,7.15
+1859,Student 57,Semester 4,HSS101*,Technology and Society,4,C-,6.4,7.35
+1860,Student 57,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,B,8.25,7.27
+1861,Student 57,Semester 2,CSE131-1*,System Management,2,C,6.44,7.41
+1862,Student 57,Semester 4,CSE222,Analysis and Design of Algorithms,4,B,6.4,7.35
+1863,Student 57,Semester 4,CSE232,Computer Networks,4,C,6.4,7.35
+1864,Student 57,Semester 6,CSE535,Mobile Computing,4,B-,6.2,7.26
+1865,Student 58,Semester 7,PHY301,Physics,4,C,6.8,6.35
+1866,Student 58,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,B,7.4,6.11
+1867,Student 58,Semester 6,CSE606,Data Warehousing,4,B-,7.4,6.11
+1868,Student 58,Semester 6,CSE102,Data Structures and Algorithms,4,B,7.4,6.11
+1869,Student 58,Semester 8,CSE330,Distributed Systems ,4,B-,7.2,6.47
+1870,Student 58,Semester 6,CSE535,Mobile Computing,4,B-,7.4,6.11
+1871,Student 58,Semester 5,CSE506,Data Mining,4,C,6.0,5.66
+1872,Student 58,Semester 5,CSE300,Software Engineering ,4,D,6.0,5.66
+1873,Student 58,Semester 5,CSE546,Applied Cryptography,4,C-,6.0,5.66
+1874,Student 58,Semester 8,PHY302,Semiconductors and Optics,4,B-,7.2,6.47
+1875,Student 58,Semester 5,BTY301,Introduction to Biotechnology ,4,A-,6.0,5.66
+1876,Student 58,Semester 8,CSE694F,Multimedia Security,4,B,7.2,6.47
+1877,Student 58,Semester 5,FIN401,Foundations of Finance ,4,C,6.0,5.66
+1878,Student 58,Semester 8,COM301,Technical Communication,4,C,7.2,6.47
+1879,Student 58,Semester 4,ESC202,Digital Communication,4,C,6.0,5.57
+1880,Student 58,Semester 4,HSS204*,Introduction to Psychology,4,A-,6.0,5.57
+1881,Student 58,Semester 4,CSE232,Computer Networks,4,D,6.0,5.57
+1882,Student 58,Semester 4,CSE222,Analysis and Design of Algorithms,4,D,6.0,5.57
+1883,Student 58,Semester 6,HSS206*,Introduction to Film Studies,4,B-,7.4,6.11
+1884,Student 58,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,B,7.2,6.47
+1885,Student 58,Semester 4,CSE202,Fundamentals of Database Systems,4,B-,6.0,5.57
+1886,Student 58,Semester 1,CSE111,Digital Circuits,4,D,4.75,4.75
+1887,Student 58,Semester 7,CSE121,Discrete Mathematics,4,C,6.8,6.35
+1888,Student 58,Semester 2,CSE122*,Theory of Computation,4,D,4.89,4.82
+1889,Student 58,Semester 2,CSE131-1*,System Management,2,B,4.89,4.82
+1890,Student 58,Semester 2,CSE102,Data Structures and Algorithms,4,F,4.89,4.82
+1891,Student 58,Semester 2,CSE112,Computer Organisation,4,C-,4.89,4.82
+1892,Student 58,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,C-,6.4,5.41
+1893,Student 58,Semester 3,MTH201,Probability and Statistics ,4,C,6.4,5.41
+1894,Student 58,Semester 3,CSE231,Operating Systems ,4,C,6.4,5.41
+1895,Student 58,Semester 7,ECO301,Introduction to Economic Analysis,4,C-,6.8,6.35
+1896,Student 58,Semester 3,COM201,Critical Reading,4,A-,6.4,5.41
+1897,Student 58,Semester 7,CSE501,Designing Human-Centered Systems,4,B,6.8,6.35
+1898,Student 58,Semester 3,CSE201,Advanced Programming,4,C,6.4,5.41
+1899,Student 58,Semester 2,HSS202*,Perspectives on Knowledge,4,B-,4.89,4.82
+1900,Student 58,Semester 1,CSE121,Discrete Mathematics,4,F,4.75,4.75
+1901,Student 58,Semester 1,CSE101,Introduction to Programming,4,D,4.75,4.75
+1902,Student 58,Semester 7,CSE648,Privacy and Security in Online Social Media,4,A-,6.8,6.35
+1903,Student 58,Semester 1,COM101,Communication Skills,4,A-,4.75,4.75
+1904,Student 59,Semester 5,CSE345,Foundations of Computer Security,4,A,9.8,8.4
+1905,Student 59,Semester 7,ECO301,Introduction to Economic Analysis,4,A-,9.67,8.71
+1906,Student 59,Semester 5,CSE398A-1,Independent Study,4,A,9.8,8.4
+1907,Student 59,Semester 3,CSE231,Operating Systems ,4,B,7.8,7.74
+1908,Student 59,Semester 3,MTH201,Probability and Statistics ,4,B-,7.8,7.74
+1909,Student 59,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,A,9.8,8.86
+1910,Student 59,Semester 8,ECO302,Applied Econometric Analysis,4,A,9.8,8.86
+1911,Student 59,Semester 4,CSE222,Analysis and Design of Algorithms,4,B-,8.8,8.03
+1912,Student 59,Semester 1,COM101,Communication Skills,4,A,8.25,8.25
+1913,Student 59,Semester 6,CSE606,Data Warehousing,4,A,9.6,8.61
+1914,Student 59,Semester 4,CSE232,Computer Networks,4,B-,8.8,8.03
+1915,Student 59,Semester 4,HSS201*,Research Methods,4,A,8.8,8.03
+1916,Student 59,Semester 4,ESC202,Digital Communication,4,A,8.8,8.03
+1917,Student 59,Semester 6,CSE535,Mobile Computing,4,A,9.6,8.61
+1918,Student 59,Semester 6,CSE793A,Topics in Cryptanalysis,4,A,9.6,8.61
+1919,Student 59,Semester 6,CSE508,Information Retrieval,4,B,9.6,8.61
+1920,Student 59,Semester 5,CSE546,Applied Cryptography,4,A+,9.8,8.4
+1921,Student 59,Semester 8,CSE531,Multiagent Systems,4,A-,9.8,8.86
+1922,Student 59,Semester 5,CSE300,Software Engineering ,4,A-,9.8,8.4
+1923,Student 59,Semester 8,COM301,Technical Communication,4,A,9.8,8.86
+1924,Student 59,Semester 7,CSE501,Designing Human-Centered Systems,4,A,9.67,8.71
+1925,Student 59,Semester 3,CSE201,Advanced Programming,4,B-,7.8,7.74
+1926,Student 59,Semester 3,COM201,Critical Reading,4,B,7.8,7.74
+1927,Student 59,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A-,7.8,7.74
+1928,Student 59,Semester 2,CSE112,Computer Organisation,4,B-,7.22,7.71
+1929,Student 59,Semester 1,CSE121,Discrete Mathematics,4,B-,8.25,8.25
+1930,Student 59,Semester 5,CSE506,Data Mining,4,A,9.8,8.4
+1931,Student 59,Semester 2,CSE102,Data Structures and Algorithms,4,C,7.22,7.71
+1932,Student 59,Semester 7,CSE398A-1,Independent Study,4,A,9.67,8.71
+1933,Student 59,Semester 2,CSE131-1*,System Management,2,A-,7.22,7.71
+1934,Student 59,Semester 2,CSE122*,Theory of Computation,4,C,7.22,7.71
+1935,Student 59,Semester 1,CSE101,Introduction to Programming,4,B,8.25,8.25
+1936,Student 59,Semester 6,HSS204*,Introduction to Psychology,4,A+,9.6,8.61
+1937,Student 59,Semester 2,HSS101*,Technology and Society,4,A-,7.22,7.71
+1938,Student 59,Semester 8,CSE330,Distributed Systems ,4,A,9.8,8.86
+1939,Student 59,Semester 1,CSE111,Digital Circuits,4,B,8.25,8.25
+1940,Student 59,Semester 4,CSE202,Fundamentals of Database Systems,4,A,8.8,8.03
+1941,Student 60,Semester 2,CSE102,Data Structures and Algorithms,4,D,4.22,4.0
+1942,Student 60,Semester 1,CSE111,Digital Circuits,4,F,3.75,3.75
+1943,Student 60,Semester 2,CSE122*,Theory of Computation,4,F,4.22,4.0
+1944,Student 60,Semester 2,CSE131-1*,System Management,2,C,4.22,4.0
+1945,Student 60,Semester 1,COM101,Communication Skills,4,B-,3.75,3.75
+1946,Student 60,Semester 2,CSE112,Computer Organisation,4,C-,4.22,4.0
+1947,Student 60,Semester 1,CSE121,Discrete Mathematics,4,F,3.75,3.75
+1948,Student 60,Semester 1,CSE101,Introduction to Programming,4,D,3.75,3.75
+1949,Student 60,Semester 2,HSS101*,Technology and Society,4,C-,4.22,4.0
+1950,Student 61,Semester 1,CSE111,Digital Circuits,4,F,,
+1951,Student 61,Semester 2,CSE112,Computer Organisation,4,F,,
+1952,Student 61,Semester 1,COM101,Communication Skills,4,B-,,
+1953,Student 61,Semester 2,CSE122*,Theory of Computation,4,F,,
+1954,Student 61,Semester 2,HSS101*,Technology and Society,4,F,,
+1955,Student 61,Semester 1,CSE101,Introduction to Programming,4,F,,
+1956,Student 61,Semester 2,CSE102,Data Structures and Algorithms,4,F,,
+1957,Student 61,Semester 2,CSE131-1*,System Management,2,D,,
+1958,Student 61,Semester 1,CSE121,Discrete Mathematics,4,F,,
+1959,Student 62,Semester 6,CSE499,BTech Project,4,A-,9.0,8.26
+1960,Student 62,Semester 1,COM101,Communication Skills,4,A-,9.25,9.25
+1961,Student 62,Semester 1,CSE101,Introduction to Programming,4,A,9.25,9.25
+1962,Student 62,Semester 1,CSE121,Discrete Mathematics,4,A,9.25,9.25
+1963,Student 62,Semester 3,CSE201,Advanced Programming,4,B,7.2,8.26
+1964,Student 62,Semester 3,COM201,Critical Reading,4,B-,7.2,8.26
+1965,Student 62,Semester 3,CSE231,Operating Systems ,4,A-,7.2,8.26
+1966,Student 62,Semester 3,MTH201,Probability and Statistics ,4,C,7.2,8.26
+1967,Student 62,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,C,7.2,8.26
+1968,Student 62,Semester 2,CSE112,Computer Organisation,4,C,8.56,8.88
+1969,Student 62,Semester 2,CSE102,Data Structures and Algorithms,4,A-,8.56,8.88
+1970,Student 62,Semester 2,HSS201*,Research Methods,4,A-,8.56,8.88
+1971,Student 62,Semester 2,CSE131-1*,System Management,2,A-,8.56,8.88
+1972,Student 62,Semester 2,CSE122*,Theory of Computation,4,A,8.56,8.88
+1973,Student 62,Semester 1,CSE111,Digital Circuits,4,B,9.25,9.25
+1974,Student 62,Semester 4,CSE202,Fundamentals of Database Systems,4,B,7.8,8.14
+1975,Student 62,Semester 4,CSE222,Analysis and Design of Algorithms,4,A-,7.8,8.14
+1976,Student 62,Semester 4,HSS204*,Introduction to Psychology,4,B,7.8,8.14
+1977,Student 62,Semester 4,ESC202,Digital Communication,4,B-,7.8,8.14
+1978,Student 62,Semester 5,CSE546,Applied Cryptography,4,C,8.0,8.11
+1979,Student 62,Semester 5,FIN401,Foundations of Finance ,4,B-,8.0,8.11
+1980,Student 62,Semester 5,CSE300,Software Engineering ,4,A-,8.0,8.11
+1981,Student 62,Semester 5,CSE399,Independent Project,4,A,8.0,8.11
+1982,Student 62,Semester 5,CSE506,Data Mining,4,B,8.0,8.11
+1983,Student 62,Semester 6,CSE606,Data Warehousing,4,A-,9.0,8.26
+1984,Student 62,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,A,9.0,8.26
+1985,Student 62,Semester 6,FIN402,Valuation and Portfolio Management,4,B,9.0,8.26
+1986,Student 62,Semester 6,CSE399,Independent Project,4,A-,9.0,8.26
+1987,Student 62,Semester 8,COM301,Technical Communication,4,B,7.56,8.12
+1988,Student 62,Semester 8,CSE499,BTech Project,4,A-,7.56,8.12
+1989,Student 62,Semester 8,CSE531,Multiagent Systems,4,B-,7.56,8.12
+1990,Student 62,Semester 7,PHY301,Physics,4,C,7.75,8.2
+1991,Student 62,Semester 7,CSE535,Mobile Computing,4,B-,7.75,8.2
+1992,Student 62,Semester 7,CSE649,Network Protocol Security,4,A,7.75,8.2
+1993,Student 62,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,C,7.56,8.12
+1994,Student 62,Semester 7,CSE499,BTech Project,4,B,7.75,8.2
+1995,Student 62,Semester 8,COM333,Organisational Behavior,2,B,7.56,8.12
+1996,Student 62,Semester 4,CSE232,Computer Networks,4,B-,7.8,8.14
+1997,Student 63,Semester 1,COM101,Communication Skills,4,B,,
+1998,Student 63,Semester 2,HSS101*,Technology and Society,4,D,,
+1999,Student 63,Semester 2,CSE131-1*,System Management,2,B,,
+2000,Student 63,Semester 2,CSE122*,Theory of Computation,4,F,,
+2001,Student 63,Semester 1,CSE121,Discrete Mathematics,4,F,,
+2002,Student 63,Semester 2,CSE112,Computer Organisation,4,F,,
+2003,Student 63,Semester 1,CSE101,Introduction to Programming,4,F,,
+2004,Student 63,Semester 1,CSE111,Digital Circuits,4,F,,
+2005,Student 63,Semester 2,CSE102,Data Structures and Algorithms,4,F,,
+2006,Student 64,Semester 7,CSE649,Network Protocol Security,4,A,8.5,8.21
+2007,Student 64,Semester 2,HSS101*,Technology and Society,4,A-,8.11,7.24
+2008,Student 64,Semester 7,PHY301,Physics,4,A-,8.5,8.21
+2009,Student 64,Semester 2,CSE122*,Theory of Computation,4,B-,8.11,7.24
+2010,Student 64,Semester 8,HSS205*,Introduction to Sociology,4,A-,8.6,8.26
+2011,Student 64,Semester 3,MTH201,Probability and Statistics ,4,C-,7.6,7.37
+2012,Student 64,Semester 2,CSE131-1*,System Management,2,A-,8.11,7.24
+2013,Student 64,Semester 7,CSE499,BTech Project,4,B,8.5,8.21
+2014,Student 64,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,B-,7.6,7.37
+2015,Student 64,Semester 2,CSE102,Data Structures and Algorithms,4,A-,8.11,7.24
+2016,Student 64,Semester 2,CSE112,Computer Organisation,4,B-,8.11,7.24
+2017,Student 64,Semester 1,COM101,Communication Skills,4,B,6.25,6.25
+2018,Student 64,Semester 6,CSE499,BTech Project,4,A-,9.4,8.16
+2019,Student 64,Semester 6,CSE399,Independent Project,4,A-,9.4,8.16
+2020,Student 64,Semester 1,CSE101,Introduction to Programming,4,B,6.25,6.25
+2021,Student 64,Semester 8,COM301,Technical Communication,4,B-,8.6,8.26
+2022,Student 64,Semester 1,CSE121,Discrete Mathematics,4,C-,6.25,6.25
+2023,Student 64,Semester 6,FIN402,Valuation and Portfolio Management,4,A-,9.4,8.16
+2024,Student 64,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,A,9.4,8.16
+2025,Student 64,Semester 7,CSE535,Mobile Computing,4,C,8.5,8.21
+2026,Student 64,Semester 6,CSE606,Data Warehousing,4,A,9.4,8.16
+2027,Student 64,Semester 8,CSE499,BTech Project,4,A-,8.6,8.26
+2028,Student 64,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A-,8.5,8.21
+2029,Student 64,Semester 5,CSE506,Data Mining,4,A,8.8,7.89
+2030,Student 64,Semester 5,CSE399,Independent Project,4,A,8.8,7.89
+2031,Student 64,Semester 5,CSE300,Software Engineering ,4,B,8.8,7.89
+2032,Student 64,Semester 5,CSE546,Applied Cryptography,4,B,8.8,7.89
+2033,Student 64,Semester 5,FIN401,Foundations of Finance ,4,B,8.8,7.89
+2034,Student 64,Semester 4,ESC202,Digital Communication,4,B,8.4,7.65
+2035,Student 64,Semester 4,HSS204*,Introduction to Psychology,4,A,8.4,7.65
+2036,Student 64,Semester 7,ENT401,Entrepreneurship as a Career,2,A,8.5,8.21
+2037,Student 64,Semester 4,CSE232,Computer Networks,4,C,8.4,7.65
+2038,Student 64,Semester 4,CSE222,Analysis and Design of Algorithms,4,A-,8.4,7.65
+2039,Student 64,Semester 9,CSE340*,Image Analysis ,4,F,2.0,8.1
+2040,Student 64,Semester 9,CSE609,Statistical Computation,4,I,2.0,8.1
+2041,Student 64,Semester 3,CSE201,Advanced Programming,4,A-,7.6,7.37
+2042,Student 64,Semester 8,CSE330,Distributed Systems ,4,B,8.6,8.26
+2043,Student 64,Semester 4,CSE202,Fundamentals of Database Systems,4,A-,8.4,7.65
+2044,Student 64,Semester 3,COM201,Critical Reading,4,B-,7.6,7.37
+2045,Student 64,Semester 8,CSE337,Embedded Systems,4,A,8.6,8.26
+2046,Student 64,Semester 1,CSE111,Digital Circuits,4,D,6.25,6.25
+2047,Student 64,Semester 3,CSE231,Operating Systems ,4,A,7.6,7.37
+2048,Student 65,Semester 2,HSS201*,Research Methods,4,A-,6.44,6.71
+2049,Student 65,Semester 7,CSE340*,Image Analysis ,4,B,7.78,7.37
+2050,Student 65,Semester 6,CSE535,Mobile Computing,4,B-,7.4,7.26
+2051,Student 65,Semester 7,CSE506,Data Mining,4,C,7.78,7.37
+2052,Student 65,Semester 2,CSE131-1*,System Management,2,B,6.44,6.71
+2053,Student 65,Semester 6,CSE537,Embedded Systems,4,B-,7.4,7.26
+2054,Student 65,Semester 4,CSE222,Analysis and Design of Algorithms,4,C,7.2,7.14
+2055,Student 65,Summer Term 3,MSC472,Study of Domains and Communities for Innovation using ICT,2,A,10.0,7.31
+2056,Student 65,Semester 7,CSE501,Designing Human-Centered Systems,4,A-,7.78,7.37
+2057,Student 65,Semester 5,CSE300,Software Engineering ,4,B,7.6,7.23
+2058,Student 65,Semester 3,CSE231,Operating Systems ,4,B,7.8,7.11
+2059,Student 65,Semester 7,ECO301,Introduction to Economic Analysis,4,B-,7.78,7.37
+2060,Student 65,Semester 8,MTH202,Maths : Algebra,4,C-,6.86,7.32
+2061,Student 65,Semester 3,COM201,Critical Reading,4,B,7.8,7.11
+2062,Student 65,Semester 4,CSE202,Fundamentals of Database Systems,4,B-,7.2,7.14
+2063,Student 65,Semester 5,PHY301,Physics,4,A-,7.6,7.23
+2064,Student 65,Semester 5,BTY301,Introduction to Biotechnology ,4,B,7.6,7.23
+2065,Student 65,Semester 5,FIN401,Foundations of Finance ,4,B-,7.6,7.23
+2066,Student 65,Semester 5,CSE546,Applied Cryptography,4,C,7.6,7.23
+2067,Student 65,Semester 4,ESC202,Digital Communication,4,B-,7.2,7.14
+2068,Student 65,Semester 2,CSE102,Data Structures and Algorithms,4,D,6.44,6.71
+2069,Student 65,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A,7.8,7.11
+2070,Student 65,Semester 8,CSE538*,Ad-hoc Wireless Networks,4,C,6.86,7.32
+2071,Student 65,Semester 8,COM333,Organisational Behavior,2,A,6.86,7.32
+2072,Student 65,Semester 2,CSE112,Computer Organisation,4,B-,6.44,6.71
+2073,Student 65,Semester 4,HSS204*,Introduction to Psychology,4,A+,7.2,7.14
+2074,Student 65,Semester 1,COM101,Communication Skills,4,A,7.0,7.0
+2075,Student 65,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,B,6.86,7.32
+2076,Student 65,Semester 2,CSE122*,Theory of Computation,4,C-,6.44,6.71
+2077,Student 65,Semester 3,CSE201,Advanced Programming,4,B-,7.8,7.11
+2078,Student 65,Semester 1,CSE101,Introduction to Programming,4,C,7.0,7.0
+2079,Student 65,Semester 6,COM301,Technical Communication,4,B,7.4,7.26
+2080,Student 65,Semester 3,MTH201,Probability and Statistics ,4,C,7.8,7.11
+2081,Student 65,Semester 6,HSS205*,Introduction to Sociology,4,B,7.4,7.26
+2082,Student 65,Semester 6,FIN402,Valuation and Portfolio Management,4,B-,7.4,7.26
+2083,Student 65,Semester 4,CSE232,Computer Networks,4,C,7.2,7.14
+2084,Student 65,Semester 1,CSE121,Discrete Mathematics,4,C,7.0,7.0
+2085,Student 65,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A,7.78,7.37
+2086,Student 65,Semester 1,CSE111,Digital Circuits,4,C,7.0,7.0
+2087,Student 66,Semester 8,COM301,Technical Communication,4,B-,8.4,7.81
+2088,Student 66,Semester 2,CSE102,Data Structures and Algorithms,4,B-,5.33,6.8
+2089,Student 66,Semester 6,CSE606,Data Warehousing,4,B,8.4,7.64
+2090,Student 66,Semester 5,CSE300,Software Engineering ,4,B-,7.8,7.47
+2091,Student 66,Semester 1,CSE101,Introduction to Programming,4,B,7.25,7.25
+2092,Student 66,Semester 2,CSE112,Computer Organisation,4,C,5.33,6.8
+2093,Student 66,Semester 5,CSE340*,Image Analysis ,4,A-,7.8,7.47
+2094,Student 66,Semester 4,CSE202,Fundamentals of Database Systems,4,B,7.6,7.37
+2095,Student 66,Semester 2,HSS101*,Technology and Society,4,F,5.33,6.8
+2096,Student 66,Semester 5,CSE506,Data Mining,4,B-,7.8,7.47
+2097,Student 66,Semester 5,CSE345,Foundations of Computer Security,4,B,7.8,7.47
+2098,Student 66,Semester 5,CSE546,Applied Cryptography,4,B,7.8,7.47
+2099,Student 66,Semester 7,PHY301,Physics,4,B,8.25,7.71
+2100,Student 66,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,A-,8.4,7.64
+2101,Student 66,Semester 3,COM201,Critical Reading,4,B-,8.0,7.28
+2102,Student 66,Semester 4,HSS204*,Introduction to Psychology,4,B,7.6,7.37
+2103,Student 66,Semester 4,ESC202,Digital Communication,4,B,7.6,7.37
+2104,Student 66,Semester 4,CSE232,Computer Networks,4,C,7.6,7.37
+2105,Student 66,Semester 4,CSE222,Analysis and Design of Algorithms,4,B,7.6,7.37
+2106,Student 66,Semester 1,CSE121,Discrete Mathematics,4,D,7.25,7.25
+2107,Student 66,Semester 7,CSE343,Machine Learning,4,B,8.25,7.71
+2108,Student 66,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,A-,8.4,7.81
+2109,Student 66,Semester 7,CSE648,Privacy and Security in Online Social Media,4,A-,8.25,7.71
+2110,Student 66,Semester 8,CSE694F,Multimedia Security,4,A,8.4,7.81
+2111,Student 66,Semester 3,CSE231,Operating Systems ,4,B,8.0,7.28
+2112,Student 66,Semester 6,CSE535,Mobile Computing,4,B-,8.4,7.64
+2113,Student 66,Semester 6,HSS206*,Introduction to Film Studies,4,A-,8.4,7.64
+2114,Student 66,Semester 6,CSE342*,Pattern Recognition,4,A-,8.4,7.64
+2115,Student 66,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,A-,8.0,7.28
+2116,Student 66,Semester 1,CSE111,Digital Circuits,4,B,7.25,7.25
+2117,Student 66,Semester 8,PHY302,Semiconductors and Optics,4,B,8.4,7.81
+2118,Student 66,Semester 3,MTH201,Probability and Statistics ,4,B,8.0,7.28
+2119,Student 66,Semester 1,COM101,Communication Skills,4,A-,7.25,7.25
+2120,Student 66,Semester 3,CSE201,Advanced Programming,4,B,8.0,7.28
+2121,Student 66,Semester 2,CSE122*,Theory of Computation,4,C,5.33,6.8
+2122,Student 66,Semester 2,CSE131-1*,System Management,2,C,5.33,6.8
+2123,Student 66,Semester 7,ECO301,Introduction to Economic Analysis,4,B,8.25,7.71
+2124,Student 66,Semester 8,CSE330,Distributed Systems ,4,B,8.4,7.81
+2125,Student 67,Semester 8,COM301,Technical Communication,4,A-,7.25,7.07
+2126,Student 67,Semester 8,CSE694F,Multimedia Security,4,C,7.25,7.07
+2127,Student 67,Semester 7,CSE648,Privacy and Security in Online Social Media,4,B,7.75,7.05
+2128,Student 67,Semester 7,CSE501,Designing Human-Centered Systems,4,B,7.75,7.05
+2129,Student 67,Semester 7,ECO301,Introduction to Economic Analysis,4,B-,7.75,7.05
+2130,Student 67,Semester 7,PHY301,Physics,4,B,7.75,7.05
+2131,Student 67,Semester 6,HSS204*,Introduction to Psychology,4,B,8.4,6.95
+2132,Student 67,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,B,8.4,6.95
+2133,Student 67,Semester 6,CSE606,Data Warehousing,4,A,8.4,6.95
+2134,Student 67,Semester 6,CSE538*,Ad-hoc Wireless Networks,4,A-,8.4,6.95
+2135,Student 67,Semester 8,CSE330,Distributed Systems ,4,C,7.25,7.07
+2136,Student 67,Semester 6,CSE535,Mobile Computing,4,B-,8.4,6.95
+2137,Student 67,Semester 5,CSE506,Data Mining,4,B,8.0,6.64
+2138,Student 67,Semester 5,CSE300,Software Engineering ,4,B,8.0,6.64
+2139,Student 67,Semester 5,CSE605,Introduction to Geospatial Data Management,4,A-,8.0,6.64
+2140,Student 67,Semester 5,CSE546,Applied Cryptography,4,C,8.0,6.64
+2141,Student 67,Semester 5,CSE345,Foundations of Computer Security,4,A-,8.0,6.64
+2142,Student 67,Semester 4,ESC202,Digital Communication,4,B,6.6,6.27
+2143,Student 67,Semester 4,HSS201*,Research Methods,4,B-,6.6,6.27
+2144,Student 67,Semester 8,HSS206*,Introduction to Film Studies,4,B,7.25,7.07
+2145,Student 67,Semester 4,CSE222,Analysis and Design of Algorithms,4,C-,6.6,6.27
+2146,Student 67,Semester 4,CSE202,Fundamentals of Database Systems,4,B,6.6,6.27
+2147,Student 67,Semester 1,CSE111,Digital Circuits,4,D,6.0,6.0
+2148,Student 67,Semester 4,CSE232,Computer Networks,4,C-,6.6,6.27
+2149,Student 67,Semester 2,CSE122*,Theory of Computation,4,C-,5.56,5.76
+2150,Student 67,Semester 2,CSE131-1*,System Management,2,B,5.56,5.76
+2151,Student 67,Semester 2,CSE102,Data Structures and Algorithms,4,D,5.56,5.76
+2152,Student 67,Semester 2,CSE112,Computer Organisation,4,D,5.56,5.76
+2153,Student 67,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,B,6.8,6.15
+2154,Student 67,Semester 3,MTH201,Probability and Statistics ,4,B-,6.8,6.15
+2155,Student 67,Semester 3,CSE231,Operating Systems ,4,B-,6.8,6.15
+2156,Student 67,Semester 3,COM201,Critical Reading,4,C,6.8,6.15
+2157,Student 67,Semester 3,CSE201,Advanced Programming,4,C,6.8,6.15
+2158,Student 67,Semester 2,HSS202*,Perspectives on Knowledge,4,B,5.56,5.76
+2159,Student 67,Semester 1,CSE121,Discrete Mathematics,4,D,6.0,6.0
+2160,Student 67,Semester 1,CSE101,Introduction to Programming,4,B,6.0,6.0
+2161,Student 67,Semester 1,COM101,Communication Skills,4,B,6.0,6.0
+2162,Student 68,Semester 3,MTH201,Probability and Statistics ,4,D,5.8,5.67
+2163,Student 68,Semester 6,FIN402,Valuation and Portfolio Management,4,B,8.6,7.07
+2164,Student 68,Semester 7,ENT401,Entrepreneurship as a Career,2,B,8.89,7.37
+2165,Student 68,Semester 3,CSE231,Operating Systems ,4,B-,5.8,5.67
+2166,Student 68,Semester 2,CSE122*,Theory of Computation,4,D,6.11,5.59
+2167,Student 68,Semester 4,CSE232,Computer Networks,4,B-,7.4,6.14
+2168,Student 68,Summer Term 3,MSC472,Study of Domains and Communities for Innovation using ICT,2,A,10.0,7.13
+2169,Student 68,Semester 3,COM201,Critical Reading,4,B-,5.8,5.67
+2170,Student 68,Semester 7,ECO303,Economics of Information and IT,4,A-,8.89,7.37
+2171,Student 68,Semester 1,CSE111,Digital Circuits,4,F,5.0,5.0
+2172,Student 68,Semester 3,CSE201,Advanced Programming,4,B-,5.8,5.67
+2173,Student 68,Semester 9,CSE343,Machine Learning,4,,,
+2174,Student 68,Semester 8,HSS208*,Theory and Practice of Engineering Ethics,4,A,9.2,7.61
+2175,Student 68,Semester 2,HSS101*,Technology and Society,4,B-,6.11,5.59
+2176,Student 68,Semester 4,CSE202,Fundamentals of Database Systems,4,B,7.4,6.14
+2177,Student 68,Semester 4,CSE222,Analysis and Design of Algorithms,4,B-,7.4,6.14
+2178,Student 68,Semester 4,HSS204*,Introduction to Psychology,4,B,7.4,6.14
+2179,Student 68,Semester 4,ESC202,Digital Communication,4,B-,7.4,6.14
+2180,Student 68,Semester 5,FIN401,Foundations of Finance ,4,B,8.0,6.73
+2181,Student 68,Semester 5,CSE345,Foundations of Computer Security,4,A,8.0,6.73
+2182,Student 68,Semester 5,CSE300,Software Engineering ,4,B,8.0,6.73
+2183,Student 68,Semester 5,CSE111,Digital Circuits,4,B-,8.0,6.73
+2184,Student 68,Semester 5,CSE506,Data Mining,4,B-,8.0,6.73
+2185,Student 68,Semester 6,CSE535,Mobile Computing,4,B-,8.6,7.07
+2186,Student 68,Semester 6,CSE606,Data Warehousing,4,A-,8.6,7.07
+2187,Student 68,Semester 8,CSE398A-1,Independent Study,4,A,9.2,7.61
+2188,Student 68,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,A,8.6,7.07
+2189,Student 68,Semester 1,CSE121,Discrete Mathematics,4,D,5.0,5.0
+2190,Student 68,Semester 7,CSE694D,Privacy in Location Based Services ,2,A,8.89,7.37
+2191,Student 68,Semester 8,ECO302,Applied Econometric Analysis,4,B-,9.2,7.61
+2192,Student 68,Summer Term 1,MSC492,Community Work,2,S,,
+2193,Student 68,Semester 1,CSE101,Introduction to Programming,4,C,5.0,5.0
+2194,Student 68,Semester 7,CSE648,Privacy and Security in Online Social Media,4,A-,8.89,7.37
+2195,Student 68,Semester 6,ECO301,Introduction to Economic Analysis,4,A-,8.6,7.07
+2196,Student 68,Semester 8,COM301,Technical Communication,4,A-,9.2,7.61
+2197,Student 68,Semester 1,COM101,Communication Skills,4,B,5.0,5.0
+2198,Student 68,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A,8.89,7.37
+2199,Student 68,Semester 8,CSE330,Distributed Systems ,4,A,9.2,7.61
+2200,Student 68,Semester 7,PHY301,Physics,4,B,8.89,7.37
+2201,Student 68,Semester 2,CSE112,Computer Organisation,4,C,6.11,5.59
+2202,Student 68,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,D,5.8,5.67
+2203,Student 68,Semester 2,CSE102,Data Structures and Algorithms,4,C,6.11,5.59
+2204,Student 68,Semester 2,CSE131-1*,System Management,2,A-,6.11,5.59
+2205,Student 69,Semester 2,HSS201*,Research Methods,4,A,6.67,6.12
+2206,Student 69,Semester 5,CSE300,Software Engineering ,4,B-,6.6,6.71
+2207,Student 69,Semester 3,CSE231,Operating Systems ,4,B-,6.2,6.15
+2208,Student 69,Semester 1,CSE101,Introduction to Programming,4,C-,5.5,5.5
+2209,Student 69,Semester 2,CSE131-1*,System Management,2,B,6.67,6.12
+2210,Student 69,Semester 7,ENT401,Entrepreneurship as a Career,2,A,9.0,7.24
+2211,Student 69,Semester 5,CSE111,Digital Circuits,4,C,6.6,6.71
+2212,Student 69,Semester 2,CSE122*,Theory of Computation,4,C-,6.67,6.12
+2213,Student 69,Semester 8,COM301,Technical Communication,4,A-,7.8,7.32
+2214,Student 69,Semester 4,CSE232,Computer Networks,4,C-,7.4,6.49
+2215,Student 69,Semester 3,COM201,Critical Reading,4,B,6.2,6.15
+2216,Student 69,Semester 5,CSE506,Data Mining,4,B,6.6,6.71
+2217,Student 69,Semester 8,CSE330,Distributed Systems ,4,B-,7.8,7.32
+2218,Student 69,Semester 7,CSE398A-1,Independent Study,4,A,9.0,7.24
+2219,Student 69,Semester 6,CSE535,Mobile Computing,4,B-,8.2,6.98
+2220,Student 69,Semester 1,CSE111,Digital Circuits,4,F,5.5,5.5
+2221,Student 69,Semester 3,CSE201,Advanced Programming,4,C,6.2,6.15
+2222,Student 69,Semester 3,MTH101,Linear Algebra and Advanced Calculus,4,C-,6.2,6.15
+2223,Student 69,Semester 6,ECO301,Introduction to Economic Analysis,4,B-,8.2,6.98
+2224,Student 69,Semester 7,CSE501,Designing Human-Centered Systems,4,A-,9.0,7.24
+2225,Student 69,Semester 6,CSE606,Data Warehousing,4,A,8.2,6.98
+2226,Student 69,Semester 1,COM101,Communication Skills,4,A,5.5,5.5
+2227,Student 69,Semester 6,ENV301,The Earth System: An Environmental Science Perspective,4,B,8.2,6.98
+2228,Student 69,Semester 4,CSE202,Fundamentals of Database Systems,4,A-,7.4,6.49
+2229,Student 69,Semester 1,CSE121,Discrete Mathematics,4,C-,5.5,5.5
+2230,Student 69,Semester 4,CSE222,Analysis and Design of Algorithms,4,B-,7.4,6.49
+2231,Student 69,Semester 7,CSE694E,Introduction to Geospatial Data Management,2,A,9.0,7.24
+2232,Student 69,Semester 8,CSE399,Independent Project,4,B,7.8,7.32
+2233,Student 69,Semester 8,HSS206*,Introduction to Film Studies,4,B-,7.8,7.32
+2234,Student 69,Semester 3,MTH201,Probability and Statistics ,4,C-,6.2,6.15
+2235,Student 69,Semester 4,HSS204*,Introduction to Psychology,4,A,7.4,6.49
+2236,Student 69,Semester 2,CSE102,Data Structures and Algorithms,4,C,6.67,6.12
+2237,Student 69,Semester 4,ESC202,Digital Communication,4,C,7.4,6.49
+2238,Student 69,Semester 8,CSE694F,Multimedia Security,4,B,7.8,7.32
+2239,Student 69,Semester 2,CSE112,Computer Organisation,4,C-,6.67,6.12
+2240,Student 69,Semester 5,FIN401,Foundations of Finance ,4,C,6.6,6.71
+2241,Student 69,Semester 6,DES301,Exploring Visual Design,4,A-,8.2,6.98
+2242,Student 69,Semester 5,CSE340*,Image Analysis ,4,C,6.6,6.71
+2243,Student 69,Semester 7,PHY301,Physics,4,B-,9.0,7.24
