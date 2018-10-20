@@ -48,6 +48,9 @@ with open('data/csv/1.csv') as csv_file:
             course_code = row[len(row)-6]
             grade_val = grade_scale[row[len(row)-3]]
             mat1[student_val][course_code] = grade_val
+            semester_val = row[2].split()
+            semester_val = semester_val[len(semester_val)-1]
+            mat1[student_val]['semester'] = semester_val
         line_count+=1
 
 addval = len(mat1)
@@ -64,6 +67,9 @@ with open('data/csv/2.csv') as csv_file:
             course_code = row[len(row)-6]
             grade_val = grade_scale[row[len(row)-3]]
             mat1[student_val][course_code] = grade_val
+            semester_val = row[2].split()
+            semester_val = semester_val[len(semester_val)-1]
+            mat1[student_val]['semester'] = semester_val
         line_count+=1
 
 addval = len(mat1)
@@ -80,6 +86,9 @@ with open('data/csv/3.csv') as csv_file:
             course_code = row[len(row)-6]
             grade_val = grade_scale[row[len(row)-3]]
             mat1[student_val][course_code] = grade_val
+            semester_val = row[2].split()
+            semester_val = semester_val[len(semester_val)-1]
+            mat1[student_val]['semester'] = semester_val
         line_count+=1
 
 addval = len(mat1)
@@ -96,6 +105,9 @@ with open('data/csv/4.csv') as csv_file:
             course_code = row[len(row)-6]
             grade_val = grade_scale[row[len(row)-3]]
             mat1[student_val][course_code] = grade_val
+            semester_val = row[2].split()
+            semester_val = semester_val[len(semester_val)-1]
+            mat1[student_val]['semester'] = semester_val
         line_count+=1
 
 addval = len(mat1)
@@ -112,6 +124,9 @@ with open('data/csv/5.csv') as csv_file:
             course_code = row[len(row)-6]
             grade_val = grade_scale[row[len(row)-3]]
             mat1[student_val][course_code] = grade_val
+            semester_val = row[2].split()
+            semester_val = semester_val[len(semester_val)-1]
+            mat1[student_val]['semester'] = semester_val
         line_count+=1
 
 addval = len(mat1)
@@ -128,6 +143,9 @@ with open('data/csv/6.csv') as csv_file:
             course_code = row[len(row)-6]
             grade_val = grade_scale[row[len(row)-3]]
             mat1[student_val][course_code] = grade_val
+            semester_val = row[2].split()
+            semester_val = semester_val[len(semester_val)-1]
+            mat1[student_val]['semester'] = semester_val
         line_count+=1
 
 addval = len(mat1)
@@ -144,6 +162,9 @@ with open('data/csv/7.csv') as csv_file:
             course_code = row[len(row)-6]
             grade_val = grade_scale[row[len(row)-3]]
             mat1[student_val][course_code] = grade_val
+            semester_val = row[2].split()
+            semester_val = semester_val[len(semester_val)-1]
+            mat1[student_val]['semester'] = semester_val
         line_count+=1
 
 data_matrix = []
