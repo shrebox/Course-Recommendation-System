@@ -6,11 +6,11 @@ from sklearn.metrics.pairwise import cosine_similarity
 import operator
 import numpy as np
 
-def csv_reader(filename):
-	return pd.read_csv(filename,sep='\t',header=None)
+# def csv_reader(filename):
+# 	return pd.read_csv(filename,sep='\t',header=None)
 
-def create_pivot_matrix(train_data):
-	return train_data.pivot(index='User', columns='Movie', values='Rating').reset_index(drop=True)
+# def create_pivot_matrix(train_data):
+# 	return train_data.pivot(index='User', columns='Movie', values='Rating').reset_index(drop=True)
 
 def mean_rating(user_movies_matrix,user):
 	counta = suma = 0
@@ -40,7 +40,7 @@ for k_index in range(len(kvals)):
 	print "K value: " + str(kvals[k_index])
 	avg_mae=0
 
-	test_grades, train_matrix, train_matrix_shape0,train_matrix_shape1,train_grades = matrix_creation.get_data()
+	train_matrix, test_matrix, train_grades, test_grades, train_data, test_data, train_matrix_shape0,train_matrix_shape1 = matrix_creation.get_data()
 	user_movies_matrix = train_matrix
 	matrix_val = cosine_similarity(train_matrix)
 	user_similarity_matrix = pd.DataFrame(matrix_val)

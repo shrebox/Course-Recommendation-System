@@ -59,5 +59,3 @@ def get_data():
     # filew.close()
 
     return train_matrix, test_matrix, train_grades, test_grades, train_data, test_data, train_matrix.shape[0],train_matrix.shape[1]
-
-get_data()
