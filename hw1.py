@@ -5,6 +5,7 @@ from sklearn.metrics import pairwise_distances
 from sklearn.metrics.pairwise import cosine_similarity
 import operator
 import numpy as np
+import math
 
 # def csv_reader(filename):
 # 	return pd.read_csv(filename,sep='\t',header=None)
@@ -45,7 +46,7 @@ for k_index in range(len(kvals)):
 	matrix_val = cosine_similarity(train_matrix)
 	user_similarity_matrix = pd.DataFrame(matrix_val)
 
-	summy = count = 0
+	summy = count = rmsesum = 0
 	for ind in range(len(test_grades)):
 		try:
 	# if count>4000:
@@ -130,6 +131,7 @@ for k_index in range(len(kvals)):
 			meanadd = mean_rating(user_movies_matrix,user)
 			# meanadd = mean_item_rating(user_movies_matrix,user)
 			summy+=abs(meanadd+p_rating-rating)
+			rmsesum += abs(meanadd+p_rating-rating)*abs(meanadd+p_rating-rating)
 			# print "4"
 		# else:
 			# 	count+=1
@@ -138,6 +140,6 @@ for k_index in range(len(kvals)):
 			break
 
 
-	print summy/float(count)
+	print summy/float(count), math.sqrt(rmsesum/count)
 	avg_mae+= summy/float(count)
 
