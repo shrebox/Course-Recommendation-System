@@ -1,0 +1,76 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="style.css">
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
+  <style type="text/css">
+    body {
+      font-family: "Roboto";
+    }
+    .nav-wrapper {
+      background-color: #01579b;
+    }
+    .brand-logo {
+      margin-left: 10px;
+      font-family: "Roboto";
+      font-weight: 300;
+    }
+    .home {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="home card-panel">
+      <form>
+        <TABLE class="highlight" BORDER=1>
+        <TR>
+        <TD>Subject</TD>
+        <TD>Predicted Grade </TD>
+        <TD>Actual Grade</TD>
+        <TD>Absolute Error</TD>
+      
+        </TR>
+        <%
+
+        for (var i=0;i<requests.length;i++)
+        {
+          %>
+          <TR>
+          <TD><%=requests[i].subj%></TD>
+          <TD><%=requests[i].predgrade%></TD>
+          <TD><%=requests[i].truegrade%></TD>
+          <TD><%=requests[i].err%></TD>
+      </TR>
+            <%
+        }
+        %>
+      </TABLE>
+      
+    </form>
+    
+    </div>
+  </div>
+  <script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+  <!-- Compiled and minified JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+</body>
+
+<script type="text/javascript">
+   $(".button-collapse").sideNav();
+</script>
