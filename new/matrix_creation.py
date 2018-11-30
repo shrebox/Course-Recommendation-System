@@ -57,7 +57,7 @@ def get_data():
      
     for d in data:
       
-        if d>=636:
+        if d>=517:
             for dd in data[d]:
                           
                 if dd in mapping_subj:
