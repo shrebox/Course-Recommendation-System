@@ -5,24 +5,26 @@ import math
 import matplotlib.pyplot as plt
 import pickle
 from matrix_creation import get_data
+import json
 
-
-def cal_RMSE(prediction_M, test_ratings):
+def cal_RMSE(prediction_M, test_ratings,mainlist):
     RMSE = 0
     for rating in test_ratings:
-        RMSE += (rating[2] - prediction_M[int(rating[1] - 1), int(rating[0] - 1)])**2
+        pg=10*abs((prediction_M[int(rating[1]), int(rating[0])]-mainlist[0])/(1.0*(mainlist[-1]-mainlist[0])))
+        RMSE += (rating[2] - pg)**2
     RMSE = math.sqrt(RMSE / len(test_ratings))
     return RMSE
 
-def cal_MAE(prediction_M, test_ratings):
+def cal_MAE(prediction_M, test_ratings,mainlist):
     MAE = 0
     for rating in test_ratings:
-        MAE += (rating[2] - prediction_M[int(rating[1] - 1), int(rating[0] - 1)])
+        pg=10*abs((prediction_M[int(rating[1]), int(rating[0])]-mainlist[0])/(1.0*(mainlist[-1]-mainlist[0])))
+        MAE += abs(rating[2] - pg)
     MAE = math.sqrt(MAE / len(test_ratings))
     return MAE
 
 def train_auto(nb_epoch = 10, test_p = 0.1, nb_hunits = 10, lambda_reg = 0.001, learningrate = 0.01,userid=1,semester=5):
-    train_M, _, k, test_ratings,_,_, nb_users, nb_movies = get_data()
+    train_M, _, k, test_ratings,train_data,test_data, nb_users, nb_movies = get_data()
 
 
     with open('train_dic_with_sem.pkl','rb') as f:
@@ -72,7 +74,7 @@ def train_auto(nb_epoch = 10, test_p = 0.1, nb_hunits = 10, lambda_reg = 0.001, 
               (W, W - learningrate * gW * update_matrix.T), (b, b - learningrate * gb * X_observed)))
 
     for j in range(nb_epoch):
-        print(str(j + 1) + " epoch")
+        # print(str(j + 1) + " epoch")
         for i in np.random.permutation(nb_movies):
             Ri = train_M[i, :]
             Ri_observed = Ri.copy()
@@ -81,9 +83,17 @@ def train_auto(nb_epoch = 10, test_p = 0.1, nb_hunits = 10, lambda_reg = 0.001, 
             Ri_predicted = train(Ri, Ri_observed, update_m)
             prediction_M[i, :] = np.array(Ri_predicted)
 
-        mae=cal_MAE(prediction_M, test_ratings)
-        rmse=cal_RMSE(prediction_M, test_ratings)
-       
+        mainlist=[]
+        for user in prediction_M:
+            for subji in range(user.shape[0]):
+                subj=user[subji]
+                mainlist.append(subj)
+        mainlist.sort()
+             
+        mae=cal_MAE(prediction_M, test_ratings,mainlist)
+        rmse=cal_RMSE(prediction_M, test_ratings,mainlist)
+        # mae=0
+        # rmse=0
         if mae<minnmae:
             minnmae=mae
             minnrmse=rmse
@@ -98,16 +108,35 @@ def train_auto(nb_epoch = 10, test_p = 0.1, nb_hunits = 10, lambda_reg = 0.001, 
             mainlist.append(subj)
     
     mainlist.sort()
-    for user in minnprediction_Mmae:
+    for useri in range(len(minnprediction_Mmae)):
+        user=minnprediction_Mmae[useri]
         for subji in range(user.shape[0]):
             subj=user[subji]
             if subji in subj_sem_mapping and semester in subj_sem_mapping[subji]:
-                arr.append((subj_id_mapping[subji],10*(subj-mainlist[0])/((mainlist[-1]-mainlist[0])*1.0)))
+                pg=abs(10*(subj-mainlist[0])/((mainlist[-1]-mainlist[0])*1.0))  
+                if (useri,subji) in test_data: 
+                                    
+                    ag=test_data[(useri,subji)]
+                    arr.append((subj_id_mapping[subji],pg,ag,abs(pg-ag)))
+                else:
+                   
+                    ag=train_data[(useri,subji)]
+                    arr.append((subj_id_mapping[subji],pg,ag,abs(pg-ag)))
 
     sorted_arr=sorted(arr, key=lambda x: x[1],reverse=True)
 
-    return minnmae,minnrmse,sorted_arr[:5]
+    mlist=[]
+    c=0
+    for s in sorted_arr[:10]:
+        dict={}          
+        dict['subj']=s[0]
+        dict['predgrade']=s[1]
+        dict['truegrade']=s[2]
+        dict['err']=s[3]
+        mlist.append(dict)
 
+    return json.dumps(mlist)
+    # return minnmae,minnrmse
 print(train_auto(userid=1,semester=5))
 
 
