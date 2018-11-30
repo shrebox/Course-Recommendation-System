@@ -35,6 +35,7 @@
   <div class="container">
     <div class="home card-panel">
       <form>
+         New Courses
         <TABLE class="highlight" BORDER=1>
         <TR>
         <TD>Rank</TD>
@@ -50,22 +51,51 @@
         {
           %>
           <TR>
+          <%if (requests[i].truegrade==0){%>
           <TD><%=i+1%></TD>
           <TD><%=requests[i].subj%></TD>
           <TD><%=requests[i].predgrade%></TD>
-          <%if (requests[i].truegrade==0){%>
           <TD>NA</TD>
-          <%}
-          else
-          {%>
-          <TD><%=requests[i].truegrade%></TD>
-          <%}
-          %>
-          <%if (requests[i].truegrade==0){%>
           <TD>New course recommneded</TD>
           <%}
-          else
-          {%>
+          %>
+      </TR>
+            <%
+        }
+        %>
+      </TABLE>
+      
+    </form>
+    
+    </div>
+  </div>
+
+
+
+  <div class="container">
+    <div class="home card-panel">
+      <form>
+        Evaluated Courses
+        <TABLE class="highlight" BORDER=1>
+        <TR>
+        <TD>Rank</TD>
+        <TD>Subject</TD>
+        <TD>Predicted Grade </TD>
+        <TD>Actual Grade</TD>
+        <TD>Remarks</TD>
+      
+        </TR>
+        <%
+
+        for (var i=0;i<requests.length;i++)
+        {
+          %>
+          <TR>
+          <%if (requests[i].truegrade!=0){%>
+          <TD><%=i+1%></TD>
+          <TD><%=requests[i].subj%></TD>
+          <TD><%=requests[i].predgrade%></TD>          
+          <TD><%=requests[i].truegrade%></TD>         
           <TD>Error= <%=requests[i].err%></TD>
           <%}
           %>
