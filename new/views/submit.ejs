@@ -37,10 +37,11 @@
       <form>
         <TABLE class="highlight" BORDER=1>
         <TR>
+        <TD>Rank</TD>
         <TD>Subject</TD>
         <TD>Predicted Grade </TD>
         <TD>Actual Grade</TD>
-        <TD>Absolute Error</TD>
+        <TD>Remarks</TD>
       
         </TR>
         <%
@@ -49,10 +50,25 @@
         {
           %>
           <TR>
+          <TD><%=i+1%></TD>
           <TD><%=requests[i].subj%></TD>
           <TD><%=requests[i].predgrade%></TD>
+          <%if (requests[i].truegrade==0){%>
+          <TD>NA</TD>
+          <%}
+          else
+          {%>
           <TD><%=requests[i].truegrade%></TD>
-          <TD><%=requests[i].err%></TD>
+          <%}
+          %>
+          <%if (requests[i].truegrade==0){%>
+          <TD>New course recommneded</TD>
+          <%}
+          else
+          {%>
+          <TD>Error= <%=requests[i].err%></TD>
+          <%}
+          %>
       </TR>
             <%
         }
