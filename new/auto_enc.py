@@ -131,13 +131,22 @@ def train_auto(nb_epoch = 10, test_p = 0.1, nb_hunits = 10, lambda_reg = 0.001, 
 
     mlist=[]
     c=0
-    for s in sorted_arr[:10]:
-        dict={}          
-        dict['subj']=s[0]
-        dict['predgrade']=s[1]
-        dict['truegrade']=s[2]
-        dict['err']=s[3]
-        mlist.append(dict)
+    for s in sorted_arr:
+        if s[2]==0 and len(mlist)<5:
+            dict={}          
+            dict['subj']=s[0]
+            dict['predgrade']=s[1]
+            dict['truegrade']=s[2]
+            dict['err']=s[3]
+            mlist.append(dict)
+    for s in sorted_arr:
+        if s[2]!=0 and len(mlist)<10:
+            dict={}          
+            dict['subj']=s[0]
+            dict['predgrade']=s[1]
+            dict['truegrade']=s[2]
+            dict['err']=s[3]
+            mlist.append(dict)
 
     return json.dumps(mlist)
     # return minnmae,minnrmse
