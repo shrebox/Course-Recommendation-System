@@ -108,20 +108,24 @@ def train_auto(nb_epoch = 10, test_p = 0.1, nb_hunits = 10, lambda_reg = 0.001, 
             mainlist.append(subj)
     
     mainlist.sort()
-    for useri in range(len(minnprediction_Mmae)):
-        user=minnprediction_Mmae[useri]
-        for subji in range(user.shape[0]):
-            subj=user[subji]
-            if subji in subj_sem_mapping and semester in subj_sem_mapping[subji]:
-                pg=abs(10*(subj-mainlist[0])/((mainlist[-1]-mainlist[0])*1.0))  
-                if (useri,subji) in test_data: 
-                                    
-                    ag=test_data[(useri,subji)]
-                    arr.append((subj_id_mapping[subji],pg,ag,abs(pg-ag)))
-                else:
-                   
-                    ag=train_data[(useri,subji)]
-                    arr.append((subj_id_mapping[subji],pg,ag,abs(pg-ag)))
+   
+    useri=userid-1
+    user=minnprediction_Mmae[userid-1]
+    for subji in range(user.shape[0]):
+        subj=user[subji]
+        if subji in subj_sem_mapping and semester in subj_sem_mapping[subji]:
+            pg=abs(10*(subj-mainlist[0])/((mainlist[-1]-mainlist[0])*1.0))             
+        
+            if (useri,subji) in test_data: 
+                                
+                ag=test_data[(useri,subji)]
+                arr.append((subj_id_mapping[subji],pg,ag,abs(pg-ag)))
+            else:
+               
+                ag=train_data[(useri,subji)]
+                arr.append((subj_id_mapping[subji],pg,ag,abs(pg-ag)))
+
+    
 
     sorted_arr=sorted(arr, key=lambda x: x[1],reverse=True)
 
