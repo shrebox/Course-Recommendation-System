@@ -9,8 +9,18 @@
 <html>
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
- 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+  
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+  <!-- Latest compiled JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+  <link rel="scripttylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
@@ -33,10 +43,18 @@
 </head>
 <body>
   <div class="container">
-    <div class="home card-panel">
-      <form>
-         New Courses
-        <TABLE class="highlight" BORDER=1>
+    <ul class="nav nav-tabs">
+      <li class="active"><a data-toggle="tab" href="#home">Recommended Courses</a></li>
+      <li><a data-toggle="tab" href="#menu1">Evaluation</a></li>
+ 
+    </ul>
+
+    <div class="tab-content">
+    <div id="home" class="tab-pane fade in active">
+      <h3>Recommended Courses</h3>
+      <p>
+
+            <TABLE class="table table-striped table-bordered highlight" BORDER=1>
         <TR>
         <TD>Rank</TD>
         <TD>Subject</TD>
@@ -46,13 +64,15 @@
       
         </TR>
         <%
-
+        c=0
         for (var i=0;i<requests.length;i++)
         {
           %>
           <TR>
-          <%if (requests[i].truegrade==0){%>
-          <TD><%=i+1%></TD>
+          <%if (requests[i].truegrade==0){
+          c=c+1
+          %>
+          <TD><%=c%></TD>
           <TD><%=requests[i].subj%></TD>
           <TD><%=requests[i].predgrade%></TD>
           <TD>NA</TD>
@@ -64,19 +84,15 @@
         }
         %>
       </TABLE>
-      
-    </form>
     
+
+      </p>
     </div>
-  </div>
+    <div id="menu1" class="tab-pane fade">
+      <h3>Evaluation</h3>
+      <p>
 
-
-
-  <div class="container">
-    <div class="home card-panel">
-      <form>
-        Evaluated Courses
-        <TABLE class="highlight" BORDER=1>
+      <TABLE class="table table-striped table-bordered highlight" BORDER=1>
         <TR>
         <TD>Rank</TD>
         <TD>Subject</TD>
@@ -86,13 +102,15 @@
       
         </TR>
         <%
-
+        c=0
         for (var i=0;i<requests.length;i++)
         {
           %>
           <TR>
-          <%if (requests[i].truegrade!=0){%>
-          <TD><%=i+1%></TD>
+          <%if (requests[i].truegrade!=0){
+          c=c+1
+          %>
+          <TD><%=c%></TD>
           <TD><%=requests[i].subj%></TD>
           <TD><%=requests[i].predgrade%></TD>          
           <TD><%=requests[i].truegrade%></TD>         
@@ -105,10 +123,15 @@
         %>
       </TABLE>
       
-    </form>
+
+      </p>
+    </div>
     
     </div>
-  </div>
+
+
+
+
   <script
   src="https://code.jquery.com/jquery-3.2.1.min.js"
   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
