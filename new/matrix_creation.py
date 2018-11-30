@@ -49,12 +49,12 @@ def get_data():
                     if int(data[d][dd]['grade'])>maxx[(d-1,mapping_subj[dd])]:
                         maxx[(d-1,mapping_subj[dd])]=int(data[d][dd]['grade'])
                 
-                if int(data[d][dd]['semester'])!=0 and int(data[d][dd]['semester'])>=5 and int(data[d][dd]['semester'])<=8:
+                if int(data[d][dd]['semester'])!=0 and int(data[d][dd]['semester'])<=8:
                     subj_sem_mapping[mapping_subj[dd]].add(int(data[d][dd]['semester']))                
                 
                
                       
-     
+    
     for d in data:
       
         if d>=517:
@@ -66,6 +66,8 @@ def get_data():
                             test_data[(d-1,mapping_subj[dd])]=maxx[(d-1,mapping_subj[dd])]
                             test_matrix[d-1,mapping_subj[dd]]=maxx[(d-1,mapping_subj[dd])]
                             test_grades.append((d-1,mapping_subj[dd],maxx[(d-1,mapping_subj[dd])]))
+                            
+                        
                     else:
                         if (d-1,mapping_subj[dd]) not in train_data and len(subj_sem_mapping[mapping_subj[dd]])!=0:
                             train_data[(d-1,mapping_subj[dd])]=maxx[(d-1,mapping_subj[dd])]
@@ -95,7 +97,6 @@ def get_data():
     # for item in test_data:
     #     filew.write(str(item[0])+"\t"+str(item[1])+"\t"+str(test_data[item])+"\n")
     # filew.close()
-
     return train_matrix, test_matrix, train_grades, test_grades, train_data, test_data, train_matrix.shape[0],train_matrix.shape[1]
 
 get_data()
