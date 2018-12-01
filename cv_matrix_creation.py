@@ -53,11 +53,9 @@ def get_data():
                     subj_sem_mapping[mapping_subj[dd]].add(int(data[d][dd]['semester']))                
                 
                
-                      
-    
+    # 1 152 153 299 300 446 447 593 594 739               
     for d in data:
-      
-        if d>=636:
+        if d>=594 and d<=739:
             for dd in data[d]:
                           
                 if dd in mapping_subj:
@@ -99,7 +97,7 @@ def get_data():
     # filew.close()
     return train_matrix, test_matrix, train_grades, test_grades, train_data, test_data, train_matrix.shape[0],train_matrix.shape[1]
 
-get_data()
+# get_data()
 
 # max grade taken
 # sem only <=8
