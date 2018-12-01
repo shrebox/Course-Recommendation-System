@@ -48,7 +48,6 @@ def train_auto(nb_epoch = 10, test_p = 0.1, nb_hunits = 10, lambda_reg = 0.001, 
 
     train_M=train_M.T
     prediction_M = np.zeros((nb_movies, nb_users), dtype = np.float32)
-    RMSE_list = [0] * nb_epoch
 
     # set up theano autoencoder structure and update function
     X = T.dvector("input")
