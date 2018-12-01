@@ -34,7 +34,7 @@ def mean_rating2(user_movies_matrix,user):
 	return meanadd	
 
 # files = [1,2,3,4,5]
-kvals = [50]
+kvals = [10,20,30,40,50]
 
 for k_index in range(len(kvals)):
 	print "\n"
