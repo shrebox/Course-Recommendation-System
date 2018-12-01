@@ -24,7 +24,7 @@ def cal_MAE(prediction_M, test_ratings,mainlist):
     return MAE
 
 def train_auto(nb_epoch = 10, test_p = 0.1, nb_hunits = 10, lambda_reg = 0.001, learningrate = 0.01,userid=1,semester=5):
-    train_M, _, k, test_ratings,train_data,test_data, nb_users, nb_movies = get_data()
+    train_M, _, k, test_ratings,train_data,test_data, nb_users, nb_items = get_data()
 
 
     with open('train_dic_with_sem.pkl','rb') as f:
@@ -47,7 +47,7 @@ def train_auto(nb_epoch = 10, test_p = 0.1, nb_hunits = 10, lambda_reg = 0.001, 
     filer.close()
 
     train_M=train_M.T
-    prediction_M = np.zeros((nb_movies, nb_users), dtype = np.float32)
+    prediction_M = np.zeros((nb_items, nb_users), dtype = np.float32)
 
     flag = 0
     # set up theano autoencoder structure and update function
@@ -68,7 +68,7 @@ def train_auto(nb_epoch = 10, test_p = 0.1, nb_hunits = 10, lambda_reg = 0.001, 
     z1 = T.nnet.sigmoid(V.dot(X) + miu)
     z2 = W.dot(z1) + b
     update_completed+=1
-    loss_reg = 1.0/nb_movies * lambda_reg/2 * (T.sum(T.sqr(V)) + T.sum(T.sqr(W)))
+    loss_reg = 1.0/nb_items * lambda_reg/2 * (T.sum(T.sqr(V)) + T.sum(T.sqr(W)))
     update = loss_reg
     loss = T.sum(T.sqr((X - z2) * X_observed)) + loss_reg
     flag+=1
@@ -87,7 +87,7 @@ def train_auto(nb_epoch = 10, test_p = 0.1, nb_hunits = 10, lambda_reg = 0.001, 
     for j in range(nb_epoch):
         # print(str(j + 1) + " epoch")
         flag = 0
-        for i in np.random.permutation(nb_movies):
+        for i in np.random.permutation(nb_items):
             flag+=1
             Ri = train_M[i, :]
             Ri_observed = Ri.copy()
