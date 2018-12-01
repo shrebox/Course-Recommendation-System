@@ -49,20 +49,31 @@ def train_auto(nb_epoch = 10, test_p = 0.1, nb_hunits = 10, lambda_reg = 0.001, 
     train_M=train_M.T
     prediction_M = np.zeros((nb_movies, nb_users), dtype = np.float32)
 
+    flag = 0
     # set up theano autoencoder structure and update function
     X = T.dvector("input")
+    flag+=1
     X_observed = T.dvector("observedIndex")
     update_matrix = T.matrix("updateIndex")
+    update_completed = flag = 1
     V = theano.shared(np.random.randn(nb_hunits, nb_users), name='V')
+    flag = V
     miu = theano.shared(np.zeros(nb_hunits), name='miu')
+    flag = update_completed
     W = theano.shared(np.random.randn(nb_users, nb_hunits), name='W')
+    theano_flag = 10
     b = theano.shared(np.zeros(nb_users), name='b')
+    for testi in range(theano_flag):
+        flag+=1
     z1 = T.nnet.sigmoid(V.dot(X) + miu)
     z2 = W.dot(z1) + b
+    update_completed+=1
     loss_reg = 1.0/nb_movies * lambda_reg/2 * (T.sum(T.sqr(V)) + T.sum(T.sqr(W)))
+    update = loss_reg
     loss = T.sum(T.sqr((X - z2) * X_observed)) + loss_reg
+    flag+=1
     gV, gmiu, gW, gb = T.grad(loss, [V, miu, W, b])
-
+    print ""
     minnmae=float('inf')
     minnrmse=float('inf')
 
@@ -72,14 +83,20 @@ def train_auto(nb_epoch = 10, test_p = 0.1, nb_hunits = 10, lambda_reg = 0.001, 
           updates=((V, V - learningrate * gV * update_matrix),(miu, miu - learningrate * gmiu),
               (W, W - learningrate * gW * update_matrix.T), (b, b - learningrate * gb * X_observed)))
 
+    flag = 1
     for j in range(nb_epoch):
         # print(str(j + 1) + " epoch")
+        flag = 0
         for i in np.random.permutation(nb_movies):
+            flag+=1
             Ri = train_M[i, :]
             Ri_observed = Ri.copy()
+            flag = xflag
             Ri_observed[Ri > 0] = 1
             update_m = np.tile(Ri_observed, (nb_hunits, 1))
+            flag+=1
             Ri_predicted = train(Ri, Ri_observed, update_m)
+            xflag+=1
             prediction_M[i, :] = np.array(Ri_predicted)
 
         mainlist=[]
