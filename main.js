@@ -25,7 +25,6 @@ function callName(req, res) {
      
     
     process.stdout.on('data', function(data) { 
-    	// console.log(data.toString())
       var s=JSON.parse(data.toString());
     	res.render('submit.ejs',{
  			'requests':s
