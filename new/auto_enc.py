@@ -166,7 +166,7 @@ def train_auto(nb_epoch = 10, test_p = 0.1, nb_hunits = 10, lambda_reg = 0.001, 
 
     return json.dumps(mlist)
     # return minnmae,minnrmse
-print(train_auto(userid=1,semester=5))
+print(train_auto(userid=int(sys.argv[1].strip()),semester=int(sys.argv[2].strip())))
 
 
 #https://github.com/HeXie-Tufts/Movie-Rating-Prediction-Autoencoder
