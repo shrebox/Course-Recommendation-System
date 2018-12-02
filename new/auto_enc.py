@@ -100,7 +100,7 @@ def train_auto(nb_epoch = 10, test_p = 0.1, nb_hunits = 10, lambda_reg = 0.001, 
             prediction_M[i, :] = np.array(Ri_predicted)
 
         mainlist=[]
-        for user in prediction_M:
+        for user in prediction_M.T:
             for subji in range(user.shape[0]):
                 subj=user[subji]
                 mainlist.append(subj)
