@@ -23,7 +23,7 @@ def cal_MAE(prediction_M, test_ratings,mainlist):
     MAE = math.sqrt(MAE / len(test_ratings))
     return MAE
 
-def train_auto(nb_epoch = 10, test_p = 0.1, nb_hunits = 10, lambda_reg = 0.001, learningrate = 0.01,userid=1,semester=5):
+def train_auto(nb_epoch = 100, test_p = 0.1, nb_hunits = 10, lambda_reg = 0.001, learningrate = 0.01,userid=1,semester=5):
     train_M, _, k, test_ratings,train_data,test_data, nb_users, nb_items = get_data()
 
 
