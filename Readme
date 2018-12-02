@@ -18,4 +18,4 @@
 
 *  matrix_creation.py is used to import the data into different models. Used as an import file.
 
-* Packages need to be installed: LightFM, sklearn, theano, pandas, numpy, scipy.
+* Packages need to be installed: LightFM, sklearn, theano, pandas, numpy, scipy, npm (express, body-parser and ejs modules for nodejs).
