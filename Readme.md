@@ -1,6 +1,6 @@
 # Course Recommendation System
 
-Report available at: https://www.overleaf.com/read/fwmrcwxwpkck
+Detailed report available at: https://www.overleaf.com/read/fwmrcwxwpkck
 
 #### For running individual models
 
