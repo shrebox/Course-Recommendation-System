@@ -2,6 +2,8 @@
 
 Detailed report available at: https://www.overleaf.com/read/fwmrcwxwpkck
 
+A system that will help in a personalized recommendation of courses for an upcoming semester based on the performance of previous semesters.
+
 #### For running individual models
 
 1. User Based: $ python user.py	
