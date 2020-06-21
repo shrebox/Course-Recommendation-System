@@ -2,7 +2,7 @@
 
 Report available at: https://www.overleaf.com/read/fwmrcwxwpkck
 
-> For running individual models
+#### For running individual models
 
 1. User Based: $ python user.py	
 2. Item Based: $ python item.py
@@ -12,7 +12,7 @@ Report available at: https://www.overleaf.com/read/fwmrcwxwpkck
 
 It will return top 5 recommended courses and their grades. Also it will return top 5 courses that are compared with ground truth.
 
-> For running the web app locally on your system do
+#### For running the web app locally on your system do
 1. node main.js 
 2. Go to the browser and browse http://localhost:3000/
 3. Enter the student ID and Semester for which you want top 5 courses alongwith their the grades.
