@@ -6,11 +6,11 @@ A system that will help in a personalized recommendation of courses for an upcom
 
 #### For running individual models
 
-1. User Based: $ python user.py	
-2. Item Based: $ python item.py
-3. Warp MF: $ python hmf_warp_log.py
-4. Logistic MF: $ python hmf_warp_log.py
-5. Auto encoders: $ python auto_enc.py
+1. User Based: ```$ python user.py```	
+2. Item Based: ```$ python item.py```
+3. Warp MF: ```$ python hmf_warp_log.py```
+4. Logistic MF: ```$ python hmf_warp_log.py```
+5. Auto encoders: ```$ python auto_enc.py```
 
 It will return top 5 recommended courses and their grades. Also it will return top 5 courses that are compared with ground truth.
 
