@@ -15,8 +15,8 @@ A system that will help in a personalized recommendation of courses for an upcom
 It will return top 5 recommended courses and their grades. Also it will return top 5 courses that are compared with ground truth.
 
 #### For running the web app locally on your system do
-1. node main.js 
-2. Go to the browser and browse http://localhost:3000/
+1. ```node main.js``` 
+2. Go to the browser and browse ```http://localhost:3000/```
 3. Enter the student ID and Semester for which you want top 5 courses alongwith their the grades.
 
 matrix_creation.py is used to import the data into different models. Used as an import file.
