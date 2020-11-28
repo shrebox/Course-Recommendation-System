@@ -1,6 +1,6 @@
 # Course Recommendation System
 
-Detailed report available at: https://www.overleaf.com/read/fwmrcwxwpkck
+Detailed report available [here](https://www.researchgate.net/publication/346444042_Course_Recommendation_System_-_IIIT_Delhi)!
 
 A system that will help in a personalized recommendation of courses for an upcoming semester based on the performance of previous semesters.
 
