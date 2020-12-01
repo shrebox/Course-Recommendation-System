@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.13140/RG.2.2.31136.00002.svg)](https://www.researchgate.net/deref/http%3A%2F%2Fdx.doi.org%2F10.13140%2FRG.2.2.31136.00002?_sg%5B0%5D=dGDt4frFVd1t_9aDWYSvrmSBsxqnZUcqDp4lYEJ6S9fd8VtUuk0kPYjLUZAE5gK5J8Pi50lREe1EzdgrJl9KMJBuVQ.q9s8sDCNuj_qKvpK1BdrzfUvpPHm77rSKV_9EZijDckLmkS0Iho0LixGtgSusvxlNfFtK9MvE6gJxZpDnQnxVw)
 # Course Recommendation System
 
 Detailed report available [here](https://www.researchgate.net/publication/346444042_Course_Recommendation_System_-_IIIT_Delhi)!
